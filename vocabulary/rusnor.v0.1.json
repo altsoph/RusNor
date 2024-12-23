@@ -1,0 +1,9642 @@
+[
+  {
+    "entity": {
+      "english": "I, me",
+      "russian": "я/мой",
+      "norwegian": "jeg"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "pronoun",
+    "notes": [
+      "Predominantly uses Russian-based form 'moja', likely influenced by Russian 'моя'",
+      "Clearly from Russian, but used more flexibly than in Russian",
+      "likely derived from Russian мой/моя with grammaticalization"
+    ],
+    "variants": [
+      {
+        "word": "mi",
+        "origin": [
+          {
+            "lang": "English",
+            "word": "me"
+          }
+        ]
+      },
+      {
+        "word": "ja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "я"
+          }
+        ]
+      },
+      {
+        "word": "måja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "моя"
+          }
+        ]
+      },
+      {
+        "word": "moj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мой"
+          }
+        ]
+      },
+      {
+        "word": "måje",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мое"
+          }
+        ]
+      },
+      {
+        "word": "moja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "моя"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Norway",
+      "russian": "Норвегия",
+      "norwegian": "Norge"
+    },
+    "classes": [
+      "toponym",
+      "proper name"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Uses Norwegian form of the country name"
+    ],
+    "variants": [
+      {
+        "word": "Norge",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "Norge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Norwegian",
+      "russian": "норвежский",
+      "norwegian": "norsk"
+    },
+    "classes": [
+      "toponym",
+      "proper name"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "clearly derived from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "norsk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "norsk"
+          }
+        ]
+      },
+      {
+        "word": "norske",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "norsk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Russia",
+      "russian": "Россия",
+      "norwegian": "Russland"
+    },
+    "classes": [
+      "toponym",
+      "proper name"
+    ],
+    "pos": "noun",
+    "notes": [
+      ""
+    ],
+    "variants": [
+      {
+        "word": "Rusleien",
+        "origin": []
+      },
+      {
+        "word": "Russlann",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "Russland"
+          }
+        ]
+      },
+      {
+        "word": "Rosland",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "Russland"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Russian (person/language)",
+      "russian": "русский человек",
+      "norwegian": "russer"
+    },
+    "classes": [
+      "social",
+      "proper name"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Compound word combining 'russ' (Russian) + 'mann' (man)"
+    ],
+    "variants": [
+      {
+        "word": "russemann",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "russ+mann"
+          }
+        ]
+      },
+      {
+        "word": "rusman",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "russ+mann"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Russian people",
+      "russian": "русские",
+      "norwegian": "russere"
+    },
+    "classes": [
+      "social",
+      "proper name"
+    ],
+    "pos": "noun",
+    "notes": [
+      "compound from 'russe' (Russian) + Norwegian 'folk' (people)",
+      "compound word from Norwegian 'russe' + 'folk'"
+    ],
+    "variants": [
+      {
+        "word": "russefolk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "russe+folk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Sami person",
+      "russian": "саам, лопарь",
+      "norwegian": "same, finn"
+    },
+    "classes": [
+      "social",
+      "proper name"
+    ],
+    "pos": "noun",
+    "notes": [
+      "refers specifically to indigenous Sami people"
+    ],
+    "variants": [
+      {
+        "word": "filman",
+        "origin": [
+          {
+            "lang": "Norwegian?",
+            "word": "fil+man"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Sunday",
+      "russian": "воскресенье",
+      "norwegian": "søndag"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "direct borrowing from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "søndag",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "søndag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Tromsø",
+      "russian": "Тромсё",
+      "norwegian": "Tromsø"
+    },
+    "classes": [
+      "toponym",
+      "proper name"
+    ],
+    "pos": "proper noun",
+    "notes": [
+      "Norwegian place name, preserved in Russenorsk with minimal changes"
+    ],
+    "variants": [
+      {
+        "word": "Troms",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "Troms"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "anchor",
+      "russian": "якорь",
+      "norwegian": "dregg"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "from Norwegian 'dregg'"
+    ],
+    "variants": [
+      {
+        "word": "dregg",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dregg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "and",
+      "russian": "и",
+      "norwegian": "og"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "conjunction",
+    "notes": [],
+    "variants": [
+      {
+        "word": "og",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?og"
+          }
+        ]
+      },
+      {
+        "word": "saa",
+        "origin": []
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "angry",
+      "russian": "сердитый",
+      "norwegian": "sint, vred"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Multiple variants all derived from Norwegian 'vred'"
+    ],
+    "variants": [
+      {
+        "word": "vred",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vred"
+          }
+        ]
+      },
+      {
+        "word": "vrei",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vred"
+          }
+        ]
+      },
+      {
+        "word": "vre",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vred"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "other, another",
+      "russian": "другой",
+      "norwegian": "annen"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Shows clear parallel existence of both Russian and Norwegian derived forms"
+    ],
+    "variants": [
+      {
+        "word": "drogoj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "другой"
+          }
+        ]
+      },
+      {
+        "word": "ander",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "ander"
+          }
+        ]
+      },
+      {
+        "word": "andre",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "ander"
+          }
+        ]
+      },
+      {
+        "word": "anner",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "annen"
+          }
+        ]
+      },
+      {
+        "word": "droggi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "другой"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "apron",
+      "russian": "фартук",
+      "norwegian": "forkle"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Possibly related to Russian 'платок' (scarf)"
+    ],
+    "variants": [
+      {
+        "word": "platka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "платок"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "at, by",
+      "russian": "у, при",
+      "norwegian": "hos"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "preposition",
+    "notes": [
+      "clearly from Norwegian 'hos'"
+    ],
+    "variants": [
+      {
+        "word": "hos",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "bad",
+      "russian": "плохой",
+      "norwegian": "dårlig"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Both Russian and Norwegian variants are preserved in the pidgin"
+    ],
+    "variants": [
+      {
+        "word": "propal",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пропал"
+          }
+        ]
+      },
+      {
+        "word": "dårlig",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dårlig"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sack, bag",
+      "russian": "мешок",
+      "norwegian": "sekk"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian 'мешок'"
+    ],
+    "variants": [
+      {
+        "word": "meska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мешок"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "barrel",
+      "russian": "бочка",
+      "norwegian": "tønne"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "unclear"
+    ],
+    "variants": [
+      {
+        "word": "tresjanka",
+        "origin": []
+      },
+      {
+        "word": "tunna",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "tønne"
+          }
+        ]
+      },
+      {
+        "word": "bolika",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "бочка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "bear meat",
+      "russian": "медвежатина",
+      "norwegian": "bjørnekjøtt"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clearly from Norwegian 'bjørn' (bear) + 'mad' (food)"
+    ],
+    "variants": [
+      {
+        "word": "biønemad",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bjørne mad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "become, will be",
+      "russian": "стать, будет",
+      "norwegian": "bli"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clear Norwegian origin from 'bli'"
+    ],
+    "variants": [
+      {
+        "word": "blir",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bli"
+          }
+        ]
+      },
+      {
+        "word": "bli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bli"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "bed",
+      "russian": "постель",
+      "norwegian": "seng"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "derived from Russian 'постель'"
+    ],
+    "variants": [
+      {
+        "word": "postella",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "постель"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "beef",
+      "russian": "говядина",
+      "norwegian": "oksekjøtt"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clearly from Russian говядина"
+    ],
+    "variants": [
+      {
+        "word": "govedina",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "говядина"
+          }
+        ]
+      },
+      {
+        "word": "govedna",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "говядина"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "beer",
+      "russian": "квас",
+      "norwegian": "øl"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "direct borrowing from Russian квас"
+    ],
+    "variants": [
+      {
+        "word": "kvas",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "квас"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "better",
+      "russian": "лучше",
+      "norwegian": "bedre"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "often used in comparative constructions, English/Germanic?"
+    ],
+    "variants": [
+      {
+        "word": "better",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bedre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "more",
+      "russian": "больше",
+      "norwegian": "mer"
+    },
+    "classes": [
+      "number",
+      "basic",
+      "sales"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Comparative forms, likely from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "mera",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mer"
+          }
+        ]
+      },
+      {
+        "word": "mere",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "very, much, big",
+      "russian": "большой",
+      "norwegian": "stor"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Two variants used interchangeably - one clearly from Russian 'большой'",
+      "grot might be related to German groß or similar Germanic root"
+    ],
+    "variants": [
+      {
+        "word": "bolsa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "большой"
+          }
+        ]
+      },
+      {
+        "word": "grot",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "grot"
+          }
+        ]
+      },
+      {
+        "word": "bolsjoi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "большой"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "birch bark",
+      "russian": "береста",
+      "norwegian": "never"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Direct borrowing from Russian береста"
+    ],
+    "variants": [
+      {
+        "word": "beresta",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "береста"
+          }
+        ]
+      },
+      {
+        "word": "bersta",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "береста"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "board, plank",
+      "russian": "доска, планка",
+      "norwegian": "planke"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "appears in trading contexts"
+    ],
+    "variants": [
+      {
+        "word": "planka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "планка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "boots",
+      "russian": "сапоги",
+      "norwegian": "støvler"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clearly derived from Russian 'sapogi'"
+    ],
+    "variants": [
+      {
+        "word": "sabagof",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "?сапоги"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "chest, box",
+      "russian": "сундук",
+      "norwegian": "skrin"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian сундук with vowel changes"
+    ],
+    "variants": [
+      {
+        "word": "sondok",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сундук"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "boy",
+      "russian": "мальчик",
+      "norwegian": "gutt"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Germanic 'junga'",
+      "From Proto-Finnic 'poika'",
+      "Both Russian and Norwegian variants are preserved in the pidgin"
+    ],
+    "variants": [
+      {
+        "word": "pojka",
+        "origin": [
+          {
+            "lang": "Proto-Finnic",
+            "word": "poika"
+          }
+        ]
+      },
+      {
+        "word": "junka",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "junga"
+          }
+        ]
+      },
+      {
+        "word": "malenka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "маленький"
+          }
+        ]
+      },
+      {
+        "word": "malinka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "маленький"
+          }
+        ]
+      },
+      {
+        "word": "jonka",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "junga"
+          }
+        ]
+      },
+      {
+        "word": "junga",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "junga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "bread",
+      "russian": "хлеб",
+      "norwegian": "brød"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "appears to be derived from Russian with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "kleba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "хлеб"
+          }
+        ]
+      },
+      {
+        "word": "klæba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "хлеб"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "bread cracker",
+      "russian": "сухарь",
+      "norwegian": "kavring"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "appears to be derived from Russian with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "sukkari",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сухари"
+          }
+        ]
+      },
+      {
+        "word": "sokkari",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сухари"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "brew (tea/coffee)",
+      "russian": "заваривать",
+      "norwegian": "brygge"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "likely from Norwegian 'brygge' with vowel modification"
+    ],
+    "variants": [
+      {
+        "word": "broga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "brygge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "brother",
+      "russian": "брат",
+      "norwegian": "bror"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      "seems like borrowing from Russian брат, but both are close enough"
+    ],
+    "variants": [
+      {
+        "word": "brat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "брат"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "ship's cabin, bunk",
+      "russian": "койка",
+      "norwegian": "køye"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "likely from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "koia",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "койка"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "køye"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "burbot (fish)",
+      "russian": "налим",
+      "norwegian": "brosme"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "from Norwegian 'brosme' with slight modification"
+    ],
+    "variants": [
+      {
+        "word": "brosma",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "brosme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "but",
+      "russian": "но",
+      "norwegian": "men"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "conjunction",
+    "notes": [
+      "Direct borrowing from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "men",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "men"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "butter",
+      "russian": "масло",
+      "norwegian": "smør"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Russian origin, from масло with typical metathesis in one variant"
+    ],
+    "variants": [
+      {
+        "word": "marsla",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "масло"
+          }
+        ]
+      },
+      {
+        "word": "masla",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "масло"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cabin",
+      "russian": "каюта",
+      "norwegian": "kahytt"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "In Russian it is borrowing from Germanic"
+    ],
+    "variants": [
+      {
+        "word": "kahytt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kahytt"
+          }
+        ]
+      },
+      {
+        "word": "kajyt",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "каюта"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "kahytt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "rope, cable",
+      "russian": "верёвка, трос",
+      "norwegian": "tau, line"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Multiple variants exist for this important maritime term"
+    ],
+    "variants": [
+      {
+        "word": "tros",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "трос"
+          }
+        ]
+      },
+      {
+        "word": "trosa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "трос"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cake, cookie",
+      "russian": "пряник",
+      "norwegian": "kake"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "from Russian пряник (gingerbread)"
+    ],
+    "variants": [
+      {
+        "word": "prennik",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пряник"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "candy",
+      "russian": "конфеты",
+      "norwegian": "sukkertøy"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Likely from French 'bonbon', ?came through Russian"
+    ],
+    "variants": [
+      {
+        "word": "bån-bån",
+        "origin": []
+      },
+      {
+        "word": "bong-bong",
+        "origin": []
+      },
+      {
+        "word": "bon-bon",
+        "origin": []
+      },
+      {
+        "word": "bom-bom",
+        "origin": []
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "captain",
+      "russian": "капитан",
+      "norwegian": "kaptein"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both Russian and Norwegian variants were used, plus the formal 'principal'",
+      "Multiple terms used, including 'principal' which seems to be from Norwegian/English"
+    ],
+    "variants": [
+      {
+        "word": "kapitan",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "капитан"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "kaptein"
+          }
+        ]
+      },
+      {
+        "word": "principal",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "principal"
+          }
+        ]
+      },
+      {
+        "word": "kapitån",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "капитан"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "kaptein"
+          }
+        ]
+      },
+      {
+        "word": "kaptein",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "капитан"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "kaptein"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "catfish",
+      "russian": "зубатка",
+      "norwegian": "steinbit"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both Russian and Norwegian variants were used",
+      "Interesting case where Russian 'sobaka' (dog) is used for this fish, possibly due to its appearance."
+    ],
+    "variants": [
+      {
+        "word": "stembit",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "steinbit"
+          }
+        ]
+      },
+      {
+        "word": "subaka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "зубатка/собака"
+          }
+        ]
+      },
+      {
+        "word": "sobaka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "собака"
+          }
+        ]
+      },
+      {
+        "word": "subadtka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "зубатка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "feast, party, celebration",
+      "russian": "праздник, пир",
+      "norwegian": "gjestebud, fest"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "prasnik clearly comes from Russian праздник, while campanje appears to be from Norwegian/Germanic languages"
+    ],
+    "variants": [
+      {
+        "word": "prasnik",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "праздник"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "groats, cereal",
+      "russian": "крупа",
+      "norwegian": "gryn"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian 'крупа'"
+    ],
+    "variants": [
+      {
+        "word": "kroba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "крупа"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cheap",
+      "russian": "дешёвый",
+      "norwegian": "billig"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Has variants from both source languages"
+    ],
+    "variants": [
+      {
+        "word": "billi",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "billig"
+          }
+        ]
+      },
+      {
+        "word": "desjevli",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дешёвый"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "children",
+      "russian": "дети, ребята",
+      "norwegian": "barn"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian 'ребята'"
+    ],
+    "variants": [
+      {
+        "word": "rebeta",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "ребята"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "church",
+      "russian": "церковь",
+      "norwegian": "kirke"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      ""
+    ],
+    "variants": [
+      {
+        "word": "kjerka",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kirke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "clock, time",
+      "russian": "часы, время",
+      "norwegian": "klokke"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clearly borrowed from Norwegian 'klokke'. Used both for the physical object and asking time."
+    ],
+    "variants": [
+      {
+        "word": "klokka",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "klokke"
+          }
+        ]
+      },
+      {
+        "word": "klokk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "klokke"
+          }
+        ]
+      },
+      {
+        "word": "klok",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "klokke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cod",
+      "russian": "треска",
+      "norwegian": "torsk"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both Russian and Norwegian variants are clearly identifiable",
+      "One of the most frequent words in the corpus, clearly from Russian треска. Core trade item."
+    ],
+    "variants": [
+      {
+        "word": "treski",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "треска"
+          }
+        ]
+      },
+      {
+        "word": "tosk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "torsk"
+          }
+        ]
+      },
+      {
+        "word": "træska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "треска"
+          }
+        ]
+      },
+      {
+        "word": "treska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "треска"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "company, fellowship",
+      "russian": "компания, общество",
+      "norwegian": "selskap"
+    },
+    "classes": [
+      "social"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Used in social contexts, clearly borrowed from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "selskap",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "selskap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "friend, comrade",
+      "russian": "товарищ, друг",
+      "norwegian": "kamerat, venn"
+    },
+    "classes": [
+      "social",
+      "greetings"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both variants appear to be from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "venn",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "venn"
+          }
+        ]
+      },
+      {
+        "word": "kamerat",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kamerat"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "consul",
+      "russian": "консул",
+      "norwegian": "konsul"
+    },
+    "classes": [
+      "social"
+    ],
+    "pos": "noun",
+    "notes": [
+      "International word, difficult to determine specific language of origin in this context",
+      "Clear borrowing present in both source languages, with Russian variant showing vowel lengthening"
+    ],
+    "variants": [
+      {
+        "word": "kaansul",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "konnsul"
+          }
+        ]
+      },
+      {
+        "word": "konsul",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "konnsul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cook boy",
+      "russian": "юнга, поварёнок",
+      "norwegian": "kokkedreng/kokkgutt"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Refers specifically to boys aged 10-12 who worked as cook assistants on ships"
+    ],
+    "variants": [
+      {
+        "word": "soia",
+        "origin": []
+      },
+      {
+        "word": "konjunka",
+        "origin": []
+      },
+      {
+        "word": "soika",
+        "origin": []
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cow",
+      "russian": "корова",
+      "norwegian": "ku"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "ku",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "cowhide",
+      "russian": "коровья шкура",
+      "norwegian": "kuhud/ko skjorta"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "variants show phonetic adaptation of Norwegian compound"
+    ],
+    "variants": [
+      {
+        "word": "kuaskjorta",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ko skjorta"
+          }
+        ]
+      },
+      {
+        "word": "kuasjorta",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ko skjorta"
+          }
+        ]
+      },
+      {
+        "word": "koskjorta",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ko skjorta"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "glass, cup",
+      "russian": "стакан, кружка",
+      "norwegian": "glass, krus"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Appears in phrases about drinking"
+    ],
+    "variants": [
+      {
+        "word": "glass",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "glass"
+          }
+        ]
+      },
+      {
+        "word": "kruski",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "кружка"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "krus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "currency unit (øre)",
+      "russian": "эре (денежная единица)",
+      "norwegian": "øre"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clearly borrowed from Norwegian currency unit"
+    ],
+    "variants": [
+      {
+        "word": "øre",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "øre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "customs house",
+      "russian": "таможня",
+      "norwegian": "tollbod"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clearly derived from Russian 'таможня'"
+    ],
+    "variants": [
+      {
+        "word": "damosna",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "таможня"
+          }
+        ]
+      },
+      {
+        "word": "dumosna",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "таможня"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "damage, harm",
+      "russian": "вред, ущерб",
+      "norwegian": "skade"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Often appears in phrase 'ikke skade' meaning 'no harm, it's okay'"
+    ],
+    "variants": [
+      {
+        "word": "skade",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "day",
+      "russian": "день",
+      "norwegian": "dag"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both Russian and Norwegian variants are present, with Norwegian form being more common in compounds"
+    ],
+    "variants": [
+      {
+        "word": "dag",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dag"
+          }
+        ]
+      },
+      {
+        "word": "den",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "день"
+          }
+        ]
+      },
+      {
+        "word": "daga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "day after tomorrow",
+      "russian": "послезавтра",
+      "norwegian": "i overmorgen"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "compound based on Norwegian 'morgen' (morning)"
+    ],
+    "variants": [
+      {
+        "word": "mårra-mårradag",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "morgen+morgen+dag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "dead, to die",
+      "russian": "умереть",
+      "norwegian": "død, å dø"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "verb, adjective",
+    "notes": [
+      "from Russian 'умер' (died/dead), appears in religious context"
+    ],
+    "variants": [
+      {
+        "word": "omer",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "умер"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "deck",
+      "russian": "палуба",
+      "norwegian": "dekk"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear parallel usage of both Russian and Norwegian terms"
+    ],
+    "variants": [
+      {
+        "word": "paluba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палуба"
+          }
+        ]
+      },
+      {
+        "word": "dekk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dekk"
+          }
+        ]
+      },
+      {
+        "word": "dæk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dekk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "dried cod",
+      "russian": "лабардан",
+      "norwegian": "klippfisk"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "specific term for dried cod without backbone"
+    ],
+    "variants": [
+      {
+        "word": "laberdan",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "лабардан"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "dried round fish",
+      "russian": "сушёная круглая рыба",
+      "norwegian": "tør rundfisk"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Important trading commodity, terminology derived from Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "runntofki",
+        "origin": []
+      },
+      {
+        "word": "run-tova",
+        "origin": []
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "drink",
+      "russian": "пить",
+      "norwegian": "drikke"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Appears to be primarily derived from Norwegian 'drikke' with characteristic -om verb ending"
+    ],
+    "variants": [
+      {
+        "word": "drikki",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "driki",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "trinke",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "trinkom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "drikkom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "drinkan",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "drinkom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      },
+      {
+        "word": "drikke",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "drikke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "drunk, intoxicated",
+      "russian": "пьяный",
+      "norwegian": "beruset"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Clearly from Russian пьяный. Appears in phrases like 'nokke lite pjan' (a little drunk)"
+    ],
+    "variants": [
+      {
+        "word": "pjan",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пьяный"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "eight",
+      "russian": "восемь",
+      "norwegian": "åtte"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "derived from Russian 'восемь' with simplified pronunciation",
+      "Clearly from Norwegian 'åtte'"
+    ],
+    "variants": [
+      {
+        "word": "vosom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "восемь"
+          }
+        ]
+      },
+      {
+        "word": "otte",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "åtte"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "eighteen",
+      "russian": "восемнадцать",
+      "norwegian": "atten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clear Russian origin with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "vosomnatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "восемнадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "eighty",
+      "russian": "восемьдесят",
+      "norwegian": "åtti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clear Russian origin with phonetic adaptation",
+      "Clear Russian origin, slightly modified pronunciation"
+    ],
+    "variants": [
+      {
+        "word": "vosomdisat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "восемьдесят"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "eleven",
+      "russian": "одиннадцать",
+      "norwegian": "elleve"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian одиннадцать with simplified pronunciation"
+    ],
+    "variants": [
+      {
+        "word": "odinatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "одиннадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "too much, excessive",
+      "russian": "слишком",
+      "norwegian": "for mye"
+    },
+    "classes": [
+      "sales",
+      "number"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Direct borrowing from Russian 'слишком'"
+    ],
+    "variants": [
+      {
+        "word": "sliskom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "слишком"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "exchange, trade",
+      "russian": "менять, обменивать",
+      "norwegian": "bytte"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "verb/noun",
+    "notes": [
+      "appears both as noun and verb forms"
+    ],
+    "variants": [
+      {
+        "word": "trokkom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "trukket"
+          }
+        ]
+      },
+      {
+        "word": "trokk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "trukket"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "expensive",
+      "russian": "дорогой, дорого",
+      "norwegian": "dyr"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Russian variants clearly derive from дорого/дорогой, Norwegian from 'dyr'",
+      "From Russian дорогой, with phonetic adaptation",
+      "Shows parallel usage of both Russian and Norwegian derived terms"
+    ],
+    "variants": [
+      {
+        "word": "dorgå",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "dorli",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "?дорого"
+          }
+        ]
+      },
+      {
+        "word": "dårålegi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "dorogli",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "djur",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dyr"
+          }
+        ]
+      },
+      {
+        "word": "dyr",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dyr"
+          }
+        ]
+      },
+      {
+        "word": "dorglå",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "dorgli",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "dårågå",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "dorogi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорого"
+          }
+        ]
+      },
+      {
+        "word": "drogoi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дорогой"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "goodbye, farewell",
+      "russian": "до свидания, прощай",
+      "norwegian": "farvel, på gjensyn"
+    },
+    "classes": [
+      "basic",
+      "greetings"
+    ],
+    "pos": "interjection",
+    "notes": [
+      "All variants clearly come from Russian досвидания/прощай"
+    ],
+    "variants": [
+      {
+        "word": "dosvidanie",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "до свидания"
+          }
+        ]
+      },
+      {
+        "word": "prosjai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "прощай"
+          }
+        ]
+      },
+      {
+        "word": "prosaj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "прощай"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "father",
+      "russian": "отец",
+      "norwegian": "far"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Norwegian origin, from 'far'"
+    ],
+    "variants": [
+      {
+        "word": "far",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "far"
+          }
+        ]
+      },
+      {
+        "word": "fare",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "far"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fifteen",
+      "russian": "пятнадцать",
+      "norwegian": "femten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian 'пятнадцать' with typical -it ending for numbers"
+    ],
+    "variants": [
+      {
+        "word": "pjetnatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пятнадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fifty",
+      "russian": "пятьдесят",
+      "norwegian": "femti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clear Russian origin, modified from 'пятьдесят'"
+    ],
+    "variants": [
+      {
+        "word": "pedisat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пятьдесят"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "firewood",
+      "russian": "дрова",
+      "norwegian": "ved"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian 'дрова'"
+    ],
+    "variants": [
+      {
+        "word": "trovva",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дрова"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "first",
+      "russian": "первый",
+      "norwegian": "første"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clearly derived from Russian первый"
+    ],
+    "variants": [
+      {
+        "word": "perevoj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "первый"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fish",
+      "russian": "рыба",
+      "norwegian": "fisk"
+    },
+    "classes": [
+      "goods",
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Core trade vocabulary, appears in many examples",
+      "both Russian and Norwegian variants were used, with multiple phonetic variations"
+    ],
+    "variants": [
+      {
+        "word": "ryby",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыбы"
+          }
+        ]
+      },
+      {
+        "word": "fisska",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fisk"
+          }
+        ]
+      },
+      {
+        "word": "fiska",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fisk"
+          }
+        ]
+      },
+      {
+        "word": "ryiba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыба"
+          }
+        ]
+      },
+      {
+        "word": "fisk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fisk"
+          }
+        ]
+      },
+      {
+        "word": "riba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыба"
+          }
+        ]
+      },
+      {
+        "word": "ryba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыба"
+          }
+        ]
+      },
+      {
+        "word": "ryjba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыба"
+          }
+        ]
+      },
+      {
+        "word": "ryjpa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыба"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fish pie",
+      "russian": "кулебяка",
+      "norwegian": "fiskepai"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "borrowed from Russian кулебяка"
+    ],
+    "variants": [
+      {
+        "word": "kulibak",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "кулебяка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fish processing, to clean fish",
+      "russian": "чистить рыбу",
+      "norwegian": "sløye fisk"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Technical term related to fish processing, appears to be of Norwegian origin"
+    ],
+    "variants": [
+      {
+        "word": "skirom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шкерить"
+          }
+        ]
+      },
+      {
+        "word": "skerom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шкерить"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fisherman",
+      "russian": "рыбак",
+      "norwegian": "fisker"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "both Russian and Norwegian variants were used",
+      "key profession in Russian-Norwegian trade"
+    ],
+    "variants": [
+      {
+        "word": "burman",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "??"
+          }
+        ]
+      },
+      {
+        "word": "fiskermann",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fisker+mann"
+          }
+        ]
+      },
+      {
+        "word": "burmann",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "??"
+          }
+        ]
+      },
+      {
+        "word": "fiskerman",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fisker+mann"
+          }
+        ]
+      },
+      {
+        "word": "rybak",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "рыбак"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fists",
+      "russian": "кулаки",
+      "norwegian": "never"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clearly from Norwegian 'never'"
+    ],
+    "variants": [
+      {
+        "word": "næver",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "never"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "five",
+      "russian": "пять",
+      "norwegian": "fem"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "All variants are clearly derived from Russian 'пять', with different phonetic adaptations"
+    ],
+    "variants": [
+      {
+        "word": "pet",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пять"
+          }
+        ]
+      },
+      {
+        "word": "pjat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пять"
+          }
+        ]
+      },
+      {
+        "word": "pjæt",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пять"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "flounder (fish)",
+      "russian": "камбала",
+      "norwegian": "flyndre"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Fish name, from Norwegian 'flyndre'"
+    ],
+    "variants": [
+      {
+        "word": "fljundra",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "flyndre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "flour",
+      "russian": "мука",
+      "norwegian": "mel"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Russian origin from 'мука', appears frequently in trading context",
+      "Important trade item, appears in multiple variants",
+      "appears in phrase 'kul moki' meaning 'matte mel' (flour)",
+      "Clearly from Russian 'мука'. Often appears with modifiers 'tjornoja' (black/rye) or 'bjelaja' (white/wheat)"
+    ],
+    "variants": [
+      {
+        "word": "moki",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      },
+      {
+        "word": "meka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      },
+      {
+        "word": "meki",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      },
+      {
+        "word": "mokka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      },
+      {
+        "word": "muka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      },
+      {
+        "word": "moka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      },
+      {
+        "word": "muki",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мука"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "for, in exchange for",
+      "russian": "на",
+      "norwegian": "på"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "preposition",
+    "notes": [
+      "One of the most common prepositions in Russenorsk, appears in many phrases",
+      "used in trading context to indicate exchange rates"
+    ],
+    "variants": [
+      {
+        "word": "na",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "на"
+          }
+        ]
+      },
+      {
+        "word": "på",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "på"
+          },
+          {
+            "lang": "Russian",
+            "word": "по"
+          }
+        ]
+      },
+      {
+        "word": "paa",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "på"
+          },
+          {
+            "lang": "Russian",
+            "word": "по"
+          }
+        ]
+      },
+      {
+        "word": "po",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "på"
+          },
+          {
+            "lang": "Russian",
+            "word": "по"
+          }
+        ]
+      },
+      {
+        "word": "for",
+        "origin": [
+          {
+            "lang": "English",
+            "word": "for"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "forty",
+      "russian": "сорок",
+      "norwegian": "førti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Direct borrowing from Russian 'сорок'"
+    ],
+    "variants": [
+      {
+        "word": "sorok",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сорок"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "four",
+      "russian": "четыре",
+      "norwegian": "fire"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Has both Russian and Norwegian derived variants"
+    ],
+    "variants": [
+      {
+        "word": "seteri",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "четыре"
+          }
+        ]
+      },
+      {
+        "word": "fir",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fire"
+          }
+        ]
+      },
+      {
+        "word": "sitiri",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "четыре"
+          }
+        ]
+      },
+      {
+        "word": "fire",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fire"
+          }
+        ]
+      },
+      {
+        "word": "sjetiri",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "четыре"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fourteen",
+      "russian": "четырнадцать",
+      "norwegian": "fjorten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian 'четырнадцать'"
+    ],
+    "variants": [
+      {
+        "word": "setenatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "четырнадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "fox fur",
+      "russian": "лисья шкура",
+      "norwegian": "reveskinn"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Two variants for different origins of fur: kiraganka (German) and lisitska (Russian)"
+    ],
+    "variants": [
+      {
+        "word": "kiraganka",
+        "origin": [
+          {
+            "lang": "German",
+            "word": "kiraganka"
+          }
+        ]
+      },
+      {
+        "word": "lisitska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "лисичка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "from here/there",
+      "russian": "отсюда",
+      "norwegian": "herfra"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "clearly from Russian 'отсюда'"
+    ],
+    "variants": [
+      {
+        "word": "otsuda",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "отсюда"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "full, satisfied",
+      "russian": "полный, сытый",
+      "norwegian": "full, mett"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "From Norwegian 'full', used especially in context of being full after eating"
+    ],
+    "variants": [
+      {
+        "word": "fol",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "full"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "get up, stand up",
+      "russian": "вставать",
+      "norwegian": "stå opp"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "From Russian imperative 'вставай'"
+    ],
+    "variants": [
+      {
+        "word": "stavai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "вставай"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "stå"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to present",
+      "russian": "дарить",
+      "norwegian": "presentere"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Likely derived from international word 'present', adapted to Russenorsk morphology"
+    ],
+    "variants": [
+      {
+        "word": "bresentom",
+        "origin": [
+          {
+            "lang": "??",
+            "word": "present"
+          }
+        ]
+      },
+      {
+        "word": "presentom",
+        "origin": [
+          {
+            "lang": "??",
+            "word": "present"
+          }
+        ]
+      },
+      {
+        "word": "prezentom",
+        "origin": [
+          {
+            "lang": "??",
+            "word": "present"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "good",
+      "russian": "хороший",
+      "norwegian": "god"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Clearly from Russian 'хорошо/хороший', used as both adjective and adverb",
+      "dobra from Russian 'добрый', gut possibly from Norwegian 'god' or German 'gut'",
+      "Appears in greetings and common phrases, has variants from both languages"
+    ],
+    "variants": [
+      {
+        "word": "gut",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "god"
+          }
+        ]
+      },
+      {
+        "word": "dobra",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "добрый"
+          }
+        ]
+      },
+      {
+        "word": "verrigod",
+        "origin": [
+          {
+            "lang": "Norwegian?",
+            "word": "?very+god"
+          }
+        ]
+      },
+      {
+        "word": "korosjo",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "хорошо"
+          }
+        ]
+      },
+      {
+        "word": "karåschå",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "хорошо"
+          }
+        ]
+      },
+      {
+        "word": "go",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "god"
+          }
+        ]
+      },
+      {
+        "word": "god",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "god"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "prime quality",
+      "russian": "отличный",
+      "norwegian": "prima"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "appears in context 'prima fisk' (good fish)",
+      "Likely from Latin 'prima' via European languages"
+    ],
+    "variants": [
+      {
+        "word": "prima",
+        "origin": [
+          {
+            "lang": "Latin",
+            "word": "prima"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "hello, good day",
+      "russian": "здравствуй(те)",
+      "norwegian": "god dag"
+    },
+    "classes": [
+      "greetings"
+    ],
+    "pos": "interjection",
+    "notes": [
+      "All variants clearly derive from Russian здравствуй, with typical phonetic adaptations"
+    ],
+    "variants": [
+      {
+        "word": "drasvi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "здравствуй"
+          }
+        ]
+      },
+      {
+        "word": "strasvi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "здравствуй"
+          }
+        ]
+      },
+      {
+        "word": "trasvi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "здравствуй"
+          }
+        ]
+      },
+      {
+        "word": "strasvui",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "здравствуй"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "good morning",
+      "russian": "доброе утро",
+      "norwegian": "god morgen"
+    },
+    "classes": [
+      "basic",
+      "greetings"
+    ],
+    "pos": "phrase",
+    "notes": [
+      "Appears to be a blend of Russian dobroe utro and Norwegian god morgen",
+      "Combines Russian dobra (good) with Norwegian morgen (morning)"
+    ],
+    "variants": [
+      {
+        "word": "dobra morgen",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "доброе"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "morgen"
+          }
+        ]
+      },
+      {
+        "word": "dobro utrom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "доброе утро"
+          }
+        ]
+      },
+      {
+        "word": "stoberi motrom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "c добры+м утром"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "goods, merchandise",
+      "russian": "товар",
+      "norwegian": "vare"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clear examples from both source languages"
+    ],
+    "variants": [
+      {
+        "word": "tovara",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "товар"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "vare"
+          }
+        ]
+      },
+      {
+        "word": "vara",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "товар"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "vare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "grain, groats",
+      "russian": "крупа",
+      "norwegian": "gryn"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Shows both Russian and Norwegian influence in different variants"
+    ],
+    "variants": [
+      {
+        "word": "groppa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "крупа"
+          }
+        ]
+      },
+      {
+        "word": "gropa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "крупа"
+          }
+        ]
+      },
+      {
+        "word": "krupa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "крупа"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "haddock",
+      "russian": "пикша",
+      "norwegian": "hyse"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian пикша, from Northern Sami juksu, from Northern Sami diksu. Shows phonetic variation t/p",
+      "Multiple variants exist, showing both Russian and Norwegian influence. 'Piksa' clearly comes from Russian 'пикша', while 'tiksa' appears to be a Norwegian-influenced variant."
+    ],
+    "variants": [
+      {
+        "word": "teska",
+        "origin": [
+          {
+            "lang": "??",
+            "word": "??"
+          }
+        ]
+      },
+      {
+        "word": "chjusa",
+        "origin": [
+          {
+            "lang": "Northern Sami",
+            "word": "juksu"
+          }
+        ]
+      },
+      {
+        "word": "jossa",
+        "origin": [
+          {
+            "lang": "Northern Sami",
+            "word": "juksu"
+          }
+        ]
+      },
+      {
+        "word": "tiksa",
+        "origin": [
+          {
+            "lang": "Northern Sami",
+            "word": "diksu"
+          }
+        ]
+      },
+      {
+        "word": "piksa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пикша"
+          }
+        ]
+      },
+      {
+        "word": "pikssa",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пикша"
+          }
+        ]
+      },
+      {
+        "word": "piksja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пикша"
+          }
+        ]
+      },
+      {
+        "word": "tiksja",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?hyse"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "half",
+      "russian": "половина",
+      "norwegian": "halv"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "noun/adjective",
+    "notes": [
+      "Clearly derived from Norwegian 'halv'",
+      "appears in trade context for splitting quantities"
+    ],
+    "variants": [
+      {
+        "word": "hal",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "halv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "halibut",
+      "russian": "палтус",
+      "norwegian": "kveite"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Has variants from both languages",
+      "Most variants appear to be derived from Russian палтус with phonetic variations",
+      "Diminutive form with -ka suffix suggests Russian origin"
+    ],
+    "variants": [
+      {
+        "word": "paltasina",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      },
+      {
+        "word": "baltasina",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      },
+      {
+        "word": "balda",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      },
+      {
+        "word": "balduska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      },
+      {
+        "word": "kveita",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kveite"
+          }
+        ]
+      },
+      {
+        "word": "paltuska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      },
+      {
+        "word": "paltus",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      },
+      {
+        "word": "baldasina",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "палтус"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "he/it",
+      "russian": "он",
+      "norwegian": "han"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "pronoun",
+    "notes": [
+      "clear examples of both Russian and Norwegian variants being used"
+    ],
+    "variants": [
+      {
+        "word": "han",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "han"
+          }
+        ]
+      },
+      {
+        "word": "on",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "он"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "headwind",
+      "russian": "встречный ветер",
+      "norwegian": "motvind"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clearly borrowed from Norwegian 'motvind'"
+    ],
+    "variants": [
+      {
+        "word": "motvind",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "motvind"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "here, take this",
+      "russian": "вот",
+      "norwegian": "her"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "particle",
+    "notes": [
+      "Used in demonstrative contexts, clearly from Russian 'вот'",
+      "Used in phrases like 'Vot moja pen'ga imej!' (Here are my money!)"
+    ],
+    "variants": [
+      {
+        "word": "vot",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "вот"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "herring",
+      "russian": "сельдь",
+      "norwegian": "sild"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "derivation from Norwegian sild"
+    ],
+    "variants": [
+      {
+        "word": "silka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сельдь"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sild"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "house, home",
+      "russian": "дом",
+      "norwegian": "hjem, hus"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Norwegian origin, used in phrase 'Paa Hjem reisa'",
+      "datsja from Russian 'дача', stova from Norwegian 'stue'",
+      "derived from Russian 'дом' with vowel modification"
+    ],
+    "variants": [
+      {
+        "word": "stova",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "stue"
+          }
+        ]
+      },
+      {
+        "word": "dåmå",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дом"
+          }
+        ]
+      },
+      {
+        "word": "datsja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дача"
+          }
+        ]
+      },
+      {
+        "word": "hjem",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hjem"
+          }
+        ]
+      },
+      {
+        "word": "domo",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "дом"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "how much, how many",
+      "russian": "сколько, как",
+      "norwegian": "hvor mange, hvordan"
+    },
+    "classes": [
+      "number",
+      "basic"
+    ],
+    "pos": "pronoun",
+    "notes": [
+      "Multiple variants used, showing both Russian and Norwegian influence",
+      "Essential word for trade negotiations, shows mixing of Russian and Norwegian roots",
+      "'kok' clearly comes from Russian 'как/сколько', while 'mankuli' appears to be of Norwegian origin"
+    ],
+    "variants": [
+      {
+        "word": "nogoli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mange"
+          },
+          {
+            "lang": "Russian",
+            "word": "много ли"
+          }
+        ]
+      },
+      {
+        "word": "nogli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mange"
+          },
+          {
+            "lang": "Russian",
+            "word": "много ли"
+          }
+        ]
+      },
+      {
+        "word": "mankuli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mange"
+          },
+          {
+            "lang": "Russian",
+            "word": "много ли"
+          }
+        ]
+      },
+      {
+        "word": "skolko",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сколько"
+          }
+        ]
+      },
+      {
+        "word": "kor manga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hvor mange"
+          }
+        ]
+      },
+      {
+        "word": "kok",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "как"
+          }
+        ]
+      },
+      {
+        "word": "possjom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "почём"
+          }
+        ]
+      },
+      {
+        "word": "manga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mange"
+          }
+        ]
+      },
+      {
+        "word": "mangeli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mange"
+          },
+          {
+            "lang": "Russian",
+            "word": "много ли"
+          }
+        ]
+      },
+      {
+        "word": "mangoli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mange"
+          },
+          {
+            "lang": "Russian",
+            "word": "много ли"
+          }
+        ]
+      },
+      {
+        "word": "kaki",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "как"
+          }
+        ]
+      },
+      {
+        "word": "kak",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "как"
+          }
+        ]
+      },
+      {
+        "word": "kakai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "какой"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "hundred",
+      "russian": "сто",
+      "norwegian": "hundre"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clear etymology - 'sto' from Russian 'сто', 'hunder' from Norwegian 'hundre'",
+      "Clear etymology - 'sto' from Russian 'сто', 'hunder' from Norwegian 'hundre'"
+    ],
+    "variants": [
+      {
+        "word": "sto",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сто"
+          }
+        ]
+      },
+      {
+        "word": "hunder",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hundre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "if, when",
+      "russian": "если",
+      "norwegian": "hvis, dersom"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "conjunction",
+    "notes": [
+      "Used in conditional constructions"
+    ],
+    "variants": [
+      {
+        "word": "gak",
+        "origin": []
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "in exchange for",
+      "russian": "за",
+      "norwegian": "så"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "preposition",
+    "notes": [
+      "used in trade context to indicate exchange rates"
+    ],
+    "variants": [
+      {
+        "word": "så",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "за"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "så"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "jam, preserve",
+      "russian": "варенье",
+      "norwegian": "syltetøy"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "likely from Russian банка (jar), but used to mean the contents rather than the container"
+    ],
+    "variants": [
+      {
+        "word": "banka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "банка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "travel, journey",
+      "russian": "путешествовать, ехать, рейс",
+      "norwegian": "reise"
+    },
+    "classes": [
+      "maritime",
+      "basic"
+    ],
+    "pos": "verb/noun",
+    "notes": [
+      "All variants derived from Norwegian 'reise'",
+      "Based on Norwegian 'reise' with various modifications. 'jemmreisa' likely combines with 'hjem' (home)"
+    ],
+    "variants": [
+      {
+        "word": "rejza",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "reise"
+          }
+        ]
+      },
+      {
+        "word": "reisom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "reise"
+          }
+        ]
+      },
+      {
+        "word": "reise",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "reise"
+          }
+        ]
+      },
+      {
+        "word": "reisa",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "reise"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "only, just",
+      "russian": "только",
+      "norwegian": "bare"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "clearly borrowed from Norwegian 'bare'"
+    ],
+    "variants": [
+      {
+        "word": "bare",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "land, shore",
+      "russian": "земля, берег",
+      "norwegian": "land"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Used in phrases about going ashore"
+    ],
+    "variants": [
+      {
+        "word": "lan",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "land"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "lie (tell untruth)",
+      "russian": "врать",
+      "norwegian": "lyge"
+    },
+    "classes": [
+      "sales",
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Shows both Russian and Norwegian influences, with characteristic -om verb ending added to Norwegian stem"
+    ],
+    "variants": [
+      {
+        "word": "ligom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lyge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лгать"
+          }
+        ]
+      },
+      {
+        "word": "lugom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lyge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лгать"
+          }
+        ]
+      },
+      {
+        "word": "lygom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lyge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лгать"
+          }
+        ]
+      },
+      {
+        "word": "ljugom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lyge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лгать"
+          }
+        ]
+      },
+      {
+        "word": "vros",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "врать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "lie down, sleep",
+      "russian": "лежать",
+      "norwegian": "ligge"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Often appears in phrases like 'gå på slipom'. 'Ligge' clearly from Norwegian, 'slipom' origin unclear but possibly related to Russian 'спать'",
+      "Appears to be from Norwegian 'ligge', used in contexts about sleeping or staying somewhere"
+    ],
+    "variants": [
+      {
+        "word": "ligge ner",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ligge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лежать"
+          }
+        ]
+      },
+      {
+        "word": "liggné",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ligge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лежать"
+          }
+        ]
+      },
+      {
+        "word": "ligge ne",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ligge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лежать"
+          }
+        ]
+      },
+      {
+        "word": "slipom",
+        "origin": [
+          {
+            "lang": "?English",
+            "word": "?sleep"
+          }
+        ]
+      },
+      {
+        "word": "ligga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ligge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лежать"
+          }
+        ]
+      },
+      {
+        "word": "ligene",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ligge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лежать"
+          }
+        ]
+      },
+      {
+        "word": "ligge",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ligge"
+          },
+          {
+            "lang": "Russian",
+            "word": "лежать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "little, small amount",
+      "russian": "немного, мало",
+      "norwegian": "liten, lite, litt"
+    },
+    "classes": [
+      "basic",
+      "number"
+    ],
+    "pos": "adverb/adjective",
+    "notes": [
+      "Used in quantity expressions, clear Norwegian origin",
+      "appears in multiple contexts indicating small quantity",
+      "Shows both Russian and Norwegian influence"
+    ],
+    "variants": [
+      {
+        "word": "lite",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lite"
+          }
+        ]
+      },
+      {
+        "word": "mala",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мало"
+          }
+        ]
+      },
+      {
+        "word": "lita",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lite"
+          }
+        ]
+      },
+      {
+        "word": "nokke lite",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?lite"
+          }
+        ]
+      },
+      {
+        "word": "lille",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lite"
+          }
+        ]
+      },
+      {
+        "word": "nokkelite",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?lite"
+          }
+        ]
+      },
+      {
+        "word": "nåkka litt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?lite"
+          }
+        ]
+      },
+      {
+        "word": "litt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "litt"
+          }
+        ]
+      },
+      {
+        "word": "måla",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мало"
+          }
+        ]
+      },
+      {
+        "word": "nemnozko",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "немножко"
+          }
+        ]
+      },
+      {
+        "word": "nokalite",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?lite"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "long",
+      "russian": "длинный",
+      "norwegian": "lang"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Appears to be derived from Norwegian with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "lånja",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lang"
+          }
+        ]
+      },
+      {
+        "word": "laanja",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lang"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "long (time)",
+      "russian": "долго",
+      "norwegian": "lenge"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Used in time expressions, clearly from Norwegian 'lenge'"
+    ],
+    "variants": [
+      {
+        "word": "længe",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lenge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "man, person",
+      "russian": "мужик, человек",
+      "norwegian": "mann"
+    },
+    "classes": [
+      "social"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Two parallel forms exist - one from Russian 'мужик' and one from Norwegian 'mann'"
+    ],
+    "variants": [
+      {
+        "word": "musik",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "мужик"
+          }
+        ]
+      },
+      {
+        "word": "mann",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "mann"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "manner, way",
+      "russian": "манера",
+      "norwegian": "måte"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Appears in phrase 'Njet paa den Fasaan' (not in that manner). Derived from 'фасон'?"
+    ],
+    "variants": [
+      {
+        "word": "fasån",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "?манера"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "many",
+      "russian": "много",
+      "norwegian": "mange"
+    },
+    "classes": [
+      "basic",
+      "number"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Clearly borrowed from Norwegian, used in quantity expressions"
+    ],
+    "variants": [
+      {
+        "word": "mange",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?mange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "march",
+      "russian": "маршировать",
+      "norwegian": "marsjere"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "verb",
+    "notes": [
+      "derived from either Russian 'маршировать' or Norwegian 'marsjere'"
+    ],
+    "variants": [
+      {
+        "word": "marsjirom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "маршировать"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "marsjere"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "matches",
+      "russian": "спички",
+      "norwegian": "fyrstikker"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "One is derived from Russian 'спички'"
+    ],
+    "variants": [
+      {
+        "word": "spidits",
+        "origin": []
+      },
+      {
+        "word": "spitski",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "спички"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "maybe, perhaps",
+      "russian": "может быть",
+      "norwegian": "kanskje"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Clearly borrowed from Norwegian, appears in multiple variants"
+    ],
+    "variants": [
+      {
+        "word": "kanske",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kanskje"
+          }
+        ]
+      },
+      {
+        "word": "kanskje",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kanskje"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "measurement unit (vog)",
+      "russian": "вог (мера веса)",
+      "norwegian": "vog"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Trading measurement unit, from Norwegian 'vog'",
+      "Scandinavian weight measure, approximately 18-23 kg"
+    ],
+    "variants": [
+      {
+        "word": "våg",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vog"
+          }
+        ]
+      },
+      {
+        "word": "voga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vog"
+          }
+        ]
+      },
+      {
+        "word": "våga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vog"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "merchant",
+      "russian": "купец",
+      "norwegian": "kjøpmann"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Derived from Norwegian 'kjøpmann'"
+    ],
+    "variants": [
+      {
+        "word": "kukman",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kjøpmann"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "money",
+      "russian": "деньги",
+      "norwegian": "penger"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear parallel usage of both Russian and Norwegian derived terms",
+      "Trade-related term showing both Russian and Norwegian influence"
+    ],
+    "variants": [
+      {
+        "word": "diengi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "деньги"
+          }
+        ]
+      },
+      {
+        "word": "pen'ga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "penger"
+          },
+          {
+            "lang": "Russian",
+            "word": "деньги"
+          }
+        ]
+      },
+      {
+        "word": "penge",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "penger"
+          }
+        ]
+      },
+      {
+        "word": "dengi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "деньги"
+          }
+        ]
+      },
+      {
+        "word": "penga",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "деньги"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "penger"
+          }
+        ]
+      },
+      {
+        "word": "djengi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "деньги"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "morning",
+      "russian": "утро",
+      "norwegian": "morgen"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clear examples from both source languages"
+    ],
+    "variants": [
+      {
+        "word": "utrom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "утро"
+          }
+        ]
+      },
+      {
+        "word": "morgen",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "morgen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "naturally, of course",
+      "russian": "конечно",
+      "norwegian": "naturligvis"
+    },
+    "classes": [
+      "greetings"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Appears to be derived from Russian конечно with germanized ending -off"
+    ],
+    "variants": [
+      {
+        "word": "konersnoff",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "конечно"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "nine",
+      "russian": "девять",
+      "norwegian": "ni"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Part of the number system, clearly from Russian девять with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "divit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "девять"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "nineteen",
+      "russian": "девятнадцать",
+      "norwegian": "nitten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian девятнадцать"
+    ],
+    "variants": [
+      {
+        "word": "divinatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "девятнадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "ninety",
+      "russian": "девяносто",
+      "norwegian": "nitti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clearly derived from Russian девяносто with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "divinosta",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "девяносто"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "no, not",
+      "russian": "нет, не",
+      "norwegian": "nei, ikke"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "particle",
+    "notes": [
+      "Clear examples of both Russian and Norwegian negative particles being used in parallel",
+      "Multiple variants of Russian 'нет' appear in the vocabulary"
+    ],
+    "variants": [
+      {
+        "word": "njet",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "нет"
+          }
+        ]
+      },
+      {
+        "word": "net",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "нет"
+          }
+        ]
+      },
+      {
+        "word": "njeto",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "нет"
+          }
+        ]
+      },
+      {
+        "word": "nje",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "нет"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "nei"
+          }
+        ]
+      },
+      {
+        "word": "ikke",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ikke"
+          }
+        ]
+      },
+      {
+        "word": "njed",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "нет"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "now, soon, immediately",
+      "russian": "сейчас, скоро",
+      "norwegian": "nå, straks"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "sjisjas clearly comes from Russian 'сейчас', while straks is from Norwegian 'straks'",
+      "Clearly from Norwegian 'nå'"
+    ],
+    "variants": [
+      {
+        "word": "straks",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "straks"
+          }
+        ]
+      },
+      {
+        "word": "no",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "nå"
+          }
+        ]
+      },
+      {
+        "word": "nå",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "nå"
+          }
+        ]
+      },
+      {
+        "word": "sjisjas",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сейчас"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "nut",
+      "russian": "орех",
+      "norwegian": "nøtt"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "clearly from Russian 'орех'"
+    ],
+    "variants": [
+      {
+        "word": "oreka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "орех"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sea, ocean",
+      "russian": "море, океан",
+      "norwegian": "hav"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Likely derived from Norwegian 'hav' with phonetic transformation"
+    ],
+    "variants": [
+      {
+        "word": "gav",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hav"
+          }
+        ]
+      },
+      {
+        "word": "gaf",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hav"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "office",
+      "russian": "контора",
+      "norwegian": "kontor"
+    },
+    "classes": [
+      "social"
+    ],
+    "pos": "noun",
+    "notes": [
+      "likely from Russian контора, though ultimately from same European root as Norwegian kontor"
+    ],
+    "variants": [
+      {
+        "word": "kantor",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "контора"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "kontor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "old",
+      "russian": "старый",
+      "norwegian": "gammel"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Appears in phrase 'stara luri', clearly from Russian 'старый'",
+      "Both Russian and Norwegian variants were actively used"
+    ],
+    "variants": [
+      {
+        "word": "starii",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "старый"
+          }
+        ]
+      },
+      {
+        "word": "stara",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "старая"
+          }
+        ]
+      },
+      {
+        "word": "staraja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "старая"
+          }
+        ]
+      },
+      {
+        "word": "gammal",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "gammel"
+          }
+        ]
+      },
+      {
+        "word": "gammel",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "gammel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "old man",
+      "russian": "старик",
+      "norwegian": "gammel mann"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "direct borrowing from Russian старик"
+    ],
+    "variants": [
+      {
+        "word": "starik",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "старик"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "once, time (instance)",
+      "russian": "раз",
+      "norwegian": "gang"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "has both Russian and Norwegian variants used in parallel",
+      "Shows mixing of Russian and Norwegian elements"
+    ],
+    "variants": [
+      {
+        "word": "ras",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "раз"
+          }
+        ]
+      },
+      {
+        "word": "gang",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "gang"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "one",
+      "russian": "один",
+      "norwegian": "en/ett"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly from Russian один, with phonetic variations",
+      "clear Norwegian origin"
+    ],
+    "variants": [
+      {
+        "word": "en",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "en"
+          }
+        ]
+      },
+      {
+        "word": "et",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ett"
+          }
+        ]
+      },
+      {
+        "word": "ein",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "en"
+          }
+        ]
+      },
+      {
+        "word": "odin",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "один"
+          }
+        ]
+      },
+      {
+        "word": "ådin",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "один"
+          }
+        ]
+      },
+      {
+        "word": "adin",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "один"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "or",
+      "russian": "или",
+      "norwegian": "eller"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "conjunction",
+    "notes": [
+      "Clear Norwegian origin, used exactly as in Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "eller",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "eller"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "otter skin",
+      "russian": "шкура выдры",
+      "norwegian": "otterskind"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Trading item, could be derived from Russian 'выдра'"
+    ],
+    "variants": [
+      {
+        "word": "vudra",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "выдра"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "paper",
+      "russian": "бумага",
+      "norwegian": "papir"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Russian бумага with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "bamagina",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "бумага"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "pay",
+      "russian": "платить",
+      "norwegian": "betale"
+    },
+    "classes": [
+      "basic",
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "From Russian imperative 'плати'",
+      "clearly derived from Norwegian 'betale'"
+    ],
+    "variants": [
+      {
+        "word": "betalom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "betale"
+          }
+        ]
+      },
+      {
+        "word": "plati",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "платить"
+          }
+        ]
+      },
+      {
+        "word": "bitalom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "betale"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "perch (fish)",
+      "russian": "окунь",
+      "norwegian": "uer"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Fish name, appears to be from 'окунь'"
+    ],
+    "variants": [
+      {
+        "word": "håkonn",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "окунь"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "place",
+      "russian": "место",
+      "norwegian": "plass"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Norwegian origin"
+    ],
+    "variants": [
+      {
+        "word": "plass",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "plass"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "please/you're welcome",
+      "russian": "пожалуйста, вот",
+      "norwegian": "vær så god"
+    },
+    "classes": [
+      "greetings"
+    ],
+    "pos": "interjection",
+    "notes": [
+      "Could be derived from Russian 'давай' or Norwegian 'vær så god'",
+      "Two distinct forms coexisted, one from each source language"
+    ],
+    "variants": [
+      {
+        "word": "verségo",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vær så god"
+          }
+        ]
+      },
+      {
+        "word": "værsågo",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vær så god"
+          }
+        ]
+      },
+      {
+        "word": "davai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "давай"
+          }
+        ]
+      },
+      {
+        "word": "versagu",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vær så god"
+          }
+        ]
+      },
+      {
+        "word": "davaj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "давай"
+          }
+        ]
+      },
+      {
+        "word": "versego",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vær så god"
+          }
+        ]
+      },
+      {
+        "word": "værsego",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vær så god"
+          }
+        ]
+      },
+      {
+        "word": "værsgo",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vær så god"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "pocket",
+      "russian": "карман",
+      "norwegian": "lomme"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Norwegian origin from 'lomme'"
+    ],
+    "variants": [
+      {
+        "word": "lomma",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "lomme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "policeman",
+      "russian": "полицейский",
+      "norwegian": "politimann"
+    },
+    "classes": [
+      "social"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clearly derived from Norwegian, shows typical Germanic compound structure (police+man)"
+    ],
+    "variants": [
+      {
+        "word": "polismann",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "politimann"
+          }
+        ]
+      },
+      {
+        "word": "polisman",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "politimann"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "pollock fish",
+      "russian": "сайда",
+      "norwegian": "sei"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [],
+    "variants": [
+      {
+        "word": "sajti",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "price",
+      "russian": "цена",
+      "norwegian": "pris"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "From Old Norse kosta -- to exert oneself, strive, to cost someone something"
+    ],
+    "variants": [
+      {
+        "word": "kosta",
+        "origin": [
+          {
+            "lang": "Old Norse",
+            "word": "kosta"
+          }
+        ]
+      },
+      {
+        "word": "pris",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "pris"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "prison",
+      "russian": "тюрьма",
+      "norwegian": "fengsel"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Appears in context of arrest and imprisonment",
+      "From Latin castellum (“castle”), diminutive of castrum (“castle, fort”).",
+      "Germanic 'kastel'"
+    ],
+    "variants": [
+      {
+        "word": "kastel",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "kastel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "provisions, supplies",
+      "russian": "провизия, провиант",
+      "norwegian": "proviant"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Could be from either language as both have similar words of Latin origin"
+    ],
+    "variants": [
+      {
+        "word": "praavisen",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "провизия"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "proviant"
+          }
+        ]
+      },
+      {
+        "word": "pråvisen",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "провизия"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "proviant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "pud (weight measure)",
+      "russian": "пуд",
+      "norwegian": "pud"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Russian weight measure used in trade"
+    ],
+    "variants": [
+      {
+        "word": "pudof",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пуд"
+          }
+        ]
+      },
+      {
+        "word": "put",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пуд"
+          }
+        ]
+      },
+      {
+        "word": "pud",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пуд"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "reindeer",
+      "russian": "олень",
+      "norwegian": "reinsdyr"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Russian origin, from олень with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "ålenej",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "олень"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "reindeer herder (Sami)",
+      "russian": "оленевод (саам)",
+      "norwegian": "reindriftssame"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Compound word: likely from Norwegian 'mann' (man) + modified 'olen' (from Russian 'олень' - deer)"
+    ],
+    "variants": [
+      {
+        "word": "olenamann",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "олень"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "mann"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "stay, remain",
+      "russian": "стоять, оставаться",
+      "norwegian": "stå, bli"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Appears to be derived from Russian 'стоять' and/or Norwegian 'stå' with typical -om verbal ending"
+    ],
+    "variants": [
+      {
+        "word": "stannom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "стать, оставаться"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "stå"
+          }
+        ]
+      },
+      {
+        "word": "stannop",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "стать, оставаться"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "stå"
+          }
+        ]
+      },
+      {
+        "word": "stånnom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "стать, оставаться"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "stå"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "rich",
+      "russian": "богатый",
+      "norwegian": "rik"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Clearly from Norwegian 'rik'"
+    ],
+    "variants": [
+      {
+        "word": "rik",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "rik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "rogue, scoundrel",
+      "russian": "каналья",
+      "norwegian": "kanalje"
+    },
+    "classes": [
+      "swear"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Used as both insult and sometimes playful term. Appears in various forms including diminutive"
+    ],
+    "variants": [
+      {
+        "word": "kanali",
+        "origin": [
+          {
+            "lang": "French",
+            "word": "canaille"
+          }
+        ]
+      },
+      {
+        "word": "kanalja",
+        "origin": [
+          {
+            "lang": "French",
+            "word": "canaille"
+          }
+        ]
+      },
+      {
+        "word": "kanalijunka",
+        "origin": [
+          {
+            "lang": "French",
+            "word": "canaille"
+          },
+          {
+            "lang": "Germanic",
+            "word": "junga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "room",
+      "russian": "комната",
+      "norwegian": "rom"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clearly borrowed from Norwegian 'rom'"
+    ],
+    "variants": [
+      {
+        "word": "romm",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "rom"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "row (a boat)",
+      "russian": "грести",
+      "norwegian": "ro"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "verb",
+    "notes": [
+      "From Russian 'греби' (imperative of 'грести')"
+    ],
+    "variants": [
+      {
+        "word": "gribi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "греби"
+          }
+        ]
+      },
+      {
+        "word": "grebi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "греби"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "rudder",
+      "russian": "руль",
+      "norwegian": "ror"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Maritime term, clearly from Russian 'правило' which was specifically used for Pomor ships"
+    ],
+    "variants": [
+      {
+        "word": "pravilo",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "правило"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "rye flour",
+      "russian": "ржаная мука",
+      "norwegian": "rugmel"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Multiple spelling variants exist, likely from Russian 'чёрная' (black), used to describe rye flour",
+      "from Russian 'чёрная' (black), referring to dark rye flour"
+    ],
+    "variants": [
+      {
+        "word": "tjomaja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "черная/тёмная"
+          }
+        ]
+      },
+      {
+        "word": "tjomja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "черная/тёмная"
+          }
+        ]
+      },
+      {
+        "word": "tjornoja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "черная/тёмная"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sailor",
+      "russian": "матрос",
+      "norwegian": "matros"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "from Russian 'матрос'"
+    ],
+    "variants": [
+      {
+        "word": "matrås",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "матрос"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "saithe",
+      "russian": "сайда",
+      "norwegian": "sei"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Shows typical variation in spelling and pronunciation",
+      "Can be a combination from Russian 'сайда' and Norwegian 'sei'"
+    ],
+    "variants": [
+      {
+        "word": "saiga",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "seika",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "saika",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "seiga",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "salt",
+      "russian": "соль",
+      "norwegian": "salt"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "appears both independently and in compounds: kuasalt (cow-salt = salted meat of cow)"
+    ],
+    "variants": [
+      {
+        "word": "salt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "salt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "same",
+      "russian": "такой же",
+      "norwegian": "samme"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Appears in comparative constructions, Norwegian origin"
+    ],
+    "variants": [
+      {
+        "word": "samme",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "samme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "schooner",
+      "russian": "шхуна",
+      "norwegian": "skonnert"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Maritime term, likely from Norwegian/Germanic origin"
+    ],
+    "variants": [
+      {
+        "word": "skona",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skonnert"
+          },
+          {
+            "lang": "Russian",
+            "word": "шхуна"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sell",
+      "russian": "продавать",
+      "norwegian": "selge"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "shows clear parallel usage of both Russian and Norwegian derived terms"
+    ],
+    "variants": [
+      {
+        "word": "prodai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "продай"
+          }
+        ]
+      },
+      {
+        "word": "selle",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "selge"
+          }
+        ]
+      },
+      {
+        "word": "prodåj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "продай"
+          }
+        ]
+      },
+      {
+        "word": "prodatli",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "продать ли"
+          }
+        ]
+      },
+      {
+        "word": "prodaj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "продай"
+          }
+        ]
+      },
+      {
+        "word": "sellom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "selge"
+          }
+        ]
+      },
+      {
+        "word": "sælom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "selge"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "seventeen",
+      "russian": "семнадцать",
+      "norwegian": "sytten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clearly derived from Russian 'семнадцать'",
+      "Clear Russian origin, from 'семнадцать' with typical Russenorsk phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "semnatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "семнадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "seventy",
+      "russian": "семьдесят",
+      "norwegian": "sytti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly from Russian семьдесят"
+    ],
+    "variants": [
+      {
+        "word": "semdisat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "семьдесят"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "shall, will",
+      "russian": "должен, будет",
+      "norwegian": "skal"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "auxiliary verb",
+    "notes": [
+      "used for future tense and obligations"
+    ],
+    "variants": [
+      {
+        "word": "skal",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skal"
+          }
+        ]
+      },
+      {
+        "word": "ska",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "ship",
+      "russian": "корабль",
+      "norwegian": "skip"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Some variants appear to derive from Norwegian skip",
+      "snjaka likely from Russian снека/шняка (type of fishing boat)",
+      "Multiple terms for various types of watercraft, both from Russian and Norwegian origins"
+    ],
+    "variants": [
+      {
+        "word": "skib",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skip"
+          }
+        ]
+      },
+      {
+        "word": "skuta",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?skip"
+          }
+        ]
+      },
+      {
+        "word": "sjib",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skip"
+          }
+        ]
+      },
+      {
+        "word": "båt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "båt"
+          }
+        ]
+      },
+      {
+        "word": "snjaka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шняка"
+          }
+        ]
+      },
+      {
+        "word": "jolla",
+        "origin": [
+          {
+            "lang": "German",
+            "word": "jolle"
+          }
+        ]
+      },
+      {
+        "word": "karbas",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "карбас"
+          }
+        ]
+      },
+      {
+        "word": "skip",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?skip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "shop, store",
+      "russian": "лавка, магазин",
+      "norwegian": "butikk"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Likely from Norwegian 'kram' (goods, merchandise)"
+    ],
+    "variants": [
+      {
+        "word": "kråm",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kram"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "side/place/position",
+      "russian": "сторона/место",
+      "norwegian": "side/sted"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Likely from Finnish sija"
+    ],
+    "variants": [
+      {
+        "word": "sija",
+        "origin": [
+          {
+            "lang": "Finish",
+            "word": "sija"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "six",
+      "russian": "шесть",
+      "norwegian": "seks"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian 'шесть'"
+    ],
+    "variants": [
+      {
+        "word": "sest",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шесть"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sixteen",
+      "russian": "шестнадцать",
+      "norwegian": "seksten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian 'шестнадцать'"
+    ],
+    "variants": [
+      {
+        "word": "sesnatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шестнадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sixty",
+      "russian": "шестьдесят",
+      "norwegian": "seksti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian 'шестьдесят'"
+    ],
+    "variants": [
+      {
+        "word": "seddisat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шестьдесят"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "son",
+      "russian": "сын",
+      "norwegian": "sønn"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both Russian and Norwegian roots are clearly visible"
+    ],
+    "variants": [
+      {
+        "word": "sønn",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sønn"
+          },
+          {
+            "lang": "Russian",
+            "word": "сын"
+          }
+        ]
+      },
+      {
+        "word": "siin",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sønn"
+          },
+          {
+            "lang": "Russian",
+            "word": "сын"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "song, to sing",
+      "russian": "песня, петь",
+      "norwegian": "sang, synge"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun/verb",
+    "notes": [
+      "clearly derived from Russian 'песня'"
+    ],
+    "variants": [
+      {
+        "word": "pæsna",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "песня"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "soon, when",
+      "russian": "скоро, когда",
+      "norwegian": "snart, når"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Temporal adverbs, clearly showing both Russian and Norwegian origins"
+    ],
+    "variants": [
+      {
+        "word": "snart",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "snart"
+          }
+        ]
+      },
+      {
+        "word": "skoro",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "скоро"
+          }
+        ]
+      },
+      {
+        "word": "kogda",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "когда"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "steal",
+      "russian": "красть",
+      "norwegian": "stjele"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "derived from Russian 'красть' with added -om verbal suffix typical for Russenorsk"
+    ],
+    "variants": [
+      {
+        "word": "kralom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "красть"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "storm",
+      "russian": "шторм, буря",
+      "norwegian": "storm"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Multiple variants recorded"
+    ],
+    "variants": [
+      {
+        "word": "stoga",
+        "origin": []
+      },
+      {
+        "word": "storm",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "storm"
+          }
+        ]
+      },
+      {
+        "word": "stoka",
+        "origin": []
+      },
+      {
+        "word": "ståga",
+        "origin": []
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "strong",
+      "russian": "сильный, крепкий",
+      "norwegian": "sterk"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "Has variants from both languages, plus 'grut' from Middle Dutch 'grutte'"
+    ],
+    "variants": [
+      {
+        "word": "grut",
+        "origin": [
+          {
+            "lang": "Dutch",
+            "word": "grutte"
+          }
+        ]
+      },
+      {
+        "word": "krepkii",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "крепкий"
+          }
+        ]
+      },
+      {
+        "word": "sterk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sterk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "tea",
+      "russian": "чай",
+      "norwegian": "te"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Russian and Norwegian variants, with phonetic variations in Russian-derived forms"
+    ],
+    "variants": [
+      {
+        "word": "te",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "te"
+          }
+        ]
+      },
+      {
+        "word": "tjåi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чай"
+          }
+        ]
+      },
+      {
+        "word": "tjaj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чай"
+          }
+        ]
+      },
+      {
+        "word": "tsjai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чай"
+          }
+        ]
+      },
+      {
+        "word": "kjai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чай"
+          }
+        ]
+      },
+      {
+        "word": "tjei",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чай"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "te"
+          }
+        ]
+      },
+      {
+        "word": "tjai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чай"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "teapot",
+      "russian": "чайник",
+      "norwegian": "tekanne"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Direct borrowing from Russian 'чайник'"
+    ],
+    "variants": [
+      {
+        "word": "tjainik",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "чайник"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "ten",
+      "russian": "десять",
+      "norwegian": "ti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "From Russian десять with simplified ending"
+    ],
+    "variants": [
+      {
+        "word": "desit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "десять"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "thank you",
+      "russian": "спасибо",
+      "norwegian": "takk"
+    },
+    "classes": [
+      "greetings"
+    ],
+    "pos": "interjection",
+    "notes": [
+      "Clearly derived from Russian спасибо"
+    ],
+    "variants": [
+      {
+        "word": "basiba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "спасибо"
+          }
+        ]
+      },
+      {
+        "word": "tak",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "takk"
+          }
+        ]
+      },
+      {
+        "word": "spasiba",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "спасибо"
+          }
+        ]
+      },
+      {
+        "word": "blavedru",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "благодарю"
+          }
+        ]
+      },
+      {
+        "word": "blagdaru",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "благодарю"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "this, that",
+      "russian": "это, этот",
+      "norwegian": "dette, den"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "pronoun",
+    "notes": [
+      "variants of Russian это/эта"
+    ],
+    "variants": [
+      {
+        "word": "etta",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "это"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "dette"
+          }
+        ]
+      },
+      {
+        "word": "eta",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "это"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "dette"
+          }
+        ]
+      },
+      {
+        "word": "ette",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "это"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "dette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "think",
+      "russian": "думать",
+      "norwegian": "tenke"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clearly derived from Russian 'думать'"
+    ],
+    "variants": [
+      {
+        "word": "dommas",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "думать"
+          }
+        ]
+      },
+      {
+        "word": "domas",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "думать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "thirteen",
+      "russian": "тринадцать",
+      "norwegian": "tretten"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clearly derived from Russian 'тринадцать' with phonetic adaptation",
+      "clearly derived from Russian тринадцать"
+    ],
+    "variants": [
+      {
+        "word": "drinatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "тринадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "thirty",
+      "russian": "тридцать",
+      "norwegian": "tretti"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "clearly derived from Russian тридцать"
+    ],
+    "variants": [
+      {
+        "word": "dritsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "тридцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "three",
+      "russian": "три",
+      "norwegian": "tre"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clear example of dual-source vocabulary with both Russian and Norwegian variants preserved"
+    ],
+    "variants": [
+      {
+        "word": "tre",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "три"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "tre"
+          }
+        ]
+      },
+      {
+        "word": "tri",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "три"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "tre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to work",
+      "russian": "работать",
+      "norwegian": "arbeide"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Shows typical -om verb ending in Russian-derived forms"
+    ],
+    "variants": [
+      {
+        "word": "råbotom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "работать"
+          }
+        ]
+      },
+      {
+        "word": "arbei",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "arbeide"
+          }
+        ]
+      },
+      {
+        "word": "råbåtom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "работать"
+          }
+        ]
+      },
+      {
+        "word": "robotom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "работать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to eat",
+      "russian": "есть, кушать",
+      "norwegian": "spise"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "'skaffom' borrowed from Dutch 'schaften'."
+    ],
+    "variants": [
+      {
+        "word": "spisom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "spise"
+          }
+        ]
+      },
+      {
+        "word": "skaffom",
+        "origin": [
+          {
+            "lang": "Dutch",
+            "word": "?schaften"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to understand",
+      "russian": "понимать",
+      "norwegian": "forstå"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Borrowed from Norwegian forstå"
+    ],
+    "variants": [
+      {
+        "word": "forstå",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "forstå"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to weigh",
+      "russian": "взвешивать",
+      "norwegian": "veie"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Verb endings in -om are characteristic of Russenorsk"
+    ],
+    "variants": [
+      {
+        "word": "vågom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "veie"
+          }
+        ]
+      },
+      {
+        "word": "vægom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "veie"
+          }
+        ]
+      },
+      {
+        "word": "vegom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "veie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to write",
+      "russian": "писать",
+      "norwegian": "skrive"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clear etymology - 'pisat' from Russian 'писать', 'skrivom' from Norwegian 'skrive'"
+    ],
+    "variants": [
+      {
+        "word": "pisat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "писать"
+          }
+        ]
+      },
+      {
+        "word": "skrivom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skrive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to order",
+      "russian": "заказать",
+      "norwegian": "bestille"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "clearly borrowed from Norwegian 'bestille'",
+      "from Norwegian 'bestille'"
+    ],
+    "variants": [
+      {
+        "word": "bestil",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bestille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to live",
+      "russian": "жить",
+      "norwegian": "leve"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Multiple variants all appear to derive from Norwegian 'leve'"
+    ],
+    "variants": [
+      {
+        "word": "leve",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "leve"
+          }
+        ]
+      },
+      {
+        "word": "leva",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "leve"
+          }
+        ]
+      },
+      {
+        "word": "levom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "leve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to have",
+      "russian": "иметь",
+      "norwegian": "ha"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "shows both Russian and Norwegian influences"
+    ],
+    "variants": [
+      {
+        "word": "har",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ha"
+          }
+        ]
+      },
+      {
+        "word": "hår",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?ha"
+          }
+        ]
+      },
+      {
+        "word": "imej",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "имеq"
+          }
+        ]
+      },
+      {
+        "word": "ha",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ha"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to sit",
+      "russian": "сидеть",
+      "norwegian": "sitte"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "clearly from Norwegian 'sitte'"
+    ],
+    "variants": [
+      {
+        "word": "sitte",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sitte"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to wait",
+      "russian": "ждать",
+      "norwegian": "vente"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "from Norwegian 'vente'"
+    ],
+    "variants": [
+      {
+        "word": "venta",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vente"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to cost",
+      "russian": "стоить",
+      "norwegian": "koste"
+    },
+    "classes": [
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clearly from Russian стоить, used in trading context"
+    ],
+    "variants": [
+      {
+        "word": "stoit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "стоит"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to travel",
+      "russian": "путешествовать",
+      "norwegian": "fare"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Appears in phrases about travel, clearly from Norwegian 'fare'"
+    ],
+    "variants": [
+      {
+        "word": "fara",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "fare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to try",
+      "russian": "пробовать",
+      "norwegian": "prøve"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Verb formation pattern with -om ending is typical for Russenorsk."
+    ],
+    "variants": [
+      {
+        "word": "proberom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пробовать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to navigate/tack",
+      "russian": "лавировать",
+      "norwegian": "krysse"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Maritime term, clearly derived from Russian лавировать"
+    ],
+    "variants": [
+      {
+        "word": "lavirum",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "лавировать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to come",
+      "russian": "прийти",
+      "norwegian": "komme"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "clearly derived from Norwegian 'komme'"
+    ],
+    "variants": [
+      {
+        "word": "kom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "komme"
+          }
+        ]
+      },
+      {
+        "word": "komma",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "komme"
+          }
+        ]
+      },
+      {
+        "word": "podjom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "пойдем"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "sick/ill",
+      "russian": "больной",
+      "norwegian": "være syk"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "adjective/verb",
+    "notes": [
+      "Derived from Germanic 'krank'"
+    ],
+    "variants": [
+      {
+        "word": "kranke",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "krank"
+          }
+        ]
+      },
+      {
+        "word": "krank",
+        "origin": [
+          {
+            "lang": "Germanic",
+            "word": "krank"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to cook",
+      "russian": "готовить, варить",
+      "norwegian": "koke"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Used in context of tea preparation, likely from Norwegian 'koke'"
+    ],
+    "variants": [
+      {
+        "word": "koga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "koke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to want",
+      "russian": "хотеть",
+      "norwegian": "ville"
+    },
+    "classes": [
+      "basic",
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clearly from Norwegian 'ville'. Used in questions and proposals"
+    ],
+    "variants": [
+      {
+        "word": "vil",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ville"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to know",
+      "russian": "знать, ведать",
+      "norwegian": "vite"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "appears in phrase 'moja ikke veit' (I don't know)",
+      "Appears to be derived from Russian знать with significant phonetic simplification"
+    ],
+    "variants": [
+      {
+        "word": "veit",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vite"
+          }
+        ]
+      },
+      {
+        "word": "snai",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "знай"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to give",
+      "russian": "дать",
+      "norwegian": "gi"
+    },
+    "classes": [
+      "basic",
+      "sales"
+    ],
+    "pos": "verb",
+    "notes": [
+      "'dast' appears related to Russian 'дать' but with modified form"
+    ],
+    "variants": [
+      {
+        "word": "dast",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "даст"
+          }
+        ]
+      },
+      {
+        "word": "gaima",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "gi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to buy",
+      "russian": "купить",
+      "norwegian": "kjøpe"
+    },
+    "classes": [
+      "sales",
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "verb forms show mixed influence from both languages"
+    ],
+    "variants": [
+      {
+        "word": "kupi",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kjøpe"
+          },
+          {
+            "lang": "Russian",
+            "word": "купи"
+          }
+        ]
+      },
+      {
+        "word": "kupom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kjøpe"
+          },
+          {
+            "lang": "Russian",
+            "word": "купи"
+          }
+        ]
+      },
+      {
+        "word": "kopisli",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kjøpe"
+          },
+          {
+            "lang": "Russian",
+            "word": "купи"
+          }
+        ]
+      },
+      {
+        "word": "kjøp",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kjøpe"
+          },
+          {
+            "lang": "Russian",
+            "word": "купи"
+          }
+        ]
+      },
+      {
+        "word": "kopom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kjøpe"
+          },
+          {
+            "lang": "Russian",
+            "word": "купи"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to be, to exist",
+      "russian": "быть, существовать",
+      "norwegian": "være, eksistere"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "from Russian 'есть'"
+    ],
+    "variants": [
+      {
+        "word": "jestli",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "есть"
+          }
+        ]
+      },
+      {
+        "word": "ist",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "есть"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to finish, to be done",
+      "russian": "закончить",
+      "norwegian": "ferdig"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "From Norwegian 'ferdig', appears in phrase 'Skoro færdi?'"
+    ],
+    "variants": [
+      {
+        "word": "færdi",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "ferdig"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to live, to get along",
+      "russian": "поживать",
+      "norwegian": "leve, klare seg"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clearly derived from Russian 'поживать'. Used in phrases like 'Kak posjivat tvoja madam?'"
+    ],
+    "variants": [
+      {
+        "word": "posjivat",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "поживать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to use, to need",
+      "russian": "использовать, нуждаться",
+      "norwegian": "bruke"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "clearly derived from Norwegian 'bruke'"
+    ],
+    "variants": [
+      {
+        "word": "bruga",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "bruke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to see, to look",
+      "russian": "смотреть, видеть",
+      "norwegian": "se"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clearly derived from Russian смотреть with characteristic -om ending for verbs",
+      "'se' is clearly borrowed from Norwegian 'se'."
+    ],
+    "variants": [
+      {
+        "word": "se",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "se"
+          }
+        ]
+      },
+      {
+        "word": "påsmotrom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "посмотреть"
+          }
+        ]
+      },
+      {
+        "word": "smotrom",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "смотреть"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to fish, to pull",
+      "russian": "ловить, тащить",
+      "norwegian": "dra fisk, trekke"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "verb",
+    "notes": [
+      "From Norwegian 'dra' (to pull) with verbal suffix -om"
+    ],
+    "variants": [
+      {
+        "word": "trekom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "trekke"
+          }
+        ]
+      },
+      {
+        "word": "dragom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "dra"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to speak, to say",
+      "russian": "говорить",
+      "norwegian": "snakke, tale"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Common communication verb, sprek/spræk likely from Norwegian 'språk' (language)"
+    ],
+    "variants": [
+      {
+        "word": "snakka",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "snakke"
+          }
+        ]
+      },
+      {
+        "word": "spræk",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "språk"
+          }
+        ]
+      },
+      {
+        "word": "skasi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "скажи"
+          }
+        ]
+      },
+      {
+        "word": "sprekam",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "språk"
+          }
+        ]
+      },
+      {
+        "word": "sprækom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "språk"
+          }
+        ]
+      },
+      {
+        "word": "sprek",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "språk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "to go, walk",
+      "russian": "идти, ходить",
+      "norwegian": "gå, spasere"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "verb",
+    "notes": [
+      "Clear Norwegian origin, appears in phrase 'gå på slipom'",
+      "verb ending -om is characteristic for Russenorsk"
+    ],
+    "variants": [
+      {
+        "word": "spasirom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "spasere"
+          }
+        ]
+      },
+      {
+        "word": "spaserom",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "spasere"
+          }
+        ]
+      },
+      {
+        "word": "gå",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "gå"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "tobacco",
+      "russian": "табак",
+      "norwegian": "tobakk"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both variants come from Russian, 'mahorka' is a specific type of cheap tobacco",
+      "Two variants exist - general 'tabaska' (likely from Russian 'табак' but modified) and specific 'mahorka' (directly from Russian 'махорка' - a specific type of cheap tobacco)"
+    ],
+    "variants": [
+      {
+        "word": "tabaska",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "табак"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "tobakk"
+          }
+        ]
+      },
+      {
+        "word": "mahorka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "махорка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "today",
+      "russian": "сегодня",
+      "norwegian": "i dag"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "clearly from Norwegian i dag"
+    ],
+    "variants": [
+      {
+        "word": "idag",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "i dag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "tomorrow",
+      "russian": "завтра",
+      "norwegian": "i morgen"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clearly based on Norwegian 'morgen'"
+    ],
+    "variants": [
+      {
+        "word": "morradag",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "morgen+dag"
+          }
+        ]
+      },
+      {
+        "word": "maarra dag",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "morgen+dag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "towel",
+      "russian": "полотенце",
+      "norwegian": "håndklæde"
+    },
+    "classes": [
+      "other"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Both variants appear to be derived from Russian: vytiralka from 'вытирать' (to wipe), futteralika possibly a corruption of the same concept"
+    ],
+    "variants": [
+      {
+        "word": "vytiralka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "вытиралка"
+          }
+        ]
+      },
+      {
+        "word": "futteralika",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "вытиралка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "truth, truthful",
+      "russian": "правда, правдивый",
+      "norwegian": "sannhet, sannferdig"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective/noun",
+    "notes": [
+      "Clearly derived from Norwegian 'sannferdig'"
+    ],
+    "variants": [
+      {
+        "word": "sanfærdig",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sannferdig"
+          }
+        ]
+      },
+      {
+        "word": "sainfærdi",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sannferdig"
+          }
+        ]
+      },
+      {
+        "word": "sanfærdi",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "sannferdig"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "twelve",
+      "russian": "двенадцать",
+      "norwegian": "tolv"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clearly derived from Russian двенадцать"
+    ],
+    "variants": [
+      {
+        "word": "tvenatsit",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "двенадцать"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "two",
+      "russian": "два",
+      "norwegian": "to"
+    },
+    "classes": [
+      "number"
+    ],
+    "pos": "numeral",
+    "notes": [
+      "Clear example of parallel borrowing from both languages",
+      "both Russian and Norwegian variants were used"
+    ],
+    "variants": [
+      {
+        "word": "tva",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "два"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "to"
+          }
+        ]
+      },
+      {
+        "word": "dva",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "два"
+          }
+        ]
+      },
+      {
+        "word": "to",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "to"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "warehouse",
+      "russian": "склад",
+      "norwegian": "pakkhus"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Compound word from Norwegian 'pakkhus'"
+    ],
+    "variants": [
+      {
+        "word": "pakkhaus",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "pakkhus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "water",
+      "russian": "вода",
+      "norwegian": "vann"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Likely from Norwegian/Germanic origin"
+    ],
+    "variants": [
+      {
+        "word": "vater",
+        "origin": [
+          {
+            "lang": "English",
+            "word": "water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "week",
+      "russian": "неделя",
+      "norwegian": "uke"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Multiple variants are inherited from Norwegian Nynorsk veke ('week'), though 'nedel' is clearly from Russian"
+    ],
+    "variants": [
+      {
+        "word": "vegel",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?uke"
+          }
+        ]
+      },
+      {
+        "word": "nedel",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "неделя"
+          }
+        ]
+      },
+      {
+        "word": "vekkel",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?uke"
+          }
+        ]
+      },
+      {
+        "word": "vikkel",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "?uke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "where",
+      "russian": "где",
+      "norwegian": "hvor"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "From Norwegian (hvor)"
+    ],
+    "variants": [
+      {
+        "word": "kori",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hvor"
+          }
+        ]
+      },
+      {
+        "word": "hvar",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hvor"
+          }
+        ]
+      },
+      {
+        "word": "kor",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hvor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "where to",
+      "russian": "куда",
+      "norwegian": "hvor"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Likely derived from Russian 'куда'"
+    ],
+    "variants": [
+      {
+        "word": "koda",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "куда"
+          }
+        ]
+      },
+      {
+        "word": "kodi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "куда"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "where from",
+      "russian": "откуда",
+      "norwegian": "hvorfra"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adverb",
+    "notes": [
+      "Clear Norwegian origin from 'hvorfra'"
+    ],
+    "variants": [
+      {
+        "word": "hårfra",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "hvorfra"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "white",
+      "russian": "белый",
+      "norwegian": "hvit"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "From Russian белый/белая with phonetic adaptation"
+    ],
+    "variants": [
+      {
+        "word": "bjelaja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "белая"
+          }
+        ]
+      },
+      {
+        "word": "bjella",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "белая"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "white flour",
+      "russian": "белая мука",
+      "norwegian": "hvitt mel"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "compound from 'bjella' (white) + 'mokka' (flour)"
+    ],
+    "variants": [
+      {
+        "word": "bjella mokka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "белая мука"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "daughter",
+      "russian": "дочь",
+      "norwegian": "datter"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      ""
+    ],
+    "variants": [
+      {
+        "word": "piga",
+        "origin": [
+          {
+            "lang": "Danish",
+            "word": "piga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "wife",
+      "russian": "жена",
+      "norwegian": "kone"
+    },
+    "classes": [
+      "family"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Norwegian origin, with typical Russenorsk variation in spelling"
+    ],
+    "variants": [
+      {
+        "word": "kona",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kone"
+          }
+        ]
+      },
+      {
+        "word": "madam",
+        "origin": [
+          {
+            "lang": "French",
+            "word": "мадам"
+          }
+        ]
+      },
+      {
+        "word": "kåna",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kone"
+          }
+        ]
+      },
+      {
+        "word": "konna",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "kone"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "wind",
+      "russian": "ветер",
+      "norwegian": "vind"
+    },
+    "classes": [
+      "maritime"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Clear Norwegian origin"
+    ],
+    "variants": [
+      {
+        "word": "ven",
+        "origin": [
+          {
+            "lang": "??",
+            "word": "??"
+          }
+        ]
+      },
+      {
+        "word": "vind",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "vind"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "wine",
+      "russian": "вино",
+      "norwegian": "vin"
+    },
+    "classes": [
+      "goods"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Shows both Russian and Norwegian influences"
+    ],
+    "variants": [
+      {
+        "word": "vina",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "вино"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "vin"
+          }
+        ]
+      },
+      {
+        "word": "vin",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "вино"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "vin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "year",
+      "russian": "год",
+      "norwegian": "år"
+    },
+    "classes": [
+      "time"
+    ],
+    "pos": "noun",
+    "notes": [
+      "All variants appear to be derived from Norwegian 'år'"
+    ],
+    "variants": [
+      {
+        "word": "år",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "år"
+          }
+        ]
+      },
+      {
+        "word": "årt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "år"
+          }
+        ]
+      },
+      {
+        "word": "aart",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "år"
+          }
+        ]
+      },
+      {
+        "word": "ort",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "år"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "yes",
+      "russian": "да",
+      "norwegian": "ja"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "particle",
+    "notes": [
+      "Both Russian and English variants were used"
+    ],
+    "variants": [
+      {
+        "word": "jes",
+        "origin": [
+          {
+            "lang": "English",
+            "word": "yes"
+          }
+        ]
+      },
+      {
+        "word": "da",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "да"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "you",
+      "russian": "ты",
+      "norwegian": "du"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "pronoun",
+    "notes": [
+      "Shows both Russian and Norwegian influences",
+      "Parallel construction to 'moja'",
+      "Used both as subject and possessive pronoun. 'tvoja/tvoj' clearly from Russian 'твой', 'ju' likely from English 'you' via Norwegian"
+    ],
+    "variants": [
+      {
+        "word": "tvoj",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "твой"
+          }
+        ]
+      },
+      {
+        "word": "ju",
+        "origin": [
+          {
+            "lang": "English",
+            "word": "you"
+          }
+        ]
+      },
+      {
+        "word": "tyi",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "ты"
+          }
+        ]
+      },
+      {
+        "word": "tvåja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "твоя"
+          }
+        ]
+      },
+      {
+        "word": "tvoja",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "твоя"
+          }
+        ]
+      },
+      {
+        "word": "du",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "du"
+          }
+        ]
+      }
+    ]
+  }
+]
