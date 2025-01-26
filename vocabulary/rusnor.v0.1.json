@@ -173,68 +173,6 @@
   },
   {
     "entity": {
-      "english": "Russian (person/language)",
-      "russian": "русский человек",
-      "norwegian": "russer"
-    },
-    "classes": [
-      "social",
-      "proper name"
-    ],
-    "pos": "noun",
-    "notes": [
-      "Compound word combining 'russ' (Russian) + 'mann' (man)"
-    ],
-    "variants": [
-      {
-        "word": "russemann",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "russ+mann"
-          }
-        ]
-      },
-      {
-        "word": "rusman",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "russ+mann"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "entity": {
-      "english": "Russian people",
-      "russian": "русские",
-      "norwegian": "russere"
-    },
-    "classes": [
-      "social",
-      "proper name"
-    ],
-    "pos": "noun",
-    "notes": [
-      "compound from 'russe' (Russian) + Norwegian 'folk' (people)",
-      "compound word from Norwegian 'russe' + 'folk'"
-    ],
-    "variants": [
-      {
-        "word": "russefolk",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "russe+folk"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "entity": {
       "english": "Sami person",
       "russian": "саам, лопарь",
       "norwegian": "same, finn"
@@ -312,8 +250,8 @@
   },
   {
     "entity": {
-      "english": "anchor",
-      "russian": "якорь",
+      "english": "grapnel",
+      "russian": "кошка(якорь)",
       "norwegian": "dregg"
     },
     "classes": [
@@ -321,14 +259,14 @@
     ],
     "pos": "noun",
     "notes": [
-      "from Norwegian 'dregg'"
+      "from Norwegian Bokmål 'dregg'"
     ],
     "variants": [
       {
         "word": "dregg",
         "origin": [
           {
-            "lang": "Norwegian",
+            "lang": "Norwegian Bokmål",
             "word": "dregg"
           }
         ]
@@ -468,9 +406,9 @@
   },
   {
     "entity": {
-      "english": "apron",
-      "russian": "фартук",
-      "norwegian": "forkle"
+      "english": "neckerchiefs",
+      "russian": "платок/шейный паток",
+      "norwegian": "halstørkle"
     },
     "classes": [
       "goods"
@@ -608,31 +546,6 @@
           {
             "lang": "Russian",
             "word": "бочка"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "entity": {
-      "english": "bear meat",
-      "russian": "медвежатина",
-      "norwegian": "bjørnekjøtt"
-    },
-    "classes": [
-      "goods"
-    ],
-    "pos": "noun",
-    "notes": [
-      "clearly from Norwegian 'bjørn' (bear) + 'mad' (food)"
-    ],
-    "variants": [
-      {
-        "word": "biønemad",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "bjørne mad"
           }
         ]
       }
@@ -865,7 +778,7 @@
     "entity": {
       "english": "birch bark",
       "russian": "береста",
-      "norwegian": "never"
+      "norwegian": "bjørk bark/never"
     },
     "classes": [
       "goods"
@@ -890,6 +803,15 @@
           {
             "lang": "Russian",
             "word": "береста"
+          }
+        ]
+      },
+      {
+        "word": "never",
+        "origin": [
+          {
+            "lang": "Norwegian Bokmål",
+            "word": "never"
           }
         ]
       }
@@ -977,7 +899,7 @@
       "norwegian": "gutt"
     },
     "classes": [
-      "family"
+      "social"
     ],
     "pos": "noun",
     "notes": [
@@ -1044,6 +966,40 @@
   },
   {
     "entity": {
+      "english": "small",
+      "russian": "små",
+      "norwegian": "gutt"
+    },
+    "classes": [
+      "basic"
+    ],
+    "pos": "adjective",
+    "notes": [
+      "From Russian маленький"
+    ],
+    "variants": [
+      {
+        "word": "malenka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "маленький"
+          }
+        ]
+      },
+      {
+        "word": "malinka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "маленький"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
       "english": "bread",
       "russian": "хлеб",
       "norwegian": "brød"
@@ -1080,7 +1036,7 @@
     "entity": {
       "english": "bread cracker",
       "russian": "сухарь",
-      "norwegian": "kavring"
+      "norwegian": "hvetekavringer"
     },
     "classes": [
       "goods"
@@ -1196,7 +1152,8 @@
       "norwegian": "brosme"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -1385,10 +1342,6 @@
     ],
     "variants": [
       {
-        "word": "bån-bån",
-        "origin": []
-      },
-      {
         "word": "bong-bong",
         "origin": []
       },
@@ -1474,7 +1427,8 @@
       "norwegian": "steinbit"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -1573,13 +1527,13 @@
   {
     "entity": {
       "english": "cheap",
-      "russian": "дешёвый",
+      "russian": "дешёвый/дёшево",
       "norwegian": "billig"
     },
     "classes": [
       "sales"
     ],
-    "pos": "adjective",
+    "pos": "adjective/adverb",
     "notes": [
       "Has variants from both source languages"
     ],
@@ -1704,7 +1658,8 @@
       "norwegian": "torsk"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -2501,7 +2456,7 @@
   {
     "entity": {
       "english": "exchange, trade",
-      "russian": "менять, обменивать",
+      "russian": "менять, обменивать, обмен",
       "norwegian": "bytte"
     },
     "classes": [
@@ -2516,18 +2471,26 @@
         "word": "trokkom",
         "origin": [
           {
-            "lang": "Norwegian",
-            "word": "trukket"
-          }
+            "lang": "Spanish",
+            "word": "trocar"
+          },
+          {
+            "lang": "French",
+            "word": "troquer"
+          }          
         ]
       },
       {
         "word": "trokk",
         "origin": [
           {
-            "lang": "Norwegian",
-            "word": "trukket"
-          }
+            "lang": "Spanish",
+            "word": "trocar"
+          },
+          {
+            "lang": "French",
+            "word": "troquer"
+          }          
         ]
       }
     ]
@@ -2541,7 +2504,7 @@
     "classes": [
       "sales"
     ],
-    "pos": "adjective",
+    "pos": "adjective/adverb",
     "notes": [
       "Russian variants clearly derive from дорого/дорогой, Norwegian from 'dyr'",
       "From Russian дорогой, with phonetic adaptation",
@@ -2661,7 +2624,7 @@
     ],
     "pos": "interjection",
     "notes": [
-      "All variants clearly come from Russian досвидания/прощай"
+      "All variants clearly come from Russian до свидания/прощай"
     ],
     "variants": [
       {
@@ -2835,6 +2798,7 @@
     },
     "classes": [
       "goods",
+      "fish",
       "maritime"
     ],
     "pos": "noun",
@@ -3049,31 +3013,6 @@
   },
   {
     "entity": {
-      "english": "fists",
-      "russian": "кулаки",
-      "norwegian": "never"
-    },
-    "classes": [
-      "other"
-    ],
-    "pos": "noun",
-    "notes": [
-      "clearly from Norwegian 'never'"
-    ],
-    "variants": [
-      {
-        "word": "næver",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "never"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "entity": {
       "english": "five",
       "russian": "пять",
       "norwegian": "fem"
@@ -3122,7 +3061,8 @@
       "norwegian": "flyndre"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -3523,7 +3463,7 @@
   {
     "entity": {
       "english": "to present",
-      "russian": "дарить",
+      "russian": "дарить, давать/представлять, знакомить",
       "norwegian": "presentere"
     },
     "classes": [
@@ -3566,13 +3506,13 @@
   {
     "entity": {
       "english": "good",
-      "russian": "хороший",
+      "russian": "хороший/хорошо",
       "norwegian": "god"
     },
     "classes": [
       "basic"
     ],
-    "pos": "adjective",
+    "pos": "adjective/adverb",
     "notes": [
       "Clearly from Russian 'хорошо/хороший', used as both adjective and adverb",
       "dobra from Russian 'добрый', gut possibly from Norwegian 'god' or German 'gut'",
@@ -3863,7 +3803,8 @@
       "norwegian": "hyse"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -3954,7 +3895,7 @@
     "classes": [
       "number"
     ],
-    "pos": "noun/adjective",
+    "pos": "noun",
     "notes": [
       "Clearly derived from Norwegian 'halv'",
       "appears in trade context for splitting quantities"
@@ -3978,7 +3919,8 @@
       "norwegian": "kveite"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -4153,7 +4095,8 @@
       "norwegian": "sild"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -4201,15 +4144,6 @@
         ]
       },
       {
-        "word": "dåmå",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "дом"
-          }
-        ]
-      },
-      {
         "word": "datsja",
         "origin": [
           {
@@ -4224,15 +4158,6 @@
           {
             "lang": "Norwegian",
             "word": "hjem"
-          }
-        ]
-      },
-      {
-        "word": "domo",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "дом"
           }
         ]
       }
@@ -4370,7 +4295,7 @@
         "origin": [
           {
             "lang": "Russian",
-            "word": "как"
+            "word": "какой"
           }
         ]
       },
@@ -4405,7 +4330,6 @@
     ],
     "pos": "numeral",
     "notes": [
-      "Clear etymology - 'sto' from Russian 'сто', 'hunder' from Norwegian 'hundre'",
       "Clear etymology - 'sto' from Russian 'сто', 'hunder' from Norwegian 'hundre'"
     ],
     "variants": [
@@ -4614,7 +4538,6 @@
       "norwegian": "lyge"
     },
     "classes": [
-      "sales",
       "basic"
     ],
     "pos": "verb",
@@ -4688,7 +4611,7 @@
   {
     "entity": {
       "english": "lie down, sleep",
-      "russian": "лежать",
+      "russian": "лежать, спать",
       "norwegian": "ligge"
     },
     "classes": [
@@ -5019,7 +4942,7 @@
         "origin": [
           {
             "lang": "Russian",
-            "word": "?манера"
+            "word": "манера, фасон"
           }
         ]
       }
@@ -5035,7 +4958,7 @@
       "basic",
       "number"
     ],
-    "pos": "adjective",
+    "pos": "adverb",
     "notes": [
       "Clearly borrowed from Norwegian, used in quantity expressions"
     ],
@@ -5332,7 +5255,7 @@
       "norwegian": "naturligvis"
     },
     "classes": [
-      "greetings"
+      "basic"
     ],
     "pos": "adverb",
     "notes": [
@@ -5961,7 +5884,8 @@
       "norwegian": "uer"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
     "notes": [
@@ -6154,18 +6078,74 @@
   },
   {
     "entity": {
-      "english": "pollock fish",
+      "english": "saithe/pollock fish",
       "russian": "сайда",
       "norwegian": "sei"
     },
     "classes": [
-      "goods"
+      "goods",
+      "fish"
     ],
     "pos": "noun",
-    "notes": [],
+    "notes": [
+      "Shows typical variation in spelling and pronunciation",
+      "Can be a combination from Russian 'сайда' and Norwegian 'sei'"
+    ],
     "variants": [
       {
         "word": "sajti",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "saiga",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "seika",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "saika",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "сайда"
+          },
+          {
+            "lang": "Norwegian",
+            "word": "sei"
+          }
+        ]
+      },
+      {
+        "word": "seiga",
         "origin": [
           {
             "lang": "Russian",
@@ -6661,75 +6641,6 @@
   },
   {
     "entity": {
-      "english": "saithe",
-      "russian": "сайда",
-      "norwegian": "sei"
-    },
-    "classes": [
-      "goods"
-    ],
-    "pos": "noun",
-    "notes": [
-      "Shows typical variation in spelling and pronunciation",
-      "Can be a combination from Russian 'сайда' and Norwegian 'sei'"
-    ],
-    "variants": [
-      {
-        "word": "saiga",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "сайда"
-          },
-          {
-            "lang": "Norwegian",
-            "word": "sei"
-          }
-        ]
-      },
-      {
-        "word": "seika",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "сайда"
-          },
-          {
-            "lang": "Norwegian",
-            "word": "sei"
-          }
-        ]
-      },
-      {
-        "word": "saika",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "сайда"
-          },
-          {
-            "lang": "Norwegian",
-            "word": "sei"
-          }
-        ]
-      },
-      {
-        "word": "seiga",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "сайда"
-          },
-          {
-            "lang": "Norwegian",
-            "word": "sei"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "entity": {
       "english": "salt",
       "russian": "соль",
       "norwegian": "salt"
@@ -6780,12 +6691,164 @@
   },
   {
     "entity": {
+      "english": "ship",
+      "russian": "корабль",
+      "norwegian": "skip"
+    },
+    "classes": [
+      "maritime",
+      "watercraft"
+    ],
+    "pos": "noun",
+    "notes": [
+      "Some variants appear to derive from Norwegian skip"
+    ],
+    "variants": [
+      {
+        "word": "skib",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skip"
+          }
+        ]
+      },
+      {
+        "word": "skuta",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skip"
+          }
+        ]
+      },
+      {
+        "word": "sjib",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skip"
+          }
+        ]
+      },
+      {
+        "word": "skip",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "skip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "boat",
+      "russian": "лодка",
+      "norwegian": "båt"
+    },
+    "classes": [
+      "maritime",
+      "watercraft"
+    ],
+    "pos": "noun",
+    "notes": [],
+    "variants": [
+      {
+        "word": "båt",
+        "origin": [
+          {
+            "lang": "Norwegian",
+            "word": "båt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "Pomor fishing boat",
+      "russian": "шнека/шняка",
+      "norwegian": "nordlandsbåt/snekkja"
+    },
+    "classes": [
+      "maritime",
+      "watercraft"
+    ],
+    "pos": "noun",
+    "notes": [
+      "snjaka likely from Russian снека/шняка (type of fishing boat)"
+    ],
+    "variants": [
+      {
+        "word": "snjaka",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "шняка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "jolly boat",
+      "russian": "небольшая шлюпка",
+      "norwegian": "småbåt"
+    },
+    "classes": [
+      "maritime",
+      "watercraft"
+    ],
+    "pos": "noun",
+    "notes": [],
+    "variants": [
+      {
+        "word": "jolla",
+        "origin": [
+          {
+            "lang": "German",
+            "word": "jolle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
+      "english": "karbas",
+      "russian": "карбас",
+      "norwegian": "karbas"
+    },
+    "classes": [
+      "maritime",
+      "watercraft"
+    ],
+    "pos": "noun",
+    "notes": [],
+    "variants": [
+      {
+        "word": "karbas",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "карбас"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": {
       "english": "schooner",
       "russian": "шхуна",
       "norwegian": "skonnert"
     },
     "classes": [
-      "maritime"
+      "maritime",
+      "watercraft"
     ],
     "pos": "noun",
     "notes": [
@@ -6966,96 +7029,6 @@
           {
             "lang": "Norwegian",
             "word": "skal"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "entity": {
-      "english": "ship",
-      "russian": "корабль",
-      "norwegian": "skip"
-    },
-    "classes": [
-      "maritime"
-    ],
-    "pos": "noun",
-    "notes": [
-      "Some variants appear to derive from Norwegian skip",
-      "snjaka likely from Russian снека/шняка (type of fishing boat)",
-      "Multiple terms for various types of watercraft, both from Russian and Norwegian origins"
-    ],
-    "variants": [
-      {
-        "word": "skib",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "skip"
-          }
-        ]
-      },
-      {
-        "word": "skuta",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "?skip"
-          }
-        ]
-      },
-      {
-        "word": "sjib",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "skip"
-          }
-        ]
-      },
-      {
-        "word": "båt",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "båt"
-          }
-        ]
-      },
-      {
-        "word": "snjaka",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "шняка"
-          }
-        ]
-      },
-      {
-        "word": "jolla",
-        "origin": [
-          {
-            "lang": "German",
-            "word": "jolle"
-          }
-        ]
-      },
-      {
-        "word": "karbas",
-        "origin": [
-          {
-            "lang": "Russian",
-            "word": "карбас"
-          }
-        ]
-      },
-      {
-        "word": "skip",
-        "origin": [
-          {
-            "lang": "Norwegian",
-            "word": "?skip"
           }
         ]
       }
@@ -8071,7 +8044,7 @@
         "origin": [
           {
             "lang": "Russian",
-            "word": "имеq"
+            "word": "иметь"
           }
         ]
       },
@@ -8345,8 +8318,7 @@
       "norwegian": "ville"
     },
     "classes": [
-      "basic",
-      "sales"
+      "basic"
     ],
     "pos": "verb",
     "notes": [
@@ -8406,8 +8378,7 @@
       "norwegian": "gi"
     },
     "classes": [
-      "basic",
-      "sales"
+      "basic"
     ],
     "pos": "verb",
     "notes": [
@@ -9276,6 +9247,7 @@
       "norwegian": "hvit"
     },
     "classes": [
+      "basic",
       "goods"
     ],
     "pos": "adjective",
