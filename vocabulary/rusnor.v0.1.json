@@ -307,7 +307,7 @@
       "norwegian": "sint, vred"
     },
     "classes": [
-      "other"
+      "basic"
     ],
     "pos": "adjective",
     "notes": [
@@ -967,8 +967,8 @@
   {
     "entity": {
       "english": "small",
-      "russian": "små",
-      "norwegian": "gutt"
+      "russian": "маленький",
+      "norwegian": "små"
     },
     "classes": [
       "basic"
@@ -1005,7 +1005,8 @@
       "norwegian": "brød"
     },
     "classes": [
-      "goods"
+      "goods",
+      "trade"
     ],
     "pos": "noun",
     "notes": [
