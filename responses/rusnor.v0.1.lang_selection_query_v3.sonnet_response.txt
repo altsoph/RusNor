@@ -1,0 +1,67 @@
+Let me analyze this step by step.
+
+<notes>
+1. Basic concepts (numbers, pronouns) often have variants from both Russian and Norwegian: "one" (odin/en), "two" (dva/to)
+2. Maritime terms tend to lean towards Norwegian: "ship" (skip/skib), "deck" (dekk)
+3. Trade-related terms often come from Russian: "money" (diengi/dengi), "sell" (prodai)
+4. Food items often take from Russian: "bread" (kleba), "butter" (masla)
+5. Modern/urban concepts tend to use Norwegian: "policeman" (polismann)
+6. Some words merge both languages: "captain" (kapitan - similar in both)
+7. Common verbs often have variants from both: "to buy" (kupi/kjøp)
+8. Time-related words tend to use Norwegian: "week" (vegel), "day" (dag)
+9. Nature terms show mixed origin: "wind" (vind - Norwegian), "sea" (gav from hav - Norwegian)
+10. Family terms show mixed usage: "father" (far - Norwegian), "son" (sønn/siin - both)
+</notes>
+
+<thinking>
+Hypotheses for language choice:
+1. Frequency of interaction - terms used more often in trading context tend to come from Russian
+2. Domain specificity - maritime terms favor Norwegian as they were the seafaring experts
+3. Cultural dominance - household items often use Russian terms
+4. Phonetic simplicity - words that are easier to pronounce tend to be preferred
+5. Mutual intelligibility - words that sound similar in both languages are preferred
+6. Functional necessity - concepts crucial for trade get words from both languages
+7. Historical precedence - traditional items keep original language terms
+8. Social context - formal/official terms tend toward Norwegian
+9. Environmental context - nature terms prefer the language of the dominant culture in that domain
+10. Word length - shorter variants tend to be preferred
+11. Vowel harmony - words that fit existing phonetic patterns are preferred
+12. Trade power dynamics - the seller's language might be preferred for trade terms
+</thinking>
+
+<final_answer>
+Rules for selecting source language and words in Russenorsk:
+
+1. Primary Domain Rule:
+- Use Norwegian for maritime/nautical terminology
+- Use Russian for trade goods and household items
+- Use both languages for crucial trade/interaction terms
+
+2. Functional Necessity Rule:
+- Core concepts (numbers, basic verbs, common nouns) should have variants from both languages
+- Choose simpler pronunciation when multiple options exist
+
+3. Cultural Context Rule:
+- Use source language of the culture that dominates the concept's domain
+- For shared cultural concepts, prefer the simpler or shorter term
+
+4. Phonetic Integration Rule:
+- Prefer words that:
+  * Are shorter and easier to pronounce
+  * Match existing Russenorsk phonetic patterns
+  * Can be easily modified with Russenorsk suffixes
+
+5. Trade Interaction Rule:
+- Use Russian for seller-side terminology
+- Use Norwegian for buyer-side terminology
+- Use both for neutral trade terms
+
+6. Modern Concept Rule:
+- Use Norwegian for modern/urban/official concepts
+- Use Russian for traditional/household items
+
+7. Merger Preference Rule:
+- When words are similar in both languages, create a hybrid form
+- Preserve recognizable roots from source languages
+
+These rules should be applied in order of priority, with functional necessity and trade interaction rules taking precedence over others when conflicts arise.

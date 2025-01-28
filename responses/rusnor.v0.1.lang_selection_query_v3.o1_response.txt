@@ -1,0 +1,45 @@
+<notes>
+• The words for “I, me” (mi, ja, måja, moj, måje, moja) suggest that sometimes speakers borrowed from Russian “я, моя, мой” or from English “me,” reflecting a mix of Russian and other external influences for one of the most basic pronouns.  
+• References to “Norway” (Norge) and “Norwegian” (norsk, norske) clearly derive from Norwegian, implying that native Norwegian terms tend to cover items or concepts distinctively tied to Norway or the Norwegian side of the pidgin’s geography.  
+• Words for “Russia” (Rusleien, Russlann, Rosland) appear in Norwegian-like forms (“Russland”). Sometimes a slight morphological twist happens in Russenorsk, but they still reflect a Norwegian basis for mentioning the ‘other country.’  
+• Certain maritime items or seafaring notions—like “grapnel” (dregg), “and” (og, saa), “deck” (paluba, dekk)—trace back to either Russian or Norwegian (paluba ← палуба, dekk ← Norwegian), depending on which side introduced that nautical term historically or was likelier to use it in context.  
+• Words strongly tied to Russian cultural or daily life—like “angry” (vred, vrei, vre from vred), “other, another” (drogoj, droggi from другой), “neckerchiefs” (platka from платок), “bad” (propal from пропал), “beer” (kvas from квас), “bread” (kleba, klæba from хлеб), “thank you” (spasiba, basiba from спасибо)—mostly come from Russian.  
+• Conversely, domestic, everyday items that were also quite standard in Norwegian culture—like “bad” (dårlig), “butter” (marsla, masla from масло or Norwegian “smør,” though Russenorsk uses the borrowed form from Russian), “to buy” (kupi, kopom from купить/ Norwegian kjøpe)—show that certain concepts might come from Russian or Norwegian, depending on which form took hold in the fishing or trading environment.  
+• Many verbs appear in either a Norwegian-based form or a Russian-based form, e.g., “to work” (råbotom, robotom from работать; alternatively arbei from arbeide), “to pay” (betalom from betale; plati from платить). This suggests that when Russians or Norwegians introduced or needed a particular verb in a trade or fishing context, the group might adopt a phonologically convenient adaptation of that source.  
+• Numerals often show a strong Russian flavor for anything above “three,” e.g., “eight” (vosom ← восемь), “seventy” (semdisat ← семьдесят), “nineteen” (divinatsit ← девятнадцать). Meanwhile, Norwegian influences appear in smaller or simpler counts, e.g., “four” (fir, fire), “two” (to), because Norwegian cardinal numbers were also straightforward.  
+• Many seafaring fish names and maritime expressions come from Norwegian (e.g., fljundra from Norwegian flyndre “flounder”), but sometimes from Russian if the fish was especially recognized in Pomor usage (piksa from пикша “haddock”).  
+• Some words that have pan-European or novel origin (e.g., from French, English, or other languages) were integrated if that was the known word in trade or daily usage. For instance, “rogue” (kanalijunka from French canaille + junga), “to exchange, trade” (trokkom from French troquer or Spanish trocar), “candy” (bon-bon, bong-bong from French). Sometimes the Russenorsk form merges or shortens them.  
+• Words that revolve around local or immediate usage—for instance, “where” (kor, hvar from Norwegian hvor, occasionally koda from Russian куда), or “how much” (skolko from сколько) and “manga” from Norwegian “mange”—often take whichever form the speaker’s side used first for daily conversation.  
+
+In short, each concept or item often reflects who introduced it first (Russian or Norwegian), how common or specialized it was in either language, and how easy it was to pronounce or adapt phonetically for both sides.
+</notes>
+
+<thinking>
+1) The source of a Russenorsk word can be determined by:  
+• Which group (Russians or Norwegians) customarily controlled or specialized in that concept (for example, fish or maritime tools often came from Norwegian, everyday or agrarian items might come from Russian).  
+• The concept’s link to uniquely Russian or uniquely Norwegian daily experience. If it was strongly tied to Russian cultural life (e.g. kvas), the Russian term was used; if it was strongly Norwegian (e.g. Sunday = søndag), the Norwegian term was used.  
+• The relative ease of pronunciation or morphological transformation into a simple Russenorsk form can be a factor—some Russian words are truncated, while Norwegian forms might shift vowels or endings.  
+• Trade or commerce words could come from either side if they were used commonly in cross-border transactions, so the deciding factor might be which form got “popular” or “understood” fastest among bilingual fishermen.  
+• Higher numbers or more complex grammatical forms sometimes come from Russian, likely because Russians might have introduced them in trade negotiations, or because the Pomor side was dominant in those contexts.  
+• When no direct Russian/Norwegian term was prevalent, Russenorsk might adopt words from a third language (English, French, or Dutch), especially if it was an internationally used shipping term (like “brygge” → broga or “canaille” → kanalijunka).  
+
+2) Some rules might converge or overlap, so we should unify them:  
+• Domain-based origin (maritime vs. domestic vs. trade).  
+• Frequency of usage in cross-border exchange.  
+• Ease of articulation, or simpler morphological pattern.  
+• Cultural or local ownership (which side typically introduced or used that concept).  
+
+3) Reject or merge:  
+• The idea that “all fish terms are from Norwegian” is slightly too absolute; in reality, fish central to Pomor trade might come from Russian. A more general rule is “the side with greater expertise or usage for that concept contributed the word.”  
+• Similarly, “all daily items come from Russian” is too simplistic; there are plenty of everyday terms from Norwegian, so it’s about which side’s usage was more convenient or established.  
+
+4) We end up with a set of consolidated rules that revolve around the concept’s domain, cultural ownership, trade frequency, and ease of morphological assimilation.
+</thinking>
+
+<final_answer>
+1) If one community owned or specialized in the concept (e.g., maritime skills more on the Norwegian side, certain agricultural or household terms on the Russian side), Russenorsk typically borrowed that side’s word.  
+2) Whenever a concept was strongly tied to one side’s culture (e.g., religious/cultural traditions, typical foods, numeric use for bargaining, local fish species), that side’s vocabulary generally prevailed.  
+3) Ease of pronunciation and morphological simplification played a big role; sometimes a Norwegian- or Russian-based root was chosen simply because it could be truncated or adapted more smoothly into Russenorsk.  
+4) Certain “universal” or widespread terms (from French, English, Dutch, etc.) were adopted if they were already known to both sides and served as a straightforward “bridge” word in trade or daily communication.  
+5) Over time, whichever form—Russian or Norwegian—was best understood in actual interactions tended to be used, meaning popular usage could solidify one imported word over another if it was simpler or more recognizable.  
+</final_answer>

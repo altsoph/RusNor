@@ -1,0 +1,79 @@
+<notes>
+1) Many Russian infinitive/endings in -ать, -ить, etc. become -om or -a in Russenorsk (“rabotatʼ” → “råbotom”, “drikke” → “drikkom”, “skaffe” → “skaffom”). This suggests the addition of -om (or sometimes -a) as a verbal marker.
+
+2) Final consonants from Russian/Norwegian words are often dropped or softened, or replaced with a vowel ending (“lånja” from “lang”, “rabota” → “råbotom”). Norwegian “-e” endings often become -a or -om. Russian endings like -ть and -т are dropped or turned into -om or -a.
+
+3) Russian palatalized consonants (like ть, дь, сь) often lose the palatalization or turn into simpler forms: “смотрите” → “smotrom” or “посмотреть” → “påsmotrom”.
+
+4) Voicing changes and consonant shifts occur:  
+   – Russian “в” can become “v” or “w” or even vanish in some positions (“vrei” from “vred”).  
+   – Russian “з” or “зд” clusters can turn into “s”/“st”/“str” (“здравствуй” → “strasvui”).  
+   – Norwegian “k” before front vowels may become “tj”/“ch”/“kj” style (“koke” → “koga”, “kjøpe” → “kupom”).
+
+5) Vowels are replaced, merged, or simplified, often taking a more open or simpler shape:  
+   – Norwegian “ø”, “æ”, “å” may become “a”, “o”, or “u” (“dårlig” → “dåråleg(i)”, “norsk” → “norsk(e)” or “nor(sk)”).  
+   – Russian “ы” can become “i” or “y” (“рыба” → “ryba”, “рк” → “rk” or “rik”).
+
+6) Many borrowed words show reanalysis or insertion of extra syllables or substitution of unfamiliar clusters: “давай” → “davai”, “vare” + “товар” → “tovara”, “g” or “k” or “t” inserted, “продать” → “prodaj/prodåj”, “konnsul” → “konsul/kaansul”.
+
+7) The consonant “h” from Norwegian can drop or become “g” or remain “h”, depending on position. Sometimes “g” from Norwegian merges with “k” or “h”, e.g. “hav” → “gav/gaf”, “hage” might become “aga” or “haka” (pattern seen with “gav” from “hav”).
+
+8) Nasalization or cluster simplification: “-mn-” or “-gn-” can collapse to “n” or “m”. Norwegian “mange” plus Russian “много” → “mangeli”, “nogli”, etc. Variation in  nasal or guttural consonants is frequent.
+
+9) Some borrowed words retain their initial letter but adopt Russenorsk vowels or endings, for example:  
+   – “капитан/kaptein” → “kapitan”, “kapitån”, “kaptein”.  
+   – “республика” might be “respublika”, etc.  
+   – The morphological marker “-om” for verbs is especially common (drikkom, spaserom, sel(l)om).
+
+10) Stress often shifts toward the first or second syllable in a simpler pattern (e.g., Russian “работáть” can become “rábotom” or “råbåtom,” with initial or penultimate stress). The orthography may reflect new stress patterns by dropping or altering unstressed vowels.
+
+</notes>
+
+<thinking>
+From the above notes, we see that Russenorsk tries to merge Norwegian and Russian (and sometimes English/Germanic) into a simplified, “pidginized” phonetic system. Common themes are:
+
+• Loss or replacement of final Russian or Norwegian endings (-t, -ть, -e).  
+• Introduction of the verbal ending -om (or sometimes -a).  
+• Simplification of consonant clusters (“зд” → “str”, “kj-” → “tj-/k-”).  
+• Vowel merging (Norwegian å, ø, æ → a or o; Russian ы → i/y).  
+• Possible insertion or loss of consonants (“vater” from “water”, “gav” from “hav”).  
+• General preference for simpler open syllables or fewer consonant clusters.  
+• Stress shift or simplification, with the orthography re-spelled to match new stress or phonotactics.
+
+Hypotheses for the system of rules:
+
+1) Drop or change final consonants from Russian or Norwegian to an -a or an -om if it’s a verb.  
+2) Collapse unusual vowel sounds to basic vowels (a, o, u, i, e).  
+3) When confronted with palatalized consonants (like Russian ть, дь, ль), remove or reduce the palatalization (making it t, d, l), or turn it into an extra j-sound at times.  
+4) Insert an extra vowel to break up clusters or adapt them: (spasere → spaserom).  
+5) For verbs, particularly from Russian infinitives or Norwegian infinitives, add -om or -a as a morphological marker.  
+6) Attempt to keep initial consonants but shift or replace them if they are unknown: “х” might become “h” or vanish; “зд” → “str”; Norwegian “kj” → “tj” or “k”.  
+7) Merge or drop final syllables that are unstressed or complicated in the original language.  
+8) Replace or drop “soft signs” or “ь”/“ъ”.  
+9) Keep stress on the first or second syllable, re-spell accordingly.  
+
+Criticism: Some minor rules might be sub-variants (like “здр” → “str” or “dr”). Consolidate them into “complex clusters become simpler.” The -om suffix is highly consistent for many borrowed verbs but not universal (some end in -a). The vowel changes can be grouped under “reduce to the common Russenorsk vowel set: a, e, i, o, u.”  
+
+Final solid rules:  
+• Reduction of final consonants or addition of a standard Russenorsk ending (-om or -a).  
+• Simplify or adapt complicated vowel or consonant clusters.  
+• Merge vowels and remove or reduce palatalization.  
+• Possibly add an inserted vowel to break clusters.  
+• Use typical Russenorsk stress (often penultimate) and re-spell.  
+
+</thinking>
+
+<final_answer>
+1) Verb endings: Russian -ать/-ить or Norwegian -e often become -om or -a in Russenorsk (e.g., “работать” → “råbotom,” “drikke” → “drikkom”).  
+2) Unstressed/final consonants or syllables are dropped or replaced with a simpler vowel ending (e.g., “bestille” → “bestil,” “продай” → “prodaj”).  
+3) Vowel simplification: Russian or Norwegian vowels (ы, ø, å, æ) are replaced by a small set (a, o, u, i, e). Palatal or nasal vowels are de-palatalized (no ь, no nasal).  
+4) Consonant cluster reduction:  
+   – Palatalized consonants lose the palatal quality (ть → t, дь → d, ш → s/sh depending on context).  
+   – Initial clusters are simplified or re-mapped (“зд” → “str,” “kj” → “kj”/“tj”/“k”).  
+5) Inserting extra vowels: If a cluster is too complex, an extra vowel (often “o” or “a”) is inserted (e.g., “drikkom,” “smotrom”).  
+6) Stress is usually shifted to the first or second syllable, and spelling adjusts accordingly.  
+7) Soft signs (ь, ъ) are dropped, and final -ть is removed or replaced (e.g., “смотреть” → “smotrom”).  
+8) Morphological reanalysis often merges English/Norwegian/Russian shapes into a single system. “Om” or “a” marks verbs. Nouns frequently end in an open syllable (e.g., -a) or remain CVC.  
+
+These steps collectively transform the original source word (Russian, Norwegian, etc.) into a simpler Russenorsk form, aligning to the pidgin’s limited phonological inventory and simplified morphology.
+</final_answer>
