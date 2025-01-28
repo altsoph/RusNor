@@ -771,6 +771,15 @@
             "word": "большой"
           }
         ]
+      },
+      {
+        "word": "dovolna",
+        "origin": [
+          {
+            "lang": "Russian",
+            "word": "довольно"
+          }
+        ]
       }
     ]
   },
@@ -3542,7 +3551,7 @@
         "word": "verrigod",
         "origin": [
           {
-            "lang": "Norwegian?",
+            "lang": "English",
             "word": "?very+god"
           }
         ]
