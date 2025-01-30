@@ -1,6 +1,6 @@
 import json
 
-DICTIONARY_PATH = "rusnor.v0.1.json"
+DICTIONARY_PATH = "vocabulary/rusnor.v0.1.json"
 
 DICTIONARY = json.load(open(DICTIONARY_PATH, "r"))
 
@@ -49,10 +49,11 @@ def goods_have_no_doublets():
             synonyms = [variant["word"] for variant in word["variants"]]
             print(f'\tthe word {word["entity"]["english"]} has {len(variant_origins)} multi-source ({", ".join(variant_origins)}) synonyms ({", ".join(synonyms)})')
         
-    """As stated in "Was Russenorsk a Continuum?", doublets though exist, but are very rare,
-        and both examples found in the dictionary are also mentioned in the article:
-        the word birch bark has 2 multi-source (Russian, Norwegian Bokmål) synonyms (beresta, never)
-        the word fox fur has 2 multi-source (German, Russian) synonyms (kiraganka, lisitska)
+    """
+    As stated in "Was Russenorsk a Continuum?", doublets though exist, but are very rare,
+    and both examples found in the dictionary are also mentioned in the article:
+    the word birch bark has 2 multi-source (Russian, Norwegian Bokmål) synonyms (beresta, never)
+    the word fox fur has 2 multi-source (German, Russian) synonyms (kiraganka, lisitska)
     """
 
 def analyze_hypotheses():
