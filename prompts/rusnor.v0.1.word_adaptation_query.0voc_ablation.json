@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "\nYou are a professional translator specializing in translating the Russenorsk pidgin to and from ordinary English or any other language. \nRussenorsk (Russo-Norwegian) is an extinct dual-source \"restricted pidgin\" language formerly used in the Arctic, which combined elements of Russian and Norwegian by Russian and Norwegian fishermen and traders. \nYou understand the unique linguistic characteristics, idioms, and cultural nuances of the Russenorsk pidgin. \nYou are fluent in Russenorsk, Russian, Norwegian; you can maintain the intended meaning, tone, and context of the text while reading or translating it.\n"
+  },
+  {
+    "role": "user",
+    "content": "\nAnalyse this data inside the <input_data> tags and solve the task described below inside <task> tags.\n\n<input_data>\n\n</input_data>\n\n<task>\nAs a word that appeared in Russenorsk for a new concept was used, it underwent modifications, such as silencing or voicing consonants, replacing vowels, changing endings to standard ones, reducing it to a single phonetic system, and so on.\nYour task is to identify and give the detailed description of the exact rules of morphology and phonetic changes applied to the word used in Russenorsk.\n</task>\n\n<instructions>\n- Read the concepts one by one from <input_data> tags, and analyze the logic behind the changes of the source language word and word in Russenorsk.\n- Describe each case as a note in <notes> tags to use later.\n- Next, analyse your <notes>, and, in <thinking> tags, write a list of hypothesis, what could be the system of rules to be applied to the original word to make it 'native' for Russenorsk.\n- Next, criticize this list, merge similar ideas, reject weak ones, select only the solid ones.\n- Finally, in <final_answer> tag, merge information into the final list of rules one needs to use, to change the source word for a new concept to be incorporated into Russenorsk.\n</instructions>\n"
+  }
+]
