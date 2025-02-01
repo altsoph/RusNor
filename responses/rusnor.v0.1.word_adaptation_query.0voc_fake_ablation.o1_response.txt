@@ -1,0 +1,48 @@
+<notes>
+Since the <input_data> section is empty, no specific original words or Tabalotan transformations can be directly analyzed. However, from the description in the <task> and known patterns of “restricted pidgin” formation (merging elements from Swedish and Hindi in Tabalotan), we can note the following general points about the transformations:
+
+1) Consonants can be either voiced or devoiced depending on the local phonetic constraints.
+2) Vowels can be replaced or merged to align with the Tabalotan vowel inventory.
+3) Endings often shift to a small set of standardized suffixes and/or dropped if they do not conform to typical Tabalotan phonotactics.
+4) Words can be simplified (reduced clusters or certain consonant combinations) to fit the single focus phonetic system of Tabalotan.
+5) Borrowed words adapt their stress patterns to typical Tabalotan stress rules, which may resemble either Swedish or Hindi influences.
+
+Without example words, these remain hypothetical but are representative of likely Tabalotan processes.
+</notes>
+
+<thinking>
+1) Hypothesis: Tabalotan uses a smaller pool of permissible consonants, so foreign consonants are systematically replaced with the nearest available sound (e.g., “th” -> “t,” “z” -> “s”).
+2) Hypothesis: Tabalotan merges vowels that do not exist in its inventory into the closest approximate (for instance, Swedish “ö” or “ä” might be replaced with “e” or “a,” or Hindi “अ” might become a more front vowel if needed).
+3) Hypothesis: Tabalotan typically drops final consonants if they do not align with Tabalotan syllabic structure (CVC-style endings might become CV).
+4) Hypothesis: Tabalotan adds a typical suffix in place of the original ending to mark, for instance, nominal status or definiteness (e.g., adding a syllable “-um” or “-an”).
+5) Hypothesis: If a borrowing has a cluster of consonants forbidden in Tabalotan (like “str” or “ksh”), it may be broken up or simplified (“str” -> “sitara” style insertion; “ksh” -> “kush” or “kas”).
+
+Now to refine and reduce them to the main solid set of rules:
+• Consolidating consonant replacement rules into one consistent statement.  
+• Consolidating vowel simplification rules under a single principle.  
+• Noting that endings have two options: either dropped or replaced with a standardized suffix.  
+• Consonant clusters are universally simplified or separated.
+</thinking>
+
+<final_answer>
+1) Consonant Adjustment  
+   - All non-native consonants are replaced with the nearest sound from Tabalotan’s smaller consonant set.  
+   - Consonants at word-final position may be dropped or voiced/devoiced to fit typical Tabalotan endings.
+
+2) Vowel Replacement  
+   - Foreign vowels or diphthongs are adapted to the closest Tabalotan vowel.  
+   - Complex vowels that do not exist in Tabalotan are simplified (e.g., “ö” -> “o,” “ai” -> “e”).
+
+3) Standardized Endings  
+   - Words that end in a consonant cluster or an unpermitted pattern are given a typical Tabalotan suffix, e.g., “-um” or “-an.”  
+   - If the word ends in a vowel not preferred or recognized in Tabalotan, that vowel is replaced with a standard vocalic ending.
+
+4) Consonant Cluster Simplification  
+   - Clusters are reduced or split with an epenthetic vowel (e.g., “st” -> “sit,” “ksh” -> “kish”).  
+   - The result must align with Tabalotan’s permissible syllable structure.
+
+5) Stress/Intonation Adaptation  
+   - The new word follows Tabalotan’s stress rules, which draw from both Swedish pitch accent and Hindi stress, leading to a simpler, consistent pattern in Tabalotan.
+
+Implementing these five main rules ensures a “foreign” word becomes naturalized (or “native”) in the Tabalotan phonetic and morphological system.
+</final_answer>
