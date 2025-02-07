@@ -1,0 +1,152 @@
+Let me analyze this step by step.
+
+<notes>
+1. Word order seems to follow Subject-Verb-Object (SVO) pattern in most cases:
+"Moja spåserom paa skib" (I walk on ship)
+"Tvoja har konna?" (You have wife?)
+
+2. Pronouns appear to be used consistently:
+- moja/måja (I, me)
+- tvoja/tvåja (you)
+- on (he/it)
+
+3. Preposition "paa/på" is extremely common and seems to be used for multiple purposes:
+- location: "paa skib" (on ship)
+- direction: "paa Norge" (to Norway)
+- possession: "paa moja" (mine/for me)
+
+4. Verbs often end in -om/-um:
+- spåserom (walk)
+- drikkom (drink)
+- robotom (work)
+- stannom (stay)
+
+5. No apparent verb conjugation - same form used regardless of subject:
+"moja drikkom" (I drink)
+"tvoja drikkom" (you drink)
+
+6. No articles (the/a/an) used
+
+7. No plural marking on nouns
+
+8. Time expressions often use "paa":
+"paa den dag" (on that day)
+"paa morradag" (tomorrow)
+
+9. Questions formed by:
+- word order inversion
+- question words (kak, kor, nogoli)
+- rising intonation (marked by ?)
+
+10. Negation uses "ikke" or "njet":
+"moja ikke ligom" (I not lie)
+"njet fiska" (no fish)
+
+11. Adjectives appear before nouns:
+"gammel go vén" (old good friend)
+"grot storm" (big storm)
+
+12. No apparent case marking on nouns
+
+13. Numbers precede nouns directly:
+"tri daga" (three days)
+"to voga" (two vog)
+
+14. Compound expressions often formed by simple juxtaposition:
+"tjåi drikkom" (tea drinking)
+"fiska dragom" (fish pulling)
+
+</notes>
+
+<thinking>
+Hypotheses about grammatical rules:
+
+1. Basic Sentence Structure:
+- SVO word order seems dominant
+- Preposition "paa" used extensively for relationships between words
+- No subordinate clauses observed - simple sentences joined by "saa" (and/then)
+
+2. Verb System:
+- Verbs appear to have an infinitive/general form ending in -om/-um
+- No tense marking observed
+- No person/number agreement
+- Some verbs borrowed directly without -om (har, skal, bli)
+
+3. Noun System:
+- No plural marking
+- No case marking
+- No articles
+- Numbers and adjectives precede nouns
+- Possession marked by "paa" + pronoun
+
+4. Pronoun System:
+- Limited set of pronouns (moja, tvoja, on)
+- No case forms for pronouns
+- Pronouns can function as possessives with "paa"
+
+5. Question Formation:
+- Using question words (kak, kor, nogoli)
+- Word order inversion possible
+- Rising intonation
+
+6. Negation:
+- "ikke" or "njet" before verb/noun
+- No double negation observed
+
+Some hypotheses seem weak:
+- Complex verb forms (rejected - no evidence)
+- Adjective agreement (rejected - no evidence)
+- Complex subordination (rejected - no evidence)
+
+</thinking>
+
+<final_answer>
+Core Rules for Constructing Russenorsk Sentences:
+
+1. Basic Sentence Structure:
+- Use Subject-Verb-Object (SVO) order
+- Keep sentences simple - no complex subordination
+- Join simple sentences with "saa" (and/then)
+- Use "paa" as universal preposition for:
+  * location ("paa skib")
+  * direction ("paa Norge")
+  * possession ("paa moja")
+  * time ("paa den dag")
+
+2. Verb Rules:
+- Add -om/-um to verb stem for general form
+- Use same verb form for all persons/numbers
+- No tense marking needed
+- Exception: Some common verbs (har, skal, bli) used without -om
+
+3. Noun Rules:
+- Use singular form only - no plural marking
+- No articles needed
+- No case marking
+- Place numbers and adjectives before nouns
+- Mark possession with "paa" + pronoun
+
+4. Pronoun Usage:
+- Use basic forms: moja/måja (I), tvoja/tvåja (you), on (he/it)
+- Same form for subject and object
+- For possession, use "paa" + pronoun
+
+5. Questions:
+- Use question words: kak (how), kor (where), nogoli (how much)
+- Optionally invert word order
+- Add question mark or use rising intonation
+
+6. Negation:
+- Place "ikke" or "njet" before what is being negated
+- Use single negation only
+
+7. Adjectives:
+- Place before nouns
+- No agreement/inflection needed
+- Common intensifiers: grot (very/big), lita (little)
+
+8. Numbers:
+- Place directly before nouns
+- No agreement needed
+
+These rules suggest Russenorsk was highly simplified, avoiding complex grammar in favor of basic, functional communication patterns.

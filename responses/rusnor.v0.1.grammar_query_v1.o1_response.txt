@@ -1,0 +1,90 @@
+<notes>
+1) Many sentences use a simple Subject–Verb–Object ordering:  
+   • Example: “Moja spåserom paa skib” → “I walk on a ship.” (Moja = “I,” spåserom = from “spasere” + “om,” paa = “on,” skib = “ship.”)  
+   • Example: “Junga grebi moja po lan’” → “(The) boy [row] me [to] land.” (Junga = “boy,” grebi = imperative of “to row” (from Russian “греби”), moja = “me,” po lan’ = “to land.”)
+
+2) Pronoun usage is relatively free in word order, and pronouns remain in one form (no separate subject/object forms). “Moja” (I, me) may appear as subject or object without changing shape.  
+
+3) Verbs often attach a final -om, -rom, or -m suffix, probably indicating “I do [verb]” or “we do [verb].” Sometimes this suffix merges with borrowed verbs with minimal internal changes. E.g.:  
+   • “spaserom” (from Norwegian “spasere” = to walk) → “I walk/we walk,”  
+   • “drikkom” or “drinkom” (from Norwegian “drikke” = to drink).  
+   This ending is used variably, sometimes replaced by a short imperative form or an infinitive-like form.  
+
+4) Tense markers are usually absent or replaced by adverbs/particles denoting time. The form does not normally change for past/present/future. Instead, words like “ska” (shall), “skal,” “blir,” “blir” (will be) show futurity.  
+
+5) Negation is typically “njet,” “ikke,” “niet,” or “njeto,” placed before or after the verb (“Moja ikke ligom,” “Moja njet snai”).  
+
+6) Prepositions (på, po, na, hos, etc.) come from Norwegian or Russian usage. Their usage is often simplified. E.g., “paa land” / “po lan,” “hos moja,” “na skib.”  
+
+7) Adjectives often come before nouns (like “grot djur Mokka” = “very expensive flour,” from “grot” = “big, much,” “djur/dyr/dorgli” = “expensive”). Adjectives may not inflect for gender or number: “gammel go venn” = “old good friend.”  
+
+8) The copula “to be” is often dropped; occasionally “ist,” “jes,” or “blir” appear for emphasis (e.g., “Ist moja fiska na moj paluba!” = “Is my fish on my deck!”).  
+
+9) Possession can be shown explicitly with pronouns (moja, tvoja) or left to context. “Moja pen’ga” = “my money,” “Tvoja har konna?” = “Do you have (a) wife?”  
+
+10) Plural is usually not marked, except by context or a separate word like “mange,” “plenty,” or “rebeta” (children). Words can stay in a singular-like form (e.g. “mange vikkel,” “plenty vikkel/weeks”).  
+
+11) Questions often rely on intonation or question words from Russian/Norwegian (e.g., “Kak?” from Russian “как” = “how,” “Hvor/kor?” from Norwegian “hvor?” = “where,” or “Nogli?” as “How many?”). The question word + SVO order is common: “Kak pris på tvoja?” = “What (how) price on yours?”  
+
+12) Imperatives either use the base verb form or can attach an -i/-y or -om: e.g., “grebi” from Russian “греби” = “row!,” “davai” = “give!” or “let’s go!”  
+
+13) Coordinators like “og,” “saa” (“so,” “and”), “men” (“but”) appear freely, with usage borrowed from Norwegian or Russian.  
+
+14) Lexical borrowing from either Russian or Norwegian can appear in the same sentence. The form is usually a simplified/approximated shape with minimal inflection.  
+
+15) Function words or small linking words (e.g., “saa,” “no,” “naa,” “sjisjas”) are used ad hoc to mark time, linking, or emphasis. They do not necessarily follow consistent morphological rules.  
+
+16) Often, verbs are used with no separate marker for person or number. “Moja spiserom” → “I eat,” “Ju spiserom” → “You eat,” “Han spiserom” → “He/it eats.”  
+
+17) Modals like “vil,” “skal,” “ska” come from Norwegian but remain uninflected.  
+</notes>
+
+<thinking>
+1) The data show that Russenorsk is a simplified pidgin with minimal inflection.  
+2) Nouns do not normally show separate plural endings; number is indicated by additional words.  
+3) Pronouns do not have separate subject or object forms; “moja” is both “I” and “me.”  
+4) Verbs are generally uninflected for tense or person, sometimes using the suffix -om, -m, or -rom to mark an ongoing or personal sense of the verb.  
+5) Word order is typically SVO, but can move around for emphasis.  
+6) Negation words (njet, ikke) simply precede or follow the verb.  
+7) Questions rely on question particles or intonation.  
+8) No articles, or they are borrowed from other languages but used sporadically without morphological agreement.  
+9) Adjectives do not inflect for gender or number.  
+10) “To be” or copula is often omitted.  
+11) Tense/time references are carried by adverbs or additional words (“nu,” “skoro,” “ska,” etc.).  
+12) Prepositions come from both Russian and Norwegian (på, po, na, hos, etc.) with overlapping meanings.  
+13) There is heavy lexical borrowing from Russian and Norwegian, typically adapted phonetically.  
+14) Imperatives appear as a base form or with -i/-om.  
+15) The pidgin has some high-frequency formulaic expressions (davai, drasvi, etc.) that do not change form.  
+</thinking>
+
+<final_answer>
+1) Word Order & Syntax  
+   • Predominantly SVO (Subject–Verb–Object); prepositional or adverbial phrases usually follow.  
+   • Minimal or no use of articles. Copula “to be” is commonly dropped.  
+2) Pronouns  
+   • Pronouns (e.g. “moja,” “tvoja,” “han”) do not change form (no separate subject/object forms).  
+   • No standardized plural pronoun distinctions; context clarifies.  
+3) Verbs  
+   • Typically no person or tense inflection; a root verb form with optional suffixes (-om, -rom, -m) used (often meaning “I/we do X”).  
+   • Tense expressed by adverbs or modal-like words (e.g., “ska,” “vil,” “blir,” time expressions).  
+   • Imperative sometimes uses the base form, or an -i/-y ending (from Russian imperative) or “om.”  
+4) Negation  
+   • Negatives “njet,” “ikke,” “net,” placed before or just after the verb. No separate morphological marker.  
+5) Nouns & Adjectives  
+   • No morphological plural marking; “mange,” “plenty,” or measure words show quantity.  
+   • Adjectives precede nouns without agreement in gender/number (common forms like “grot,” “staraja”).  
+6) Question Formation  
+   • Often signaled by intonation, or question words (kak, kor, skolko, etc.) from Russian/Norwegian.  
+   • Word order usually remains SVO or a short reordering for emphasis.  
+7) Prepositions & Particles  
+   • Borrowed from Russian and Norwegian, used in simplified ways (på, po, hos, na).  
+   • Some bridging words (“saa,” “og,” “men,” “no,” “nu”) for linking or emphasis.  
+8) Lexical Borrowing & Phonetic Adaptation  
+   • Vocabulary from both Russian and Norwegian, plus occasional English or other languages.  
+   • Adapted phonetically, often dropping or modifying endings to fit simple forms (e.g. “driki,” “snakka,” “spiserom”).  
+9) Overall Simplicity  
+   • Russenorsk is a restricted pidgin; grammar is kept minimal.  
+   • Meaning relies heavily on context, borrowed words, and shared reference.  
+
+These core rules govern how words are put together in Russenorsk sentences.
+</final_answer>

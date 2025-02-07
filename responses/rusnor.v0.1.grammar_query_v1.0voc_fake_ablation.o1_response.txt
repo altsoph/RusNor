@@ -1,0 +1,62 @@
+<notes>
+1) Sentence Structure Observations (Hypothetical, based on typical pidgin formations combining Swedish and Hindi elements):  
+   - Despite the sparse data, pidgin constructions often reduce or simplify complexities from source languages.  
+   - Possible use of a relatively fixed subject-verb-object (SVO) or subject-object-verb (SOV) pattern.  
+
+2) Word-Ending Modifications (Hypothetical):  
+   - Words from the Swedish source might drop original definite suffixes or indefinite articles and attach a simplified marker.  
+   - Hindi-derived words may lose case endings, with only minimal postpositional remnants.  
+
+3) Simplified Verb Conjugation (Hypothetical):  
+   - Verbs might primarily encode tense (past/present/future) without further differentiation for gender or number.  
+   - Aspect or mood markers, if used, could be optional or borrowed from one of the source languages in a significantly reduced form.  
+
+4) Pronouns (Hypothetical):  
+   - Possibly a small set of pronouns merging Swedish (jag/du) and Hindi (main/tu) forms, standardized for Tabalotan.  
+   - Plural may be indicated with a separate marker or unmarked entirely.  
+
+5) Articles and Particles (Hypothetical):  
+   - Swedish indefinite articles (en/ett) and Hindi postpositions (ko, se, etc.) might appear, but in a restricted or simplified form.  
+   - These forms could evolve into invariable particles used irrespective of number or gender.  
+</notes>
+
+<thinking>
+1) Hypothesis: Word order is likely subject-object-verb (SOV), reflecting a strong Hindi influence, but simplified.  
+2) Hypothesis: Noun inflection is minimal; the pidgin likely drops Swedish definite suffixes and Hindi oblique case forms.  
+3) Hypothesis: Verb forms might be uniform across persons and numbers, reflecting typical pidgin reduction of conjugation.  
+4) Hypothesis: Pronouns might be highly reduced (e.g., one form each for first-, second-, and third-person).  
+5) Hypothesis: Postpositions from Hindi might remain in rudimentary form, with only a few used commonly (e.g., “ko” for multiple grammatical functions).  
+6) Hypothesis: Articles from Swedish might be used selectively or replaced by an undeclinable particle.
+
+Criticism and Refinement:  
+• Combining #1 (SOV) and minimal morphological marking (#2, #3) makes sense for a restricted pidgin.  
+• Pronoun simplification (#4) and minimal postpositions (#5) fit typical pidgin trends.  
+• Article usage (#6) may be even less consistent, so we consolidate it into a general statement that articles, if present, are reduced to a single form.  
+</thinking>
+
+<final_answer>
+1) Word Order: Tabalotan predominantly uses a simplified SOV structure. Subject comes first, object follows, and the verb is placed last.  
+
+2) Noun Morphology:  
+   • Swedish definite suffixes and Hindi case endings are dropped.  
+   • Plurals typically do not require special endings; context clarifies number.  
+
+3) Verb Morphology:  
+   • Conjugations are heavily reduced; one verb form is generally used for all subjects.  
+   • Tense is indicated via a small set of auxiliary-like markers or particles (e.g., a marker for past, a marker for future).  
+   • Aspect, if shown, is limited (e.g., a single progressive marker or none at all).  
+
+4) Pronouns and Agents:  
+   • A limited set of pronouns (first-, second-, third-person) is used without gender distinction.  
+   • Plural may form by adding a simple particle (e.g., “-log”) or not at all.  
+
+5) Articles and Small Function Words:  
+   • Definite and indefinite articles are either absent or replaced by a single neutral form.  
+   • Hindi postpositions (ko, se) or simplified Swedish prepositions might still be used but only in a minimal, multifunctional way.  
+
+6) Word-Borrowing Integration:  
+   • Words borrowed from Swedish or Hindi drop or reduce original inflection.  
+   • Pronunciation is adapted to Tabalotan’s reduced phonetic system, which may involve removing or simplifying final consonants.  
+
+Applying these rules together provides the basic morphological and grammatical framework for forming sentences in Tabalotan.  
+</final_answer>

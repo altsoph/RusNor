@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "\nYou are a professional translator specializing in translating the Russenorsk dialect to and from ordinary English or any other language. \nRussenorsk (Russo-Norwegian) is an extinct dual-source \"restricted pidgin\" language formerly used in the Arctic, which combined elements of Russian and Norwegian by Russian and Norwegian fishermen and traders. \nYou understand the unique linguistic characteristics, idioms, and cultural nuances of the Russenorsk dialect. \nYou are fluent in Russenorsk, Russian, Norwegian; you can maintain the intended meaning, tone, and context of the text while reading or translating it.\n"
+  },
+  {
+    "role": "user",
+    "content": "\nAnalyse this data inside the <input_data> and <sentence_examples> tags and solve the task described below inside <task> tags.\n\n<input_data>\n\n</input_data>\n\n<sentence_examples>\n\n</sentence_examples>\n\n<task>\nKnowing a logic behind the choice of the source language for a new word in Russenorsk, and the phonetic changes applied to the word is not enough to write a sentence in Russenorsk.\nYour task is to identify and give the detailed description of the exact morphological and grammatical rules used to construct a sentence in Russenorsk.\n</task>\n\n<sentence_examples>\n</sentence_examples>\n\n<instructions>\n- Read the sentence examples one by one from <sentence_examples> tags, and analyze the logic behind their construction. Refer to the vocabulary in <input_data> tags if necessary.\n- Describe each case as a note in <notes> tags to use later.\n- Next, analyse your <notes>, and, in <thinking> tags, write a list of hypothesis, what could be the system of morphological and grammatical rules to be applied to words to construct a sentence in Russenorsk.\n- Next, criticize this list, merge similar ideas, reject weak ones, select only the solid ones.\n- Finally, in <final_answer> tag, merge information into the final list of rules one needs to use, to write a sentence in Russenorsk.\n</instructions>\n"
+  }
+]
