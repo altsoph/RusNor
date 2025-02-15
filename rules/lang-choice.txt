@@ -1,0 +1,35 @@
+Rules for selecting source language and words in Russenorsk:
+
+1. Primary Domain Rule:
+- Use Norwegian for maritime/nautical terminology
+- Use Russian for trade goods and household items
+- Use both languages for crucial trade/interaction terms
+
+2. Functional Necessity Rule:
+- Core concepts (numbers, basic verbs, common nouns) should have variants from both languages
+- Choose simpler pronunciation when multiple options exist
+
+3. Cultural Context Rule:
+- Use source language of the culture that dominates the concept's domain
+- For shared cultural concepts, prefer the simpler or shorter term
+
+4. Phonetic Integration Rule:
+- Prefer words that:
+  * Are shorter and easier to pronounce
+  * Match existing Russenorsk phonetic patterns
+  * Can be easily modified with Russenorsk suffixes
+
+5. Trade Interaction Rule:
+- Use Russian for seller-side terminology
+- Use Norwegian for buyer-side terminology
+- Use both for neutral trade terms
+
+6. Modern Concept Rule:
+- Use Norwegian for modern/urban/official concepts
+- Use Russian for traditional/household items
+
+7. Merger Preference Rule:
+- When words are similar in both languages, create a hybrid form
+- Preserve recognizable roots from source languages
+
+These rules should be applied in order of priority, with functional necessity and trade interaction rules taking precedence over others when conflicts arise.

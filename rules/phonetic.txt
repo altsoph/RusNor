@@ -1,0 +1,42 @@
+1. Phonological Rules:
+- Replace Russian х → k
+- Replace Russian в → v
+- Replace Russian ш, щ, ж → s
+- Simplify consonant clusters by:
+  * Adding vowels between consonants
+  * Dropping one of the consonants
+  * Converting complex sounds to simple ones
+
+2. Vowel Rules:
+- Convert Russian о → å in stressed positions
+- Preserve Norwegian å
+- Simplify Russian ё → e/jo
+- Keep basic vowels a, e, i, o, u
+- Drop complex Russian vowel patterns
+
+3. Morphological Rules:
+For Verbs:
+- Add -om to verb stems (primary rule)
+- Alternative: use simplified stem + -a
+
+For Nouns:
+- Add -a to basic stems
+- Add -ka to some stems (especially for tools/items)
+- For Russian nouns: drop complex endings, add -a/-ka
+
+For Adjectives:
+- Convert Russian -ый/-ий → -i
+- Convert Norwegian -ig → -i
+- Use -li ending for some qualitative adjectives
+
+4. Word Structure Rules:
+- Prefer bisyllabic structure
+- Keep stress on first syllable where possible
+- Allow compound words but simplify their components
+- Standardize number endings to -it (from Russian)
+
+5. General Principles:
+- Maintain semantic transparency
+- Prefer simpler phonological patterns
+- Use regular endings for word classes
+- Allow variation but within predictable patterns
