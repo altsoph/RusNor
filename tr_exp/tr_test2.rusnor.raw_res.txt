@@ -1,0 +1,98 @@
+I'll help translate the text into Russenorsk following the given instructions.
+
+<thinking>
+1. Key concepts needed:
+- celebrate, birth, daughter
+- ship, sea
+- father, king
+- magic, locket
+- party, interrupt
+- sister, threaten
+- shark, surrender
+- plan, revenge, take over
+- work together
+- escape, capture
+- protect, build wall
+- castle, royal
+- watch over, guard
+- twelve years
+- swim, boat
+- question, answer
+- steal, sail away
+- desperate, search
+- transform, mermaid
+- explore, abilities
+- permanent, spell
+- retrieve, steal
+- friend, join
+- cave, ice
+- battle, minions
+- throw, catch
+- reunite, family
+- destroy, separate
+
+2. Concepts found in vocabulary/examples:
+- ship (skib, skip)
+- sea (gav)
+- father (far, fare)
+- daughter (piga)
+- work (råbotom)
+- together (sammen)
+- castle (kastel)
+- watch/look (smotrom)
+- year (år, årt)
+- swim (spaserom på vater)
+- boat (båt)
+- question (spræk)
+- answer (spræk)
+- steal (kralom)
+- sail (rejza)
+- search (smotrom)
+- friend (venn, kamerat)
+- ice (is -> isa)
+- battle (slagom)
+- throw (kastom)
+- family (selskap)
+- separate (drogoj)
+
+3. New concepts to borrow (following language selection rules):
+From Norwegian:
+- feire (celebrate) -> feirom
+- fødsels (birth) -> fødsel
+- magi (magic) -> magiska
+- trussel (threat) -> trusom
+- beskyt (protect) -> beskytom
+- svøm (swim) -> svømom
+- forvandling (transform) -> forvandom
+
+From Russian:
+- праздник (party) -> prasnik
+- месть (revenge) -> mesta
+- стена (wall) -> stena
+- русалка (mermaid) -> rusalka
+- пещера (cave) -> pesera
+- колдовство (spell) -> koldova
+
+4. Simplified forms following word adaptation rules:
+All verbs get -om ending
+All nouns get -a ending where appropriate
+Consonant clusters simplified
+</thinking>
+
+<final_answer>
+På skib på gav selskap feirom fødsel på piga Melodi. Far på Melodi, kaptein Triton, på magiska lokka presentom. Prasnik stoppom kogda Morgana (sestra på Ursula) kom. On trusom: "Ju dast trident, eller akula etom Melodi." Melodi far og mor råbotom sammen, men Morgana rejzom. On skasi: "Ja på mesta kom!"
+
+Ariel (Melodi mor) tænkom: beskytom Melodi på gav-folk. Triton kastom lokka på gav og stena byggom mellem kastel og gav. Triton skasi på Sebastian: "Tvoja på Melodi smotrom!"
+
+Tolv år passeirom. Melodi ikke snai på mor rusalka-folk. On ikke kan på gav svømom. Men on kralom båt og på gav rejzom. On finnom lokka med on nam. On sprækom mor, men mor ikke sprækom på gav. Melodi kralom lita båt og rejzom.
+
+Sebastian sprækom på Ariel: "Melodi på gav!" Morgana møtom Melodi og skasi: "Tvoja på gav-folk!" Morgana koldova Melodi på rusalka. Triton, Ariel og Erik smotrom Melodi. Ariel bli rusalka for hjelpom smotrom.
+
+Morgana skasi Melodi: "For alltid rusalka, tvoja må Triton trident takom." Melodi finnom nye venn Tip og Dash. On kralom trident. Ariel skasi: "Ikke dast Morgana!" Men Melodi vred på mor og dast trident. Morgana stengom Melodi på pesera med isa. Koldova sluttom og Melodi bli menneska. Tip og Dash hjelpom.
+
+Morgana med trident bli sjef på gav. Grot slagom mellem Morgana-folk og Triton-folk startom. Melodi kastom trident på Triton. On frys Morgana på isa og kastom på gav.
+
+Melodi møtom igjen selskap. Triton spørrom: "Vil tvoja bli rusalka?" Men Melodi takom trident og øddom stena mellem menneska-folk og gav-folk. Nå alle sammen levom.
+</final_answer>
+
+This translation maintains the key story elements while using authentic Russenorsk vocabulary and grammar patterns. It simplifies complex concepts but preserves the narrative flow. The translation follows the SVO structure, uses paa-constructions for relationships, and employs authentic Russenorsk verb and noun formations.
