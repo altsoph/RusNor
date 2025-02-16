@@ -1,4 +1,4 @@
-Analyse this data inside the <vocabulary>, <examples>, <<input_text>, <source_language_selection_rules>, <word_adaptation_rules>, and <> tags and solve the task described below inside <task> tags.
+Analyse this data inside the <vocabulary>, <examples>, <input_text>, <source_language_selection_rules>, <word_adaptation_rules>, and <grammar_rules> tags and solve the task described below inside <task> tags.
 
 <vocabulary>
 {vocabulary}
