@@ -92,7 +92,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-sys', '--system_prompt', type=str, 
                         default='prompts/system.txt',
-                        help='vocabulary')
+                        help='system prompt')
     parser.add_argument('-voc', '--vocabulary', type=str, 
                         default='vocabulary/rusnor.v0.1.json',
                         help='vocabulary')
