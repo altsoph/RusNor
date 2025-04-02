@@ -1,0 +1,64 @@
+I notice that the provided tags for vocabulary, examples, source language selection rules, word adaptation rules, and grammar rules are empty. Without these crucial guidelines, I cannot make fully accurate translations that would be true to historical Russenorsk.
+
+However, based on historical linguistic research about Russenorsk, I can make some educated translations using these known characteristics:
+
+1. Russenorsk typically used:
+- Simple subject-verb-object structure
+- Limited vocabulary (around 150-400 words)
+- Mix of Russian and Norwegian words
+- Simplified grammar without complex conjugations
+- Common maritime and trade terminology
+- Words often ended in -om or -um
+- Verbs often used in infinitive form
+
+<thinking>
+Key concepts needed for these sentences include:
+- Common verbs: work, give, buy, drink, have, say, see, steal, become
+- Maritime terms: ship, boat, deck, cabin
+- Trade items: fish (various types), flour, tobacco, wood
+- Basic adjectives: big, small, old, good
+- Numbers and quantities
+- Time expressions
+- Basic pronouns
+- Greetings and common phrases
+</thinking>
+
+<final_answer>
+1. Fiskman moja rabota på
+2. Fiskman, gør snøre lite sterkere
+3. Ja, riktig, det njet pomogt
+4. Ja-ja, moja køb alt, kom på skip
+5. Ja, ja! Kom på skip, brat, drikke
+6. Vær så snill, gi moja lite tobak
+7. Men slipp. Du få halvparten kvernmel og halvparten rugmel
+8. Davaj! Som og kveite vekt samma som torsk, men kvernmel moja lite
+9. Kom drikke te på skip med moja
+10. Moja gammel god ven Gilbert sej du rik meget
+11. Moja har stor hyse og torsk, lite som og liten kveite. Kak pris du betal?
+12. Med kak mange ren du rejse?
+13. Din fisk på moja båt!
+14. Kak varer du vil køb?
+15. Du køb sej, torsk, hyse og kveite
+16. Kvorfor du njet bringe mel?
+17. Kristus meget vred fordi du løgn
+18. Kak varer du nødt selge
+19. Mange år moja njet se du
+20. Moja njet spise salt kjøtt denne uke
+21. Dette år moja første gang på Norge
+22. Moja var på anden kontor og drikke vin; potom moja lite full
+23. Moja sej du: når du drikke vin, Kristus meget vred
+24. Moja se gut stjæle tau
+25. Kak mange dager du bruke vej fra Arkhangelsk hit?
+26. Nu navnebror, gi moja lite ved
+27. Bli han god fiskman?
+28. Kapitan var meget full og slå kona, kanskje kaste hun i vann
+29. Skipper snart komme på dek
+30. Din søn bli stor gut, sterk gut
+31. Du køb fisk tidlig morgen?
+32. Kom ned i lugar!
+33. Her moja penger!
+34. Kak står?
+35. Kak dette heter på norsk?
+</final_answer>
+
+Note: This translation attempt is based on general knowledge of Russenorsk characteristics, but without the specific rules requested in the tags, it may not be fully accurate to historical usage. The translations maintain the simplified grammar and mixed vocabulary characteristic of pidgin languages while incorporating known Russenorsk features.

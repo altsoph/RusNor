@@ -1,0 +1,91 @@
+Let me help translate these sentences into Russenorsk. I'll follow the instructions step by step.
+
+<thinking>
+1. First, let's identify concepts from the vocabulary that we can use directly:
+- rybak (fisherman)
+- robotom (to work)
+- bolsa/grot (much, big)
+- sterk/krepkii (strong)
+- da (yes)
+- kupom/kupi (to buy)
+- verségo/davai (please)
+- på/na (on)
+- dekk/paluba (deck)
+- brat (brother)
+- drikkom/trinkom (drink)
+- tabaska (tobacco)
+- muka/moki (flour)
+- tjaj (tea)
+- gammal (old)
+- gut/dobra (good)
+- venn/kamerat (friend)
+- rik (rich)
+- fisk/ryba (fish)
+- piksa (haddock)
+- treska (cod)
+- paltus (halibut)
+- pris/kosta (price)
+- vara/tovara (goods)
+- ligom/vros (lie)
+- år/ort (year)
+- Norge (Norway)
+- kontor (office)
+- vina (wine)
+- pjan (drunk)
+- kona (wife)
+- vater (water)
+- kapitan/kaptein (captain)
+- skib/skip (ship)
+- pojka/malenka (boy)
+- bolsa/grot (big)
+- sterk (strong)
+- morgen (morning)
+- kajyt (cabin)
+
+2. Grammar patterns observed from vocabulary:
+- Verb endings often use -om (robotom, drikkom)
+- Simple sentence structure (Subject-Verb-Object)
+- Articles are typically omitted
+- Pronouns: moja/tvoja (my/your)
+
+3. For missing concepts, we'll use simplified forms following Russenorsk patterns.
+
+</thinking>
+
+<final_answer>
+1. Rybak bolsa robotom
+2. Rybak, delaj tros mera sterk
+3. Da, pravda, eta njet davaj
+4. Da-da, moja alt kupom, versego på skip
+5. Da, da! Kom på skip, brat, i drikkom
+6. Versego, dast moja tabaska
+7. Men slipom. Du få hal bjella moka i hal tjomja moka.
+8. Davaj! Sobaka i paltus vægom samma på treska, men bjella moka moja lite
+9. Versego, drikkom tjaj på skip på moja
+10. Moja gammal gut kamerat Gilbert snakka moja, du bolsa rik
+11. Moja har grot piksa i treska, lite sobaka i malenka paltus. Kaki pris du betalom?
+12. Nogoli ålenej du rejsa?
+13. Tvoja fisk på moja båt!
+14. Kaki vara du vil kupom?
+15. Du kupom sei, treska, piksa i paltus
+16. Kvorfor du njet kom på moja moka?
+17. Kristus bolsa vred fordi du ligom
+18. Kaki vara du nada prodaj
+19. Manga ort moja njet se du
+20. Moja njet spisom salt kjøtt på eta vikkel
+21. På eta ort moja første ras på Norge
+22. Moja var på drogoj kontor i drikkom vina; potom moja lite pjan
+23. Moja snakka du: kogda du drikkom vina, Kristus bolsa vred
+24. Moja se pojka kralom tros
+25. Nogoli dag du rejsa från Arkangelsk hit?
+26. No kamerat, dast moja lite trova
+27. Bli han gut rybak?
+28. Kapitan var bolsa pjan i slå kona, kanske kast han på vater
+29. Skippar snart kom på dekk
+30. Tvoja sønn bli grot pojka, sterk pojka
+31. Du kupom fisk på morgen?
+32. Versego, kom på kajyt!
+33. Vot moja penga!
+34. Kak du posjivat?
+35. Kak eta snakka på norsk?
+</final_answer>

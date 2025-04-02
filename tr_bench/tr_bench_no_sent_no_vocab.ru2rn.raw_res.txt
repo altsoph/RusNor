@@ -1,0 +1,95 @@
+Let me help translate these sentences into Russenorsk following the provided rules.
+
+<thinking>
+First, let's identify key concepts and patterns:
+
+Common verbs needed:
+- work (arbeid- from Norwegian)
+- make/do (lag- from Norwegian)
+- give (gi- from Norwegian)
+- buy (kjøp- from Norwegian)
+- drink (drikk- from Norwegian)
+- see (se- from Norwegian)
+- be (være- from Norwegian)
+- have (har from Norwegian)
+- say (si- from Norwegian)
+- steal (stjel- from Norwegian)
+- become (bli from Norwegian)
+
+Common nouns needed:
+- fisherman (fisker from Norwegian)
+- fish (fisk from Norwegian)
+- line (line from Norwegian)
+- tobacco (tobak from Norwegian)
+- flour (mel from Norwegian)
+- boat (båt from Norwegian)
+- friend (ven from Norwegian)
+- money (penga from Russian)
+- cabin (lugar from Norwegian)
+- boy (gut from Norwegian)
+- captain (kaptein from Norwegian)
+- wife (kona from Norwegian)
+
+Common adjectives/adverbs:
+- much/many (mang- from Norwegian)
+- strong (sterk from Norwegian)
+- good (god from Norwegian)
+- drunk (full from Norwegian)
+- big (stor from Norwegian)
+
+Question words:
+- how (kak from Russian)
+- why (korfor from Norwegian)
+- what (ka from Norwegian)
+- when (kogda from Russian)
+
+Time expressions:
+- year (år from Norwegian)
+- day (dag from Norwegian)
+- morning (morgen from Norwegian)
+
+Basic grammar patterns from rules:
+- SVO word order
+- -om suffix for verbs
+- "på" as universal preposition
+- "ikke/njet" for negation
+- Simple sentence structure
+</thinking>
+
+<final_answer>
+1. fisker arbeidom mang
+2. fisker, lagom line mera stark
+3. ja, riktig, eta njet davaj
+4. ja-ja, moja kjøpom alt, kom på skib
+5. ja, ja! kom på skib, brat, drikkom
+6. davaj moja lita tobak
+7. men slipom. tvoja fåom half kveit mel på half rug mel
+8. davaj! som på kveita vægom som torsk, men moja har lita kveit mel
+9. kom drikkom te på skib på moja
+10. gammel god ven gilbert siom på moja at tvoja rik mang
+11. moja har stor hyse på torsk, lita som på lita kveita. ka pris tvoja betalom?
+12. kor mang ren tvoja resom med?
+13. tvoja fisk på moja båt!
+14. ka vare tvoja kjøpom?
+15. tvoja kjøpom sei, torsk, hyse på kveita
+16. korfor tvoja njet bringom mel?
+17. krist vær arg mang fordi tvoja ljugom
+18. ka vare tvoja seljom?
+19. mang år moja njet seom tvoja
+20. moja njet spiseom salt kjøt på denna veka
+21. på denna år moja først gang på Norge
+22. moja værom på andra kontor på drikkom vin; så moja bliom lita full
+23. moja siom: kogda tvoja drikkom vin, krist bliom mang arg
+24. moja seom at gut stjælom tau
+25. kor mang dag tvoja resom från Arkangelsk hit?
+26. nu navnbror, davaj moja lita ved
+27. han bliom god fisker?
+28. kaptein værom mang full på slogom kona, kanskje kastom på vann
+29. skiper snart komom på dek
+30. tvoja gut bliom stor gut, stark gut
+31. tvoja kjøpom fisk på tidlig morgen?
+32. kom ned på lugar!
+33. her moja penga!
+34. kak tvoja?
+35. kak eta heitom på norsk?
+</final_answer>

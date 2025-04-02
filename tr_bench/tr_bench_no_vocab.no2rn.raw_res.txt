@@ -1,0 +1,81 @@
+Let me help translate these sentences following the instructions carefully.
+
+<thinking>
+1. Analyzing concepts needed:
+- Common verbs: work/labor (robotom), be, have, see, drink, steal, hit/strike, come
+- Pronouns: I (moja), you (tvoja), he/she/it (on)
+- Trade terms: buy (kopom), sell, price
+- Maritime terms: ship (skib), rope (tros), deck (dekk)
+- Time concepts: day (dag), year (år), week (vekkel), morning
+- Food/goods: fish (fiska), flour (moka), tea (tjai), tobacco
+- Quantities: much/many (mangoli), little (lita), half
+- Basic adjectives: good (dobra), big (grot), strong (krepkii)
+- Question words: how (kak), where (kor), what, why
+- Names: Kristus, Gilbert
+- Common nouns: wife (kona), son (junka)
+
+2. Found in examples:
+- robotom (work)
+- fiska, treska (fish, cod)
+- kopom (buy)
+- skib (ship)
+- tros (rope)
+- moka (flour)
+- mangoli (many)
+- kak (how)
+- Kristus
+- junka (boy/son)
+- pjan (drunk)
+- sprek (speak/tell)
+- stannom (stay/be)
+- drikkom (drink)
+- kralom (steal)
+- kastom (throw)
+- principal/kapitan (captain)
+- krepkii (strong)
+
+3. Need to adapt:
+- first (pervi → pervi)
+- morning (utro → utrom)
+- half (pol → pol)
+- tobacco (tabak → tabak)
+- reindeer (olen → olen)
+</thinking>
+
+<final_answer>
+1. Rusman grot robotom
+2. Rusman, davaj tros lita gran krepkom
+3. Da, grot sanfærdi, tak njet schevaa
+4. Da, da, moja kopom altsamma, davaj paa skib kom
+5. Da, da! Davaj paa skib kom, brat, paa tjaj drikkom
+6. Værsågo, lita tabak på presentom
+7. Davaj! Moka på halvpart bjelaja, på halvpart tjornaja
+8. Davaj! Jossa på treska væsitom, men på moja lita bjelaja moka
+9. Værsågo på moja skib tjaj drikkom
+10. Moja gammel go ven Gilbert sprek: tvoja grot rik
+11. På moja grot piksa på treska, lita jossa på paltus. Kak pris tvoja betalom?
+12. Mangoli olen på tvoja rejsa?
+13. Tvoja fiska på moja skib!
+14. Kaki tovara tvoja kopom?
+15. Kopom tvoja saika, treska, piksa på paltus?
+16. Kor tvoja njet moka på moja kladi?
+17. Kristus grot vre på tvoja lugom
+18. Kaki tovara på tvoja prodaj?
+19. Mangoli år moja njet smotrom tvoja
+20. Moja njet skaffom govedina paa den vekkel
+21. Moja ette ort perevoj ras paa Norge stannom
+22. Moja paa anner kantor, nokka vin drikkom, saa nokka lite pjan kom
+23. Moja ska si paa ju: kak ju vina trinke, Kristus grot vre
+24. Moja smotrom junka kralom tros
+25. Mangoli dag tvoja reisa på Arkangel otsuda?
+26. Nå brat, davaj lita drov
+27. On blir korosjo rybak?
+28. Principal grot pjan på kona kludi, kanske på vater kastom
+29. Principal sjisjas på dekk
+30. Tvoja siin bosjoi junka, krepkii junka
+31. Tvoja kopite fiska på morgen?
+32. Varsego paa kajuta marsjirom!
+33. Vot moja penga imej!
+34. Kak tvoja levom?
+35. Kak sprek po norsk?
+</final_answer>

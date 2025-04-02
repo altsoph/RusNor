@@ -1,0 +1,70 @@
+Let me help translate these Russenorsk sentences into Russian. I'll follow the instructions step by step.
+
+<thinking>
+Let me analyze the first few sentences to demonstrate the process:
+
+1. "burman grot robotom"
+- burman = fisherman
+- grot = very much/big
+- robotom = to work
+Translation: "Рыбак много работает"
+
+2. "burman zakrepiko trosa lita gran' nemnozko"
+- burman = fisherman
+- zakrepiko (not in vocabulary, likely from Russian "закрепить" = to fasten)
+- trosa = rope/cable
+- lita = little
+- gran' (not in vocabulary, from Russian "грань" = edge)
+- nemnozko = little bit
+Translation: "Рыбак слегка закрепил трос немного на край"
+
+3. "da grot sainfærdi, tak njet schevaa"
+- da = yes
+- grot = very
+- sainfærdi = truthful
+- tak = thank you
+- njet = no
+- schevaa (not in vocabulary, likely from Russian "щавель" = sorrel)
+Translation: "Да, очень правдиво, спасибо, нет щавеля"
+
+And so on... The pattern becomes clear - Russenorsk uses simplified grammar with vocabulary from both Russian and Norwegian, often modified to be easier to pronounce.
+
+</thinking>
+
+<final_answer>
+1. Рыбак много работает
+2. Рыбак немного закрепил трос на край
+3. Да, очень правдиво, спасибо, нет щавеля
+4. Да, да — я куплю всё, давай, иди на корабль
+5. Да, да! Давай на корабль иди, брат, чай пить
+6. Давай подарю тебе немного моего табака
+7. Давай! Муки наполовину белой, наполовину чёрной
+8. Давай! Сом и палтус как треска, а у меня мало, мало белой муки
+9. Давай на мой корабль чай пить
+10. Гилберт, старый хороший друг говорит мне, что ты очень богатый
+11. У меня много пикши и трески, мало сома и палтуса. Какая цена у тебя?
+12. Сколько оленей ты везёшь?
+13. Твоя рыба на моей палубе!
+14. Какой товар купишь?
+15. Купишь и сайду, треску, пикшу и палтуса?
+16. Почему ты не берёшь мою муку?
+17. Христос сильно разгневан, ты врёшь
+18. Какой товар ты продаёшь?
+19. Сколько лет я тебя не видел
+20. Я не ем говядину на этой неделе
+21. Я в этом году первый раз в Норвегии остаюсь
+22. Я в другой конторе, немного вина выпил, так что немного пьяный пришёл
+23. Я тебе скажу: как ты вино пьёшь, Христос сильно гневается
+24. Я видел, юнга украл трос
+25. Сколько дней ты едешь в Архангельск отсюда?
+26. Сейчас дам, может быть, дрова в подарок
+27. Он будет хорошим рыбаком?
+28. Капитан сильно пьян и на жену кричит, я может в воду брошу
+29. Капитан сейчас на палубе
+30. Твой сын большой парень, сильный парень
+31. Ты купишь рыбу утром?
+32. Пожалуйста, иди в каюту!
+33. Вот мои деньги есть!
+34. Как живёшь?
+35. Как говоришь по-норвежски?
+</final_answer>

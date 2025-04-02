@@ -1,0 +1,92 @@
+I'll help translate these Norwegian sentences into Russenorsk following the given instructions.
+
+<thinking>
+1. Key concepts needed:
+Maritime/Fishing:
+- fisker/fiskeren (fisherman)
+- tross (rope)
+- båt (boat)
+- dekk (deck)
+- kaptein/skipper (captain)
+
+Trade/Goods:
+- hvetemel (wheat flour)
+- rugmel (rye flour)
+- tobak (tobacco)
+- te/the (tea)
+- varer (goods)
+- penger (money)
+
+Fish types:
+- torsk (cod)
+- hyse (haddock)
+- steinbit (wolffish)
+- kveite (halibut)
+- sei (pollock)
+
+Basic verbs:
+- arbeide (work)
+- kjøpe (buy)
+- drikke (drink)
+- spise (eat)
+- se (see)
+- komme (come)
+- være (be)
+
+Time/Numbers:
+- år (year)
+- dag (day)
+- første (first)
+- mange (many)
+
+Based on the rules, we should:
+1. Use Norwegian maritime terms (båt, dekk, skipper)
+2. Use Russian trade terms (tovar for varer)
+3. Simplify verb forms with -om suffix
+4. Use basic SVO structure
+5. Drop articles and complex grammar
+
+The translations should use:
+- på for locations and possession
+- moja/tvoja for pronouns
+- simplified verb forms
+- no articles or complex grammar
+</thinking>
+
+<final_answer>
+1. fisker rabotom meget
+2. fisker, trossem på fast lita
+3. ja meget pravda, eta njet delo
+4. ja, ja, moja kupom alt, spasiba kom på skib
+5. ja, ja! spasiba kom på skib, brat, i drinkom chai
+6. spasiba davaj moja lita tobak
+7. njet delo. tvoja få polovin psjenitsa i polovin rozj
+8. davaj! steinbit i kveita værom kak torsk, men på moja malo psjenitsa
+9. spasiba drinkom chai på skib på moja
+10. moja gammel god ven hilbert govorom, sto tvoja meget rik
+11. moja har grot hyse i torsk, lita steinbit i små kveita. kak pris tvoja platem?
+12. på kak mnog ren tvoja jekom
+13. tvoja fisk på moja båt!
+14. kak tovar tvoja kupom?
+15. kupom sei, torsk, hyse i kveita
+16. sacem tvoja njet davaj moja muka?
+17. kristus meget serd fordi tvoja lugjom
+18. kak tovar tvoja prodajom?
+19. mnog år moja njet vidom tvoja
+20. moja njet jestom salt kjøt på eta nedela
+21. moja på eta år pervi ras på norge
+22. moja værom på drugi kontor, drinkom vino; så moja værom lita pjan
+23. moja govorom tvoja: kogda tvoja drinkom vino, kristus meget serd
+24. moja vidom, malcik kradom tross
+25. kak mnog dag tvoja rabotom på reis fra archangel på eta mesto
+26. nu brat, davaj moja lita dreva
+27. on stanom dobri fisker?
+28. kapitan værom meget pjan i bilom kona, i mozet brosim ona på voda
+29. skipper snart kom på dekk
+30. tvoja syn stanom grot malcik, silni malcik
+31. tvoja kupom fisk på utro?
+32. spasiba gåom ned på kajuta!
+33. eta tvoja dengi på moja!
+34. kak tvoja zivjom?
+35. kak eta govorom på norsk
+</final_answer>

@@ -1,0 +1,121 @@
+Let me help translate these sentences following the given instructions.
+
+<thinking>
+1. First, let's identify key concepts from input sentences:
+- work/arbeider → råbotom/robotom
+- much/very → grot/bolsa
+- fisherman → burman/fiskerman
+- rope/tross → tros/trosa
+- little/small → lita/malenka
+- true/sandt → sanfærdi
+- nothing/ingenting → nietsjevaa
+- buy → kopom/kupi
+- come aboard → kom på skib
+- brother → brat
+- drink → drikkom/trinkom
+- tea → te/tjai/tsjai
+- tobacco → tabaska
+- flour → moka/muka
+- wheat/hvete → bjelaja
+- rye/rug → tjornoja
+- catfish → subadtka
+- halibut → paltus/paltuska
+- weigh → vegom/vågom
+- cod → treska
+- old → gammel/stara
+- friend → venn
+- tell → spræk
+- rich → rik
+- haddock → piksa/tiksa
+- price → pris
+- pay → betalom
+- reindeer → ålenej
+- fish → fiska/ryba
+- boat → båt/skib
+- bring → not directly found, can use dast/gaima
+- Christ → Kristus
+- angry → vred/vre
+- lie → lugom/ljugom
+- see → smotrom
+- year → ort/år
+- eat → skaffom/spisom
+- salt meat → not directly found, can construct
+- first → perevoj
+- Norway → Norge
+- office → kantor
+- wine → vina
+- drunk → pjan
+- say → skasi/spræk
+- boy → junka/pojka
+- steal → kralom
+- days → daga
+- travel/journey → rejza
+- namesake → not directly found
+- firewood → trovva
+- captain → kapitan/kaptein
+- wife → kona
+- throw → kastom
+- water → vater
+- deck → dekk/paluba
+- son → siin/sønn
+- strong → krepkii/sterk
+- morning → morgen/utrom
+- cabin → kajyt/kahytt
+- money → djengi/penga
+- live → levom/leve
+- Norwegian → norsk
+
+2. Most concepts are covered in vocabulary or examples. 
+
+3. For concepts not directly found:
+- namesake → can use brat (brother) as seen in examples
+- salt meat → can construct as "salt govedina"
+- wheat flour → use "bjelaja moka" as seen in examples
+- rye flour → use "tjornoja moka" as seen in examples
+
+4. Grammar patterns from examples show:
+- SVO word order
+- "paa" as universal preposition
+- Simple verb forms with -om suffix
+- No complex tenses
+- Question words at start
+- Possessives with "paa"
+</thinking>
+
+<final_answer>
+1. Burman grot råbotom
+2. Burman, tros lita stannom
+3. Da, grot sanfærdi, nietsjevaa
+4. Da, da, moja kopom altsamma, davaj på skib kom
+5. Da, da! Davaj på skib kom, brat, på tsjai drikkom
+6. Davaj på moja lita tabaska presentom
+7. No davaj! Tvoja bjelaja moka på halvpart, tjornoja moka på halvpart
+8. På slagom! Subadtka på paltus kak treska vegom, men på moja lita bjelaja moka
+9. Værsego på moja skib tsjai drikkom
+10. Moja gammel go venn Gilbert sprek på moja: tvoja grot rik
+11. På moja grot piksa på treska, lita subadtka på paltuska. Kak pris tvoja betalom?
+12. Kor manga ålenej tvoja fara?
+13. Ist tvoja fiska på moj skib!
+14. Kaki tovara tvoja kopom?
+15. Tvoja kopom sajti, treska, piksa på paltuska?
+16. Kori tvoja ikke moka på moja dast?
+17. Kristus grot vre tvoja ljugom
+18. Kaki tovara på tvoja sellom?
+19. Mange ort moja ikke tvoja smotrom
+20. Moja ikke salt govedina skaffom på den vekkel
+21. Moja ette ort perevoj ras på Norge stannom
+22. Moja på anner kantor, nokka vina drikkom, så nokka lite pjan kom
+23. Moja ska si på ju: kak ju vina trinke, Kristus grot vre
+24. Moja smotrom junka kralom tros
+25. Nogoli daga tvoja rejza på Arkangel otsuda?
+26. No brat, davaj på moja lita trovva
+27. On blir korosjo rybak?
+28. Kapitan grot pjan på kona kludi, kanske på vater kastom
+29. Principal sjisjas på dekk
+30. Tvoja siin bolsjoi junka, krepkii junka
+31. Tvoja kopom fiska på morgen?
+32. Værsego på kajut marsjirom!
+33. Vot moja penga!
+34. Kak ju levom?
+35. Kak sprek po norsk?
+</final_answer>

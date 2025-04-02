@@ -1,0 +1,97 @@
+I'll help translate these Russenorsk sentences into Norwegian. Let me analyze the text first.
+
+<thinking>
+Key concepts/words identified in the text:
+1. burman (man)
+2. grot (big/great)
+3. robotom (work)
+4. zakrepiko (secure/fasten)
+5. trosa (rope)
+6. lita (little)
+7. gran (bit)
+8. nemnozko (little bit)
+9. sainfærdi (true)
+10. schevaa (living)
+11. kopom (buy)
+12. skip (ship)
+13. brat (brother)
+14. tjei (tea)
+15. driki (drink)
+16. tabaska (tobacco)
+17. presentom (present)
+18. muki/moka (flour)
+19. belaja/bjelaja (white)
+20. tjornja (black)
+21. subadtka (small fish)
+22. paltus (halibut)
+23. treska (cod)
+24. kjai (tea)
+25. ven (friend)
+26. piksa (fish)
+27. pris (price)
+28. ålenej (reindeer)
+29. fiska (fish)
+30. paluba (deck)
+31. tovara (goods)
+32. seika (saithe)
+33. mokka (flour)
+34. klådi (clothes)
+35. ljugom (lie)
+36. prodatli (sell)
+37. smotra (look)
+38. govedina (beef)
+39. perevoj (first)
+40. stannom (stay)
+41. pjan (drunk)
+42. junga (young)
+43. kralom (steal)
+44. reisa (travel)
+45. gaima (home)
+46. korosjo (good)
+47. rybak (fisherman)
+48. principal (boss)
+49. marsjirom (march)
+50. pen'ga (money)
+51. leva (live)
+52. sprek (speak)
+
+These words appear to be a mix of simplified Russian and Norwegian, adapted to Russenorsk phonology and morphology.
+</thinking>
+
+<final_answer>
+1. Mannen arbeider mye
+2. Mannen fester tauet litt grann
+3. Ja det er sant, så lever ikke
+4. Ja, ja - jeg kjøper alt, kom på skipet
+5. Ja, ja! Kom på skipet, bror, og drikk te
+6. Her er min lille tobakk som gave
+7. Se! Halvparten hvit mel, halvparten svart
+8. Se! Småfisk og kveite som torsk, men jeg har lite, lite hvit mel
+9. Kom på mitt skip og drikk te
+10. Gilbert, gamle gode venn snakker om at du er blitt rik
+11. Jeg har stor fisk og torsk, litt småfisk og kveite. Hva er din pris?
+12. Hvor mange reinsdyr har du reist med?
+13. Legg din fisk på mitt dekk!
+14. Hvilke varer kjøpte du?
+15. Kjøper du sei, torsk, fisk og kveite?
+16. Hvorfor har du ikke mine melklær?
+17. Kristus er veldig sint, du lyver
+18. Hvordan solgte du det?
+19. I mange år har jeg ikke sett deg
+20. Jeg har ikke kjøtt denne uken
+21. Jeg blir første gang i Norge
+22. Jeg var på det andre kontoret, drakk litt vin, så ble jeg litt full
+23. Jeg skal si deg: når du drikker vin, blir Kristus veldig sint
+24. Jeg ser gutten stjeler tau
+25. Hvor mange dager reiser du til Arkhangelsk herfra?
+26. Nå hjemme kanskje tror på gaven
+27. Han blir en god fisker?
+28. Sjefen er veldig full og har på kona klær, jeg kaster ham kanskje i vannet
+29. Sjefen er nå på dekk
+30. Din sønn er en stor gutt, sterk gutt
+31. Kjøper du fisk i morgen?
+32. Gå til lugaren!
+33. Her er mine penger!
+34. Hvordan lever du?
+35. Hvordan snakker du norsk?
+</final_answer>

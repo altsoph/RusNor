@@ -1,0 +1,76 @@
+Let me help translate these Russenorsk sentences into Norwegian by following the given instructions.
+
+<thinking>
+First, let's analyze some key patterns from the examples and input text:
+
+Common patterns observed:
+1. "grot" = "stor/veldig" (big/very)
+2. "paa" = general preposition (on/to/at/in)
+3. "moja/tvoja" = I/you possessive
+4. "-om" suffix for verbs
+5. "davai" = "let's/come"
+6. "kak" = "how"
+7. "njet" = "ikke" (not)
+
+Key vocabulary from input:
+- burman = worker/laborer
+- robotom = work
+- trosa = rope
+- kopom = buy
+- skip = ship
+- brat = brother
+- tjei/chai = tea
+- presentom = present/give
+- muki/moka = flour
+- belaja = white
+- tjornja = black
+- piksa = fish
+- treska = cod
+- kladi = clothes
+- vina = wine
+- prodatli = sell
+- stannom = stay
+- reisa = travel
+- pen'ga = money
+- sprek = speak
+
+The sentences follow typical Russenorsk grammar patterns with SVO order and simplified morphology.
+</thinking>
+
+<final_answer>
+1. Arbeideren jobber mye
+2. Arbeideren strammer tauet litt
+3. Ja det er sant, så det gjør ingenting
+4. Ja, ja - jeg kjøper alt, kom til skipet
+5. Ja, ja! Kom til skipet, bror, for å drikke te
+6. La meg gi deg litt tobakk som gave
+7. Kom! Mel halvparten hvit, halvparten svart
+8. Kom! Kveite og kveite som torsk, men hos meg lite, lite, hvitt mel
+9. La oss drikke te på mitt skip
+10. Gilbert, gamle gode venn snakker til meg, du er veldig rik
+11. Hos meg stor fisk og torsk, litt kveite og kveite. Hva er prisen din?
+12. Hvor mange reinsdyr har du reist med
+13. Legg fisken din på dekket mitt!
+14. Hvilke varer kjøpte du?
+15. Kjøper du sei, torsk, hyse og kveite?
+16. Hvorfor har du ikke på deg mine klær?
+17. Kristus er veldig sint, du lyver
+18. Hvordan selger du?
+19. Hvor mange år har jeg ikke sett deg
+20. Jeg spiser ikke kjøtt denne uken
+21. Jeg har vært første gang i Norge
+22. Jeg var på et annet kontor, drakk litt vin, så ble jeg litt full
+23. Jeg skal si deg: når du drikker vin, blir Kristus veldig sint
+24. Jeg ser gutten stjele tau
+25. Hvor mange dager reiser du til Arkhangelsk herfra
+26. Nå får du kanskje tro på gaven
+27. Han blir en god fisker?
+28. Sjefen er full og har på seg konas klær, jeg kaster ham kanskje i vannet
+29. Sjefen er på dekk nå
+30. Din sønn er en stor gutt, sterk gutt
+31. Kjøper du fisk i morgen?
+32. Vær så god å gå til lugaren!
+33. Her er pengene mine!
+34. Hvordan lever du?
+35. Hvordan snakker man norsk
+</final_answer>

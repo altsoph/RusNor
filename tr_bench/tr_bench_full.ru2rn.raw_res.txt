@@ -1,0 +1,126 @@
+Let me help you translate these sentences following the given instructions.
+
+<thinking>
+1. First, let's identify all concepts needed:
+- рыбак (fisherman) → burman/rybak
+- работать (to work) → råbotom/robotom
+- много (much) → bolsa/grot
+- делать (to make) → not found directly
+- леска (fishing line) → not found directly
+- прочный (strong) → krepkii/sterk
+- верно (true) → sanfærdi
+- ничего (nothing) → nietsjevaa
+- купить (to buy) → kopom/kupi
+- заходить (to come) → kom
+- борт (deck) → dekk/paluba
+- брат (brother) → brat
+- выпить (to drink) → drikkom/trinkom
+- табак (tobacco) → tabaska
+- мука пшеничная (white flour) → bjelaja moka
+- мука ржаная (rye flour) → tjornoja meka
+- сом (catfish) → subaka/subadtka
+- палтус (halibut) → paltus/paltuska
+- треска (cod) → treska/træska
+- чай (tea) → tjai/tjåi
+- старый (old) → stara/gammel
+- добрый (good) → dobra/go
+- друг (friend) → vén
+- богатый (rich) → rik
+- пикша (haddock) → piksa/pikssa
+- цена (price) → pris
+- платить (to pay) → plati/betalom
+- олень (reindeer) → ålenej
+- путешествовать (to travel) → fara/rejza
+- лодка (boat) → båt
+- товар (goods) → tovara/vara
+- принести (to bring) → not found directly
+- Христос (Christ) → Kristus
+- злиться (to be angry) → vre/vred
+- лгать (to lie) → ligom/lugom
+- продать (to sell) → prodai/selle
+- видеть (to see) → smotrom
+- неделя (week) → vekkel/nedel
+- год (year) → ort/år
+- первый (first) → perevoj
+- Норвегия (Norway) → Norge
+- контора (office) → kantor
+- вино (wine) → vina/vin
+- пьяный (drunk) → pjan
+- гневаться (to be angry) → vre
+- мальчик (boy) → pojka/junka
+- красть (to steal) → kralom
+- веревка (rope) → tros/trosa
+- день (day) → dag/daga
+- дорога (way) → not found directly
+- Архангельск (Arkhangelsk) → not found directly
+- тезка (namesake) → not found directly
+- дрова (firewood) → trovva
+- становиться (to become) → bli/blir
+- хороший (good) → go/gut
+- капитан (captain) → kapitan/kaptein
+- бить (to beat) → not found directly
+- жена (wife) → kona/madam
+- бросать (to throw) → kastom
+- вода (water) → vater
+- шкипер (skipper) → not found directly
+- палуба (deck) → paluba/dekk
+- сын (son) → siin
+- большой (big) → bolsa/bolsjoi
+- сильный (strong) → krepkii/sterk
+- рано (early) → not found directly
+- утро (morning) → morgen/utrom
+- каюта (cabin) → kajut/kahytt
+- деньги (money) → diengi/penga
+- поживать (to live) → posjivat
+- называться (to be called) → not found directly
+- по-норвежски (in Norwegian) → po norsk
+
+2. Most concepts are covered by vocabulary or examples. For those that aren't:
+- "делать" → can use "robotom" (work)
+- "леска" → can use "tros" (rope)
+- "Архангельск" → can adapt as "Arkangel" (following phonological rules)
+- "тезка" → can use "brat" (brother)
+- "бить" → can use "kludi" (from examples)
+- "рано" → can use "utrom" (morning)
+- "называться" → can use "heta" (from examples)
+
+Let me proceed with the translation following the grammar rules.
+</thinking>
+
+<final_answer>
+1. Burman grot råbotom
+2. Burman, robotom tros lita gran krepkii
+3. Da, grot sainfærdi, eta nietsjevaa
+4. Da, da - moja kopom altsamma, davai på skip kom
+5. Da, da! Davai på skip kom, brat, på tjai drikkom
+6. Værsågo, davai på moja lita tabaska presentom
+7. Davai! Muki på halvpart bjelaja, på halvpart tjornoja
+8. Davai! Subadtka i paltus kak treska, а у moja mala, mala, bjelaja moka
+9. Værsågo, på moja skip tjai drikkom
+10. Moja gammel go vén Gilbert sprek på moja: tvoja grot rik
+11. På moja bolsjoi piksa og treska, lita subadtka og paltuska. Kak pris tvoja betalom?
+12. Kor manga ålenej tvoja fara?
+13. Tvoja fiska på moja båt!
+14. Kakai tovara tvoja kopom?
+15. Tvoja kopom seiga, treska, piksa og paltuska?
+16. Kor ju ikke på moja mokka klådi?
+17. Kristus grot vre, tvoja ljugom
+18. Kakai tovara tvoja prodai?
+19. Mangoli ort moja njet smotrom tvoja
+20. Moja njet skaffom govedina på den vekkel
+21. Moja ette ort perevoj ras på Norge stannom
+22. Moja på anner kantor nokka vin drikkom, så nokka lite pjan kom
+23. Moja ska si på ju: kak ju vina trinke, Kristus grot vre
+24. Moja smotrom junka kralom tros
+25. Nogoli dag tvoja reisa på Arkangel otsuda?
+26. No brat, davai på moja trovva presentom
+27. On blir go rybak?
+28. Kapitan grot pjan i på kona kludi, kanske på vater kastom
+29. Principal sjisjas på dekk
+30. Tvoja siin bolsjoi junka, krepkii junka
+31. Tvoja kopom fiska på utrom?
+32. Værsågo på kajut marsjirom!
+33. Vot moja penga!
+34. Kak tvoja posjivat?
+35. Kak sprek po norsk?
+</final_answer>

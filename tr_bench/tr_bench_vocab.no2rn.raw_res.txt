@@ -1,0 +1,110 @@
+Let me help translate these sentences into Russenorsk. I'll follow the instructions step by step.
+
+<thinking>
+1. First, let's identify the concepts we need from the input text and match them with vocabulary:
+
+Common words found in vocabulary:
+- fisk/fisker -> fiska/fiskerman
+- arbeide -> råbotom/arbei
+- meget/stor -> bolsa/grot/bolsjoi
+- tross -> tros/trosa
+- ja -> da/jes
+- kjøpe -> kupom/kopom
+- komme -> kom/komma
+- bror -> brat
+- drikke -> drikkom/trinkom
+- te -> te/tjaj
+- tobakk -> tabaska
+- mel -> moka/muka
+- hvete -> bjella mokka
+- rug -> tjomaja
+- steinbit -> stembit
+- kveite -> kveita/paltus
+- torsk -> treska/tosk
+- god -> gut/dobra
+- gammel -> gammal/stara
+- ven -> venn/kamerat
+- rik -> rik
+- hyse -> jossa/piksa
+- båt -> båt
+- varer -> vara/tovara
+- sei -> saika/seika
+- hvorfor -> kak
+- vred -> vred
+- ljuge -> lugom
+- mange -> manga
+- år -> år/ort
+- se -> se/smotrom
+- spise -> spisom
+- uke -> vegel/vikkel
+- første -> perevoj
+- norge -> norge
+- kontor -> kantor
+- vin -> vina
+- full -> pjan
+- gutt -> pojka
+- stjele -> kralom
+- dage -> dag/daga
+- reise -> rejza
+- ved -> trovva
+- kaptein -> kapitan
+- kone -> kona
+- vann -> vater
+- dekk -> dekk
+- sønn -> siin
+- sterk -> sterk
+- morgen -> morgen/utrom
+- kahytt -> kajyt
+- penge -> penga/diengi
+- leve -> levom
+- hete -> ?
+- norsk -> norsk
+
+2. For grammar patterns:
+- Basic word order seems to be Subject-Verb-Object
+- Adjectives precede nouns
+- Limited use of articles
+- Simplified verb forms
+- Limited inflection
+
+3. Missing concepts will use simplified forms of Norwegian or Russian words following Russenorsk phonological patterns.
+
+</thinking>
+
+<final_answer>
+1. fiskerman råbotom bolsa
+2. fiskerman, på tros lite fast
+3. da, bolsa pravda, eta njet skade
+4. da, da, moja kupom all, værsego kom på båt
+5. da, da! værsego kom på båt, brat, og drikkom tjaj
+6. værsego dast moja lite tabaska
+7. men ladi. du få hal bjella mokka og hal tjomaja mokka
+8. ladi! stembit og kveita vægom kak treska, men på moja har lite bjella mokka
+9. værsego drikkom tjaj på båt på moja
+10. moja gammal dobra venn hilbert snakkom, at du være bolsa rik
+11. moja har grot piksa og treska, lite stembit og malenka kveita. kaki pris betalom du?
+12. på mangoli olen rejza du
+13. være tvoja fiska på moja båt!
+14. kaki vara vil du kupom?
+15. kupom oni saika, treska, piksa og kveita
+16. pocemu njet bringom du moja mokka?
+17. kristus være bolsa vred fordi du lugom
+18. kaki vara har du på sælom
+19. manga ort moja njet smotrom du
+20. moja njet spisom salt mjaso på eta vegel
+21. moja være på eta ort perevoj ras på norge
+22. moja være på drogoj kantor, drikkom nekke vina; så bli moja lite pjan
+23. moja snakkom du: kogda du drikkom vina, kristus være bolsa vred
+24. moja smotrom, pojka kralom tros
+25. kor manga daga har du brugom på rejza från archangel og hit
+26. nå brat, dast moja lite trovva
+27. han ska bli dobra fiskerman?
+28. kapitan være bolsa pjan og slåom kona, og kanske kastom han ona på vater
+29. skipman kom snart på dekk
+30. tvoja siin bli bolsa pojka, sterk pojka
+31. du kupom fiska på morgen?
+32. værsego gå ned på kajyt!
+33. vot tvoja penga moja!
+34. kak levom du?
+35. kak kalla eta på norsk
+</final_answer>

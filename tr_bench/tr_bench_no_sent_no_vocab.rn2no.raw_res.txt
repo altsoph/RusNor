@@ -1,0 +1,55 @@
+I'll help translate these Russenorsk sentences into Norwegian. Let me analyze the text step by step.
+
+<thinking>
+Key concepts identified in the text:
+1. Basic verbs: grot (big/very), sprek (speak), drikkom (drink), smotrom (look), kastom (throw)
+2. Maritime terms: skip (ship), paluba (deck), rybak (fisherman)
+3. Trade items: treska (cod), piksa (fish), moka/mokka (flour)
+4. Pronouns: moja (I/my), tvoja (you/your), on (he)
+5. Common words: dag (day), aar (year), pen'ga (money)
+6. Locations: Norge (Norway), Archangel
+7. Beverages: vin (wine)
+8. People: principal (boss), junga (young sailor)
+9. Numbers and quantities: manga (many), lite (little)
+10. Connectors: i (and), paa (on/at/to)
+
+Most of these words have clear Norwegian or Russian origins, and their meanings can be determined from context and the pidgin's typical usage patterns.
+</thinking>
+
+<final_answer>
+1. Mannen snakker med roboten
+2. Mannen fester tauet litt hardere
+3. Ja, veldig sant, så ikke dårlig
+4. Ja, ja - kjøper alt sammen, kom om bord i skipet
+5. Ja, ja! Kom om bord i skipet, bror, for å drikke te
+6. Her er min lille tobakk som gave
+7. Se! Mel halvparten hvit, halvparten svart
+8. Se! Uer og kveite som torsk, men jeg har lite, lite, hvitt mel
+9. Kom på mitt skip for å drikke te
+10. Gilbert, gamle gode venn snakker om at jeg er blitt veldig rik
+11. Hos meg stor fisk og torsk, litt uer og kveite. Hva er prisen på dine?
+12. Hvor mange reinsdyr har du reist med
+13. Legg fisken din på dekket mitt!
+14. Hvilke varer har du kjøpt?
+15. Kjøper du sei, torsk, hyse og kveite?
+16. Hvorfor kjøper du ikke mitt mel klær?
+17. Kristus er veldig sint, du lyver
+18. Hvordan solgte du det
+19. I mange år har jeg ikke sett deg
+20. Jeg har ikke kjøtt denne uken
+21. Jeg kommer til Norge for første gang
+22. Jeg var på den andre siden, drakk litt vin, så ble jeg litt full
+23. Jeg skal si deg: når du drikker vin, blir Kristus veldig sint
+24. Jeg ser den unge gutten stjele tau
+25. Hvor mange dager reiser du til Arkhangelsk herfra
+26. Nå kan vi kanskje stole på gaven
+27. Han blir en god fisker?
+28. Sjefen er veldig full og på konens klær, jeg kaster kanskje i vannet
+29. Sjefen er nå på dekk
+30. Din sønn er en stor gutt, sterk gutt
+31. Kjøper du fisk i morgen?
+32. Gå til lugaren!
+33. Her er pengene mine!
+34. Hvordan har du det?
+35. Hvordan snakker du norsk
+</final_answer>

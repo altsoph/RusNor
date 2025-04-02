@@ -1,0 +1,317 @@
+[
+    {
+        "russenorsk": "burman grot robotom",
+        "norwegian": "fiskeren arbeider meget",
+        "russian": "рыбак много работает",
+        "ru2rn": "Rybak grot robotom",
+        "rn2no": "Arbeideren jobber mye",
+        "no2rn": "Rusman grot robotom",
+        "rn2ru": "Матрос много работает"
+    },
+    {
+        "russenorsk": "burman zakrepiko trosa lita gran’ nemnozko",
+        "norwegian": "fisker, gjør trossen litt fast",
+        "russian": "рыбак, сделай леску немного прочнее",
+        "ru2rn": "Rybak, tros lita gran' krepki kladi",
+        "rn2no": "Arbeideren strammer tauet litt",
+        "no2rn": "Rusman, davaj tros lita gran krepkom",
+        "rn2ru": "Матрос закрепи трос немного"
+    },
+    {
+        "russenorsk": "da grot sainfærdi, tak njet schevaa",
+        "norwegian": "ja meget sandt, det gjør ingenting",
+        "russian": "да, совершенно верно, это ничего не дает",
+        "ru2rn": "Da, grot sainfærdi, tak njet schevaa",
+        "rn2no": "Ja det er sant, så det gjør ingenting",
+        "no2rn": "Da, grot sanfærdi, tak njet schevaa",
+        "rn2ru": "Да, очень правда, так ничего"
+    },
+    {
+        "russenorsk": "da, da — maaja kopom altsamma, davai paa skip kom",
+        "norwegian": "ja, ja, jeg kjøper alt, værsaagod at komme ombord",
+        "russian": "да-да, я все куплю, пожалуйста, заходите на борт",
+        "ru2rn": "Da, da - moja kopom altsamma, davai paa skip kom",
+        "rn2no": "Ja, ja - jeg kjøper alt, kom til skipet",
+        "no2rn": "Da, da, moja kopom altsamma, davaj paa skib kom",
+        "rn2ru": "Да, да — я куплю всё, давай на корабль приходи"
+    },
+    {
+        "russenorsk": "da, da! davai paa skip kom, brat, paa tjei driki",
+        "norwegian": "ja, ja! yærsaagod kom ombord, bror, og drik the",
+        "russian": "да, да! поднимайся на борт, брат, и выпей",
+        "ru2rn": "Da, da! Davai paa skip kom, brat, paa tjai driki",
+        "rn2no": "Ja, ja! Kom til skipet, bror, for å drikke te",
+        "no2rn": "Da, da! Davaj paa skib kom, brat, paa tjaj drikkom",
+        "rn2ru": "Да, да! Давай на корабль приходи, брат, чай пить"
+    },
+    {
+        "russenorsk": "davai paa moia malenka tabaska presentom",
+        "norwegian": "vær saa snild give mig lidt tobak",
+        "russian": "пожалуйста, дай мне немного табака",
+        "ru2rn": "Davai paa moja malenka tabaska presentom",
+        "rn2no": "La meg gi deg litt tobakk som gave",
+        "no2rn": "Værsågo, lita tabak på presentom",
+        "rn2ru": "Давай подарю тебе немного табака"
+    },
+    {
+        "russenorsk": "davai! muki på halvpart belaja, på halvpart tjornja",
+        "norwegian": "men la gå. du får halvparten hvetemel og halvparten rugmel",
+        "russian": "но отпусти. вы получаете половину пшеничной муки и половину ржаной муки.",
+        "ru2rn": "Davai! Moka paa halvpart bjelaja, paa halvpart tjornaja",
+        "rn2no": "Kom! Mel halvparten hvit, halvparten svart",
+        "no2rn": "Davaj! Moka på halvpart bjelaja, på halvpart tjornaja",
+        "rn2ru": "Давай! Муки наполовину белой, наполовину чёрной"
+    },
+    {
+        "russenorsk": "davai! subadtka i paltus как treska, а у moja mala, mala, bjelaja moka",
+        "norwegian": "la gå! steinbit og kveite veies som torsk, men hos meg har jeg lite hvetemel",
+        "russian": "давай! сом и палтус весят столько же, сколько треска, но пшеничной муки у меня мало.",
+        "ru2rn": "Davai! Subadtka i paltus kak treska, a u moja mala, mala, bjelaja moka",
+        "rn2no": "Kom! Kveite og kveite som torsk, men hos meg lite, lite, hvitt mel",
+        "no2rn": "Davaj! Jossa på treska væsitom, men på moja lita bjelaja moka",
+        "rn2ru": "Давай! Зубатка и палтус как треска, а у меня мало, мало белой муки"
+    },
+    {
+        "russenorsk": "dåvåj paa moja skib kjai drikkom",
+        "norwegian": "vær saa god at drikke te om bord hos mig",
+        "russian": "пожалуйста, выпейте чай на борту со мной.",
+        "ru2rn": "Davai paa moja skip tjai drikkom",
+        "rn2no": "La oss drikke te på mitt skip",
+        "no2rn": "Værsågo på moja skib tjaj drikkom",
+        "rn2ru": "Давай на мой корабль чай пить"
+    },
+    {
+        "russenorsk": "gilbert, gammel gо ven sprek på måja tvåja grot rik",
+        "norwegian": "min gamle gode ven hilbert har fortalt mig, at du er meget rik",
+        "russian": "мой старый добрый друг гильберт сказал мне, что ты очень богат.",
+        "ru2rn": "Gilbert, gammel go ven, sprek paa moja: tvoja grot rik",
+        "rn2no": "Gilbert, gamle gode venn snakker til meg, du er veldig rik",
+        "no2rn": "Moja gammel go ven Gilbert sprek: tvoja grot rik",
+        "rn2ru": "Гилберт, старый добрый друг говорит со мной, ты очень богатый"
+    },
+    {
+        "russenorsk": "hos moja bolsjoi piksa og treska, lite subadtka og paltuska. kak pris på tvøya?",
+        "norwegian": "jeg har stor hyse og torsk, litt steinbit og småkveite. hvilken pris betaler du?",
+        "russian": "у меня есть крупная пикша и треска, немного сома и небольшой палтус. какую цену вы платите?",
+        "ru2rn": "Hos moja bolsjoi piksa og treska, lite subadtka og paltuska",
+        "rn2no": "Hos meg stor fisk og torsk, litt kveite og kveite",
+        "no2rn": "På moja grot piksa på treska, lita jossa på paltus",
+        "rn2ru": "У меня большая пикша и треска, немного зубатки и палтуса"
+    },
+    {
+        "russenorsk": "hår manga ålenej du fara",
+        "norwegian": "med huru många renar reser du",
+        "russian": "со сколькими оленями вы путешествуете?",
+        "ru2rn": "Har manga ålenej du fara?",
+        "rn2no": "Hvor mange reinsdyr har du reist med",
+        "no2rn": "Mangoli olen på tvoja rejsa?",
+        "rn2ru": "Сколько оленей ты везёшь"
+    },
+    {
+        "russenorsk": "ist tvoja fiska na moj paluba!",
+        "norwegian": "er din fisk på min båt!",
+        "russian": "твоя рыба в моей лодке!",
+        "ru2rn": "Ist tvoja fiska na moj paluba!",
+        "rn2no": "Legg fisken din på dekket mitt!",
+        "no2rn": "Tvoja fiska på moja skib!",
+        "rn2ru": "Положи свою рыбу на мою палубу!"
+    },
+    {
+        "russenorsk": "kakai tovara kopisli?",
+        "norwegian": "hvadslags varer vil du kjøpe?",
+        "russian": "какие товары вы хотите купить?",
+        "ru2rn": "Kakai tovara kopisli?",
+        "rn2no": "Hvilke varer kjøpte du?",
+        "no2rn": "Kaki tovara tvoja kopom?",
+        "rn2ru": "Какой товар купили?"
+    },
+    {
+        "russenorsk": "kjøp i seika, træska, tiksa aa balduska?",
+        "norwegian": "kjøber de sei, torsk, hyse og kveite",
+        "russian": "вы покупаете сей, треску, пикшу и палтус.",
+        "ru2rn": "Tvoja kopom seika, treska, piksa i paltus?",
+        "rn2no": "Kjøper du sei, torsk, hyse og kveite?",
+        "no2rn": "Kopom tvoja saika, treska, piksa på paltus?",
+        "rn2ru": "Купишь сайду, треску, тикшу и палтуса?"
+    },
+    {
+        "russenorsk": "kor ju ikke paa moja mokka klådi?",
+        "norwegian": "hvorfor bragte du mig ikke mel?",
+        "russian": "почему ты не принес мне муки?",
+        "ru2rn": "Kor ju ikke paa moja moka kladi?",
+        "rn2no": "Hvorfor har du ikke på deg mine klær?",
+        "no2rn": "Kor tvoja njet moka på moja kladi?",
+        "rn2ru": "Почему ты не берёшь мою муку?"
+    },
+    {
+        "russenorsk": "kristus grot vrei, tvoja ljugom",
+        "norwegian": "kristus er svært vred fordi du ljuger",
+        "russian": "христос очень злится, потому что ты лжешь",
+        "ru2rn": "Kristus grot vre, tvoja ljugom",
+        "rn2no": "Kristus er veldig sint, du lyver",
+        "no2rn": "Kristus grot vre på tvoja lugom",
+        "rn2ru": "Христос очень сердит, ты врёшь"
+    },
+    {
+        "russenorsk": "kåk våra ju prodatli",
+        "norwegian": "hvad varer har du at sælge",
+        "russian": "какие товары вам нужно продать",
+        "ru2rn": "Kakai tovara tvoja prodatli?",
+        "rn2no": "Hvordan selger du?",
+        "no2rn": "Kaki tovara på tvoja prodaj?",
+        "rn2ru": "Как твои продажи"
+    },
+    {
+        "russenorsk": "mangoli aar måja njet småtrom tvåja",
+        "norwegian": "mange år har jeg ikke seet dig",
+        "russian": "много лет я не видел тебя",
+        "ru2rn": "Mangoli aar moja njet smotrom tvoja",
+        "rn2no": "Hvor mange år har jeg ikke sett deg",
+        "no2rn": "Mangoli år moja njet smotrom tvoja",
+        "rn2ru": "Сколько лет я тебя не видел"
+    },
+    {
+        "russenorsk": "mgja njét skaffom govedina paa den vekkel",
+        "norwegian": "jeg spiser ikke saltkjøtt i denne uke",
+        "russian": "я не ем соленое мясо на этой неделе",
+        "ru2rn": "Moja njet skaffom govedina paa den vekkel",
+        "rn2no": "Jeg spiser ikke kjøtt denne uken",
+        "no2rn": "Moja njet skaffom govedina paa den vekkel",
+        "rn2ru": "Я не буду есть говядину на этой неделе"
+    },
+    {
+        "russenorsk": "moja ette ort perevoj ras paa norge stannom",
+        "norwegian": "jeg er iaar for første gang i norge",
+        "russian": "в этом году я впервые в норвегии.",
+        "ru2rn": "Moja ette ort perevoj ras paa Norge stannom",
+        "rn2no": "Jeg har vært første gang i Norge",
+        "no2rn": "Moja ette ort perevoj ras paa Norge stannom",
+        "rn2ru": "Я после первого раза в Норвегии стою"
+    },
+    {
+        "russenorsk": "moja paa ånder kantor, nokka vin drikkom, saa nokka lite pjan kom",
+        "norwegian": "jeg var paa et andet kontor, drak noget vin; saa blev jeg litt fuld",
+        "russian": "я был в другой конторе и пил вино; потом я немного напился",
+        "ru2rn": "Moja paa ander kantor, nokka vin drikkom, saa nokka lite pjan kom",
+        "rn2no": "Jeg var på et annet kontor, drakk litt vin, så ble jeg litt full",
+        "no2rn": "Moja paa anner kantor, nokka vin drikkom, saa nokka lite pjan kom",
+        "rn2ru": "Я в другой конторе, немного вина пью, так немного пьяный стал"
+    },
+    {
+        "russenorsk": "moja ska si paa ju: как ju vina trinke, kristus grot vre",
+        "norwegian": "jeg skal si dig: naar du drikker vin, er kristus meget vred",
+        "russian": "я вам скажу: когда вы пьете вино, христос очень гневается",
+        "ru2rn": "Moja ska si paa ju: kak ju vina trinke, Kristus grot vre",
+        "rn2no": "Jeg skal si deg: når du drikker vin, blir Kristus veldig sint",
+        "no2rn": "Moja ska si paa ju: kak ju vina trinke, Kristus grot vre",
+        "rn2ru": "Я тебе скажу: как ты вино пьёшь, Христос очень сердится"
+    },
+    {
+        "russenorsk": "moja smotrom junga kralom tros",
+        "norwegian": "jeg så, det, gutten stjal trossen",
+        "russian": "я видел, что мальчик украл веревку",
+        "ru2rn": "Moja smotrom pojka kralom tros",
+        "rn2no": "Jeg ser gutten stjele tau",
+        "no2rn": "Moja smotrom junka kralom tros",
+        "rn2ru": "Я видел юнгу крадущего трос"
+    },
+    {
+        "russenorsk": "nogoli dag tvåja reisa på arckangel otsuda",
+        "norwegian": "hvor mange dage har du brugt på reisen fra archangel og hertil",
+        "russian": "сколько дней вы потратили на дорогу из архангельска сюда?",
+        "ru2rn": "Nogoli dag tvoja reisa på Arkangel otsuda?",
+        "rn2no": "Hvor mange dager reiser du til Arkhangelsk herfra",
+        "no2rn": "Mangoli dag tvoja reisa på Arkangel otsuda?",
+        "rn2ru": "Сколько дней ты едешь в Архангельск отсюда"
+    },
+    {
+        "russenorsk": "nå gaima kanskje trovva på presentom",
+        "norwegian": "nå navnebror, gi meg litt ved",
+        "russian": "а теперь тезка, дай мне немного дров",
+        "ru2rn": "No davai, brat, lita gran' presentom",
+        "rn2no": "Nå får du kanskje tro på gaven",
+        "no2rn": "Nå brat, davaj lita drov",
+        "rn2ru": "На, возьми может верёвку в подарок"
+    },
+    {
+        "russenorsk": "on blir korosjo rybak?",
+        "norwegian": "han skal bli en god fisker?",
+        "russian": "станет ли он хорошим рыбаком?",
+        "ru2rn": "On blir korosjo rybak?",
+        "rn2no": "Han blir en god fisker?",
+        "no2rn": "On blir korosjo rybak?",
+        "rn2ru": "Он будет хороший рыбак?"
+    },
+    {
+        "russenorsk": "principal grot pjan i på kåna kludi, ja kanske på vater kastom",
+        "norwegian": "kapteinen var svært full og slo kona, og kanskje kasta han henne i vannet",
+        "russian": "капитан был сильно пьян и избил жену, а возможно, и бросил ее в воду",
+        "ru2rn": "Principal grot pjan i paa kona kludi, ja kanske paa vater kastom",
+        "rn2no": "Sjefen er full og har på seg konas klær, jeg kaster ham kanskje i vannet",
+        "no2rn": "Principal grot pjan på kona kludi, kanske på vater kastom",
+        "rn2ru": "Начальник очень пьяный и на жену кричит, я может в воду брошу"
+    },
+    {
+        "russenorsk": "prinsipal sjisjas på dekk",
+        "norwegian": "skipperen kommer snart på dekk",
+        "russian": "шкипер скоро выйдет на палубу",
+        "ru2rn": "Prinsipal sjisjas på dekk",
+        "rn2no": "Sjefen er på dekk nå",
+        "no2rn": "Principal sjisjas på dekk",
+        "rn2ru": "Начальник сейчас на палубе"
+    },
+    {
+        "russenorsk": "tvoja siin bosjoi junka, krepkii junka",
+        "norwegian": "din sønn er blitt en stor gut, sterk gut",
+        "russian": "твой сын стал большим мальчиком, сильным мальчиком",
+        "ru2rn": "Tvoja siin bosjoi junka, krepkii junka",
+        "rn2no": "Din sønn er en stor gutt, sterk gutt",
+        "no2rn": "Tvoja siin bosjoi junka, krepkii junka",
+        "rn2ru": "Твой сын большой парень, крепкий парень"
+    },
+    {
+        "russenorsk": "tyi kopite ryiba på morgen?",
+        "norwegian": "du kjøper fisk på morgenkvisten?",
+        "russian": "вы покупаете рыбу рано утром?",
+        "ru2rn": "Tyi kopite ryiba på morgen?",
+        "rn2no": "Kjøper du fisk i morgen?",
+        "no2rn": "Tvoja kopite fiska på morgen?",
+        "rn2ru": "Ты купишь рыбу завтра?"
+    },
+    {
+        "russenorsk": "varsegо paa kajuta marsjirom!",
+        "norwegian": "vær saa god at gaa ned i kahytten!",
+        "russian": "пожалуйста, спуститесь в каюту!",
+        "ru2rn": "Varsego paa kajuta marsjirom!",
+        "rn2no": "Vær så god å gå til lugaren!",
+        "no2rn": "Varsego paa kajuta marsjirom!",
+        "rn2ru": "Пожалуйста, в каюту иди!"
+    },
+    {
+        "russenorsk": "vot moja pen’ga imej!",
+        "norwegian": "her har du pengene mine!",
+        "russian": "вот мои деньги!",
+        "ru2rn": "Vot moja djengi!",
+        "rn2no": "Her er pengene mine!",
+        "no2rn": "Vot moja penga imej!",
+        "rn2ru": "Вот мои деньги имею!"
+    },
+    {
+        "russenorsk": "как ju leva?",
+        "norwegian": "hvorledes lever de?",
+        "russian": "как поживаешь?",
+        "ru2rn": "Kak ju leva?",
+        "rn2no": "Hvordan lever du?",
+        "no2rn": "Kak tvoja levom?",
+        "rn2ru": "Как живёшь?"
+    },
+    {
+        "russenorsk": "как sprek po norsk",
+        "norwegian": "hvad heter det på norsk",
+        "russian": "как это называется по-норвежски?",
+        "ru2rn": "Kak sprek po norsk?",
+        "rn2no": "Hvordan snakker man norsk",
+        "no2rn": "Kak sprek po norsk?",
+        "rn2ru": "Как говорить по-норвежски"
+    }
+]

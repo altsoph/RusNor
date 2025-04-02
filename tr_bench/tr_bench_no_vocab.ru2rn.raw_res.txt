@@ -1,0 +1,78 @@
+Let me solve this step by step.
+
+<thinking>
+1. Analyzing concepts needed:
+- рыбак (fisherman) → found in examples: "rybak"
+- работать (work) → found: "robotom"
+- леска (fishing line) → similar to "tros" in examples
+- прочный (strong) → found: "krepkii"
+- верно (true) → found: "sainfærdi"
+- купить (buy) → found: "kopom"
+- подниматься (come up) → found: "kom"
+- борт (ship) → found: "skip"
+- табак (tobacco) → found: "tabaska"
+- мука (flour) → found: "moka" (bjelaja/tjornaja)
+- сом, палтус, треска (fish types) → found: "subadtka", "paltus", "treska"
+- чай (tea) → found: "tjai"
+- друг (friend) → found: "ven"
+- богатый (rich) → found: "rik"
+- цена (price) → found: "pris"
+- олень (reindeer) → found: "ålenej"
+- лодка (boat) → found: "båt"
+- товар (goods) → found: "tovara"
+- лгать (lie) → found: "ljugom"
+- видеть (see) → found: "smotrom"
+- красть (steal) → found: "kralom"
+- дрова (firewood) → can use "gran'"
+- шкипер/капитан → found: "kapitan", "principal"
+- пьяный (drunk) → found: "pjan"
+- бить (beat) → found: "kludi"
+- сын (son) → found: "pojka"
+- деньги (money) → found: "djengi"
+- называться (be called) → can use "sprek"
+
+2. Grammar patterns found:
+- Questions with "kak", "nogoli"
+- Negation with "njet"
+- Universal preposition "paa"
+- Verb suffix "-om"
+- Possession with "paa moja/tvoja"
+</thinking>
+
+<final_answer>
+1. Rybak grot robotom
+2. Rybak, tros lita gran' krepki kladi
+3. Da, grot sainfærdi, tak njet schevaa
+4. Da, da - moja kopom altsamma, davai paa skip kom
+5. Da, da! Davai paa skip kom, brat, paa tjai driki
+6. Davai paa moja malenka tabaska presentom
+7. Davai! Moka paa halvpart bjelaja, paa halvpart tjornaja
+8. Davai! Subadtka i paltus kak treska, a u moja mala, mala, bjelaja moka
+9. Davai paa moja skip tjai drikkom
+10. Gilbert, gammel go ven, sprek paa moja: tvoja grot rik
+11. Hos moja bolsjoi piksa og treska, lite subadtka og paltuska. Kak pris?
+12. Har manga ålenej du fara?
+13. Ist tvoja fiska na moj paluba!
+14. Kakai tovara kopisli?
+15. Tvoja kopom seika, treska, piksa i paltus?
+16. Kor ju ikke paa moja moka kladi?
+17. Kristus grot vre, tvoja ljugom
+18. Kakai tovara tvoja prodatli?
+19. Mangoli aar moja njet smotrom tvoja
+20. Moja njet skaffom govedina paa den vekkel
+21. Moja ette ort perevoj ras paa Norge stannom
+22. Moja paa ander kantor, nokka vin drikkom, saa nokka lite pjan kom
+23. Moja ska si paa ju: kak ju vina trinke, Kristus grot vre
+24. Moja smotrom pojka kralom tros
+25. Nogoli dag tvoja reisa på Arkangel otsuda?
+26. No davai, brat, lita gran' presentom
+27. On blir korosjo rybak?
+28. Principal grot pjan i paa kona kludi, ja kanske paa vater kastom
+29. Prinsipal sjisjas på dekk
+30. Tvoja siin bosjoi junka, krepkii junka
+31. Tyi kopite ryiba på morgen?
+32. Varsego paa kajuta marsjirom!
+33. Vot moja djengi!
+34. Kak ju leva?
+35. Kak sprek po norsk?
+</final_answer>

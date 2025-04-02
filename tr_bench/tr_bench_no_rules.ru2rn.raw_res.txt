@@ -1,0 +1,110 @@
+Let me help translate these sentences into Russenorsk. I'll follow the instructions step by step.
+
+<thinking>
+1. First, let's identify the concepts we need from the input text:
+- рыбак (fisherman) -> burman, rybak
+- много (much) -> grot, bolsa
+- работать (to work) -> råbotom, robotom
+- делать (to make) -> no direct equivalent, can use verb construction
+- леска (fishing line) -> trosa (rope, cable)
+- прочный (strong) -> krepkii, sterk
+- верно (true) -> sainfærdi
+- ничего (nothing) -> njet, nietsjevaa
+- купить (to buy) -> kopom, kupi
+- заходить (to come) -> kom
+- борт (ship, deck) -> skip, dekk
+- брат (brother) -> brat
+- выпить (to drink) -> drikkom, trinkom
+- табак (tobacco) -> tabaska
+- мука (flour) -> mokka, muka
+- пшеничный (white) -> bjelaja
+- ржаной (black) -> tjornoja
+- сом (catfish) -> subadtka
+- палтус (halibut) -> paltus, balduska
+- треска (cod) -> treska, træska
+- чай (tea) -> tjai, tjåi
+- старый (old) -> gammel, stara
+- добрый (good) -> go, dobra
+- друг (friend) -> venn
+- богатый (rich) -> rik
+- пикша (haddock) -> piksa
+- цена (price) -> pris
+- олень (reindeer) -> ålenej
+- путешествовать (to travel) -> fara
+- рыба (fish) -> fiska, ryba
+- лодка (boat) -> båt
+- товар (goods) -> tovara
+- принести (to bring) -> no direct equivalent
+- Христос (Christ) -> Kristus
+- злиться (angry) -> vre, vred
+- лгать (to lie) -> ljugom, lugom
+- видеть (to see) -> smotrom
+- мальчик (boy) -> pojka, junka
+- украсть (to steal) -> kralom
+- веревка (rope) -> tros, trosa
+- день (day) -> dag, daga
+- дорога (way) -> rejza
+- Архангельск (Arkhangelsk) -> Arkangel
+- тезка (namesake) -> no direct equivalent
+- дрова (firewood) -> trovva
+- становиться (to become) -> blir
+- рыбак (fisherman) -> rybak, burman
+- капитан (captain) -> kapitan, kaptein
+- пьяный (drunk) -> pjan
+- бить (to beat) -> no direct equivalent
+- жена (wife) -> kona, madam
+- бросить (to throw) -> kastom
+- вода (water) -> vater
+- шкипер (skipper) -> principal
+- палуба (deck) -> paluba, dekk
+- сын (son) -> siin
+- большой (big) -> bolsa, grot
+- сильный (strong) -> krepkii, sterk
+- рано (early) -> no direct equivalent
+- утро (morning) -> morgen, utrom
+- каюта (cabin) -> kajut, kahytt
+- деньги (money) -> penga, djengi
+- поживать (to live) -> levom, leva
+- называться (to be called) -> no direct equivalent
+- по-норвежски (in Norwegian) -> på norsk
+
+2. Now I'll construct the translations using these concepts and grammar patterns from the examples.
+</thinking>
+
+<final_answer>
+1. Burman grot robotom
+2. Burman, trosa lita gran krepkii
+3. Da, grot sainfærdi, eta nietsjevaa
+4. Da-da, moja kopom altsamma, davai på skip kom
+5. Da, da! Davai på skip kom, brat, på tjai drikkom
+6. Davai på moja malenka tabaska presentom
+7. Davai! Muki på halvpart bjelaja, på halvpart tjornoja
+8. Davai! Subadtka i paltus kak treska, a u moja mala, mala, bjelaja moka
+9. Værsågo på moja skip tjai drikkom
+10. Moja gammel go venn Gilbert sprek på moja: tvoja grot rik
+11. Hos moja bolsjoi piksa og treska, lite subadtka og paltuska. Kak pris tvoja betalom?
+12. Hår manga ålenej du fara?
+13. Ist tvoja fiska na moj båt!
+14. Kakai tovara kopisli?
+15. Kjøp i seika, træska, piksa å balduska?
+16. Kor ju ikke på moja mokka klådi?
+17. Kristus grot vre, tvoja ljugom
+18. Kak vara ju prodåtli?
+19. Mangoli aar måja njet småtrom tvåja
+20. Moja njet skaffom govedina på den vekkel
+21. Moja ette ort perevoj ras på Norge stannom
+22. Moja på anner kantor, nokka vin drikkom, saa nokka lite pjan kom
+23. Moja ska si på ju: kak ju vina trinke, Kristus grot vre
+24. Moja smotrom junka kralom tros
+25. Nogoli dag tvoja reisa på Arkangel otsuda?
+26. Nå gaima kanskje trovva på presentom
+27. On blir korosjo rybak?
+28. Principal grot pjan i på kona kludi, ja kanske på vater kastom
+29. Principal sjisjas på dekk
+30. Tvoja siin bolsjoi junka, krepkii junka
+31. Tyi kopite ryiba på morgen?
+32. Værsego på kajuta marsjirom!
+33. Vot moja penga!
+34. Kak ju leva?
+35. Kak sprek po norsk?
+</final_answer>

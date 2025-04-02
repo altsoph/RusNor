@@ -1,0 +1,107 @@
+Let me help translate these sentences from Norwegian to Russenorsk. I'll follow the instructions step by step.
+
+<thinking>
+1. First, let's analyze what concepts we have in the vocabulary and examples:
+- work/arbeider -> råbotom/robotom
+- much/very -> grot/bolsa
+- fisherman -> burman/fiskerman
+- rope -> tros/trosa
+- true/truth -> sanfærdi
+- nothing/no harm -> ikke skade/njet
+- buy -> kopom/kupi
+- come -> kom
+- aboard/ship -> på skip
+- brother -> brat
+- drink -> drikkom/trinkom
+- tea -> tjaj/tjai/tsjai
+- tobacco -> tabaska
+- flour -> mokka/muka
+- white -> bjelaja
+- rye -> tjomaja/tjornoja
+- steinbit -> subadtka
+- halibut -> paltus/paltuska
+- cod -> treska/træska
+- good -> go
+- friend -> vén
+- tell -> spræk/skasi
+- rich -> rik
+- big -> bolsa/grot
+- haddock -> piksa/tiksa
+- price -> pris
+- reindeer -> ålenej
+- fish -> fiska/ryba
+- bring -> presentom
+- Christ -> Kristus
+- angry -> vre/vred
+- lie -> lugom/ljugom
+- sell -> prodaj/sælom
+- see -> smotrom
+- eat -> skaffom
+- week -> vekkel
+- year -> ort/år
+- first -> perevoj
+- Norway -> Norge
+- office -> kantor
+- wine -> vina
+- little -> lita/lite
+- drunk -> pjan
+- say -> spræk/skasi
+- boy/son -> pojka/siin
+- steal -> kralom
+- days -> daga
+- travel -> rejza
+- firewood -> trovva
+- captain -> kapitan/kaptein
+- wife -> kona
+- water -> vater
+- deck -> dekk
+- cabin -> kajyt
+- money -> djengi/penga
+- live -> leva/levom
+- name -> heta
+
+2. Grammar patterns from examples:
+- Word order is typically Subject-Object-Verb
+- "på" is used frequently as a general preposition
+- Verbs often end in -om
+- Adjectives usually come after nouns
+- No articles are used
+</thinking>
+
+<final_answer>
+1. Burman grot råbotom
+2. Burman, tros lita zakrepiko
+3. Da, grot sainfærdi, ikke skade
+4. Da, da, moja kopom altsamma, davaj på skip kom
+5. Da, da! Davaj på skip kom, brat, på tjaj drikkom
+6. Værsego på moja lita tabaska presentom
+7. No davaj - tvoja på halvpart bjelaja mokka, på halvpart tjomaja mokka
+8. Davaj! Subadtka på paltus på treska vegom, men hos moja lita bjelaja mokka
+9. Værsego på moja skip tjaj drikkom
+10. Moja gammel go vén Gilbert spræk på moja: tvoja grot rik
+11. Hos moja grot piksa på treska, lita subadtka på paltuska. Kak pris tvoja betalom?
+12. Kor manga ålenej tvoja rejza?
+13. Ist tvoja fiska på moja skip!
+14. Kaki tovara tvoja kopom?
+15. Tvoja kopom sajti, treska, piksa på paltuska?
+16. Kori tvoja ikke mokka på moja presentom?
+17. Kristus grot vre tvoja ljugom
+18. Kaki tovara tvoja prodaj?
+19. Mange ort moja ikke tvoja smotrom
+20. Moja ikke skaffom salt govedina på den vekkel
+21. Moja ette ort perevoj ras på Norge stannom
+22. Moja på anner kantor, nokka vina drikkom, så nokka lite pjan kom
+23. Moja ska si på ju: kak ju vina trinke, Kristus grot vre
+24. Moja smotrom pojka kralom tros
+25. Nogoli daga tvoja rejza på Arkangel otsuda?
+26. No brat, davaj på moja lita trovva presentom
+27. On blir korosjo rybak?
+28. Kapitan grot pjan på kona kludi, kanske på vater kastom
+29. Kapitan sjisjas på dekk kom
+30. Tvoja siin bolsjoi pojka, krepkii pojka
+31. Tvoja kopom fiska på morradag?
+32. Værsego på kajyt marsjirom!
+33. Vot moja penga!
+34. Kak ju leva?
+35. Kak sprek på norsk?
+</final_answer>

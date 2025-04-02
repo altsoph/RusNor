@@ -24,9 +24,8 @@ Analyse this data inside the <vocabulary>, <examples>, <input_text>, <source_lan
 {grammar_rules}
 </grammar_rules>
 
-
 <task>
-Your task is to translate the text from <input_text> tags into Russenorsk strictly following the instruction from <instructions> tags.
+Your task is to translate the numerated list of sentences given inside the <input_text> tags from {source_lang} into {target_lang} strictly following the instruction from <instructions> tags.
 </task>
 
 <instructions>
@@ -35,5 +34,5 @@ Your task is to translate the text from <input_text> tags into Russenorsk strict
 - Now, for each of the rest concepts (which are not covered by the <vocabulary> or <examples>), decide what word from what language should we borrow (based on the <choice_language_instruction>). Write them down.
 - Then, for each of the borrowed word, simplify it to the form natural for Russenorsk, based on the <word_transformation_instruction>. Write them down.
 - Compile the sentences based on <grammar_rules>.
-- Finally, in <final_answer> tag, merge information into the translation, and try to save the original style, rhythm and rhymes if they are exist.
+- Finally, inside the <final_answer> tag, provide the numerated list of translated sentences and nothing else.
 </instructions>

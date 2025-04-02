@@ -1,0 +1,67 @@
+Let me help translate these Russenorsk sentences into Norwegian. I'll follow the instructions step by step.
+
+<thinking>
+Let me analyze some key patterns from the examples and vocabulary:
+
+Common patterns I notice:
+1. Basic sentence structure is typically Subject-Verb-Object
+2. Adjectives come before nouns
+3. Many words are simplified versions of either Norwegian or Russian words
+4. Numbers and measurements are often preserved from source languages
+5. Common verbs like "to be", "to have", "to go" appear frequently
+6. Greetings and common phrases are preserved
+7. Trade/commerce terms are prominent
+
+Key translations I can identify:
+- burman/fisherman -> fisker
+- robotom/work -> arbeide
+- skip/ship -> skip
+- kjai/tea -> te
+- presentom/give as present -> gi
+- moja/I -> jeg
+- tvoja/you -> du
+- grot/very -> veldig
+- sprek/speak -> snakke
+- rik/rich -> rik
+- etc.
+
+Let me proceed with the translations...
+</thinking>
+
+<final_answer>
+1. Fiskeren arbeider mye
+2. Fiskeren festet tauet litt strammere
+3. Ja, det er helt sant, takk det gjør ingenting
+4. Ja, ja - jeg kjøper alt, kom på skipet
+5. Ja, ja! Kom på skipet, bror, og drikk te
+6. La meg gi deg litt tobakk som gave
+7. Kom! Mel halvparten hvit, halvparten svart
+8. Kom! Steinbit og kveite som torsk, men hos meg lite, lite, hvitemel
+9. La oss drikke te på mitt skip
+10. Gilbert, gamle gode venn snakker til meg at du er veldig rik
+11. Hos meg stor hyse og torsk, litt steinbit og kveite. Hva er prisen på din?
+12. Hvor mange reinsdyr har du reist med
+13. Er din fisk på mitt dekk!
+14. Hvilke varer kjøpte du?
+15. Kjøper du sei, torsk, hyse og kveite?
+16. Hvorfor legger du ikke mel på mitt skip?
+17. Kristus er veldig sint, du lyver
+18. Hvilke varer selger du
+19. Hvor mange år har jeg ikke sett deg
+20. Jeg spiser ikke storfekjøtt denne uken
+21. Jeg står dette året første gang i Norge
+22. Jeg var på et annet kontor, drakk litt vin, så ble jeg litt full
+23. Jeg skal si til deg: når du drikker vin, blir Kristus veldig sint
+24. Jeg ser gutten stjeler tau
+25. Hvor mange dager reiser du til Arkhangelsk herfra
+26. Nå gir jeg kanskje ved som gave
+27. Han blir en god fisker?
+28. Kapteinen er veldig full og på kona klær, jeg kaster ham kanskje i vannet
+29. Kapteinen kommer straks på dekk
+30. Din sønn er en stor gutt, sterk gutt
+31. Kjøper du fisk i morgen?
+32. Vær så god å marsjere til lugaren!
+33. Her har jeg penger!
+34. Hvordan lever du?
+35. Hvordan snakker du norsk
+</final_answer>

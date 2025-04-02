@@ -1,0 +1,111 @@
+Let me help translate these sentences following the instructions step by step.
+
+<thinking>
+1. First, let's identify the concepts we need from the input text and match them with vocabulary:
+
+AVAILABLE IN VOCABULARY:
+- рыбак → burman/fiskerman
+- работать → råbotom
+- много → bolsa/grot
+- да → da/jes
+- купить → kupom/kjøp
+- пожалуйста → davai/værsågo
+- борт → (can use "skip" - ship)
+- брат → brat
+- пить/выпить → drikkom/trinkom
+- табак → tabaska/mahorka
+- мука → moka/muka
+- пшеничный → bjella (white)
+- рожь → tjomaja
+- сом → subaka/sobaka
+- палтус → paltus/balda
+- треска → treska/tosk
+- чай → tjai/te
+- друг → venn/kamerat
+- богатый → rik
+- пикша → piksa/tiksa
+- цена → pris/kosta
+- олень → ålenej
+- лодка → båt
+- товар → tovara/vara
+- злой → vred/vrei
+- лгать → lugom/ljugom
+- год → år/ort
+- первый → perevoj
+- Норвегия → Norge
+- вино → vina/vin
+- пьяный → pjan
+- веревка → tros/trosa
+- дрова → trovva
+- капитан → kapitan
+- жена → kona/madam
+- вода → vater
+- палуба → paluba/dekk
+- сын → siin/sønn
+- мальчик → pojka/malinka
+- сильный → sterk/krepkii
+- утро → utrom/morgen
+- каюта → koia/kajyt
+- деньги → diengi/penga
+- как поживаешь → kak posjivat
+- по-норвежски → norsk/norske
+
+NEED TO CREATE/ADAPT:
+- леска (fishing line) → adapt from Norwegian "line" → lina
+- прочный (strong) → use existing "sterk"
+- подниматься (get up) → use existing "stavai"
+- отпустить (let go) → adapt from Norwegian "slippe" → slipom
+- весить (to weigh) → from vocabulary "vågom"
+- старый (old) → from vocabulary "starii"
+- путешествовать (to travel) → from vocabulary "rejza"
+- принести (to bring) → adapt from Norwegian "bringe" → bringom
+- соленый (salted) → adapt from Norwegian "salt" + -i → salti
+- мясо (meat) → adapt from Russian "мясо" → mesa
+- контора (office) → from vocabulary "kantor"
+- украсть (to steal) → from vocabulary "kralom"
+- дорога (road, way) → use "rejza" (journey)
+- тезка (namesake) → adapt from Russian "тезка" → teska
+- бросить (to throw) → adapt from Norwegian "kaste" → kastom
+- шкипер (skipper) → adapt from Norwegian "skipper" → skipper
+- спуститься (go down) → adapt from Norwegian "gå ned" → gånedom
+- называться (to be called) → use "sprækom" (to speak)
+
+</thinking>
+
+<final_answer>
+1. Burman råbotom bolsa
+2. Burman, delai lina mera sterk
+3. Da, pravda, eta ikke davai njet
+4. Da-da, ja kupom alt, værsågo på skip
+5. Da, da! Stavai på skip, brat, og drikkom
+6. Værsågo, dast moja tabaska litt
+7. Men slipom. Du få hal bjella moka og hal tjomaja moka.
+8. Davai! Sobaka og paltus vågom samma på treska, men bjella moka moja lita.
+9. Værsågo, drikkom tjai på skip på moja.
+10. Moja gammel god venn sprækom på moja, at du rik bolsa.
+11. Moja har grot piksa og treska, lita sobaka og lita paltus. Kaki pris du betalom?
+12. Nogoli ålenej du rejza?
+13. Tvoja fisk på moja båt!
+14. Kaki tovara du vil kupom?
+15. Du kupom sei, treska, piksa og paltus.
+16. Kvorfor du ikke bringom moka på moja?
+17. Kristus vred bolsa, fordi du lugom
+18. Kaki tovara du nada prodai
+19. Manga ort ja ikke se tvoja
+20. Ja ikke spisom salti mesa på eta vekkel
+21. På eta ort ja perevoj ras på Norge
+22. Ja var på drogoj kantor og drikkom vina; potom ja bli lita pjan
+23. Ja sprækom på du: kogda du drikkom vina, Kristus vred bolsa
+24. Ja se at pojka kralom trosa
+25. Nogoli dag du rejza från Arkangelsk på eta?
+26. No teska, dast moja lita trovva
+27. Bli han god burman?
+28. Kapitan var bolsa pjan og slogom kona, kanskje kastom han på vater
+29. Skipper snart kom på paluba
+30. Tvoja siin bli grot pojka, sterk pojka
+31. Du kupom fisk på rano utrom?
+32. Værsågo, gånedom på koia!
+33. Vot moja diengi!
+34. Kak du posjivat?
+35. Kak eta sprækom på norsk?
+</final_answer>

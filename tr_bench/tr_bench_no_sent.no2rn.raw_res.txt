@@ -1,0 +1,134 @@
+Let me help translate these sentences following the given instructions.
+
+<thinking>
+1. First, let's identify concepts needed from the input text:
+- fisherman (fiskermann)
+- work (råbotom)
+- much/very (bolsa/grot)
+- fish (fiska/ryba)
+- rope (tros/trosa)
+- make fast (no direct equivalent)
+- true/truth (sanfærdi)
+- nothing (no direct equivalent)
+- buy (kupom)
+- all (no direct equivalent)
+- please (værsego)
+- come (kom)
+- aboard (no direct equivalent)
+- brother (brat)
+- drink (drikkom)
+- tea (tjaj)
+- tobacco (tabaska)
+- let go (no direct equivalent)
+- half (hal)
+- wheat flour (bjella mokka)
+- rye flour (tjomaja mokka)
+- catfish (stembit)
+- halibut (paltus)
+- weigh (vågom)
+- cod (treska)
+- friend (venn/kamerat)
+- rich (rik)
+- haddock (piksa)
+- small (malenka)
+- price (pris)
+- pay (betalom)
+- reindeer (no direct equivalent)
+- travel (rejsa)
+- goods/wares (tovara)
+- why (no direct equivalent)
+- bring (no direct equivalent)
+- Christ (no direct equivalent)
+- angry (vred)
+- lie (lugom)
+- sell (sellom)
+- see (smotrom)
+- eat (spisom)
+- salt meat (no direct equivalent)
+- first time (perevoj)
+- office (kantor)
+- wine (vina)
+- drunk (pjan)
+- boy (pojka)
+- steal (kralom)
+- days (dag/daga)
+- use (bruga)
+- journey (rejsa)
+- Archangel (no direct equivalent)
+- here (no direct equivalent)
+- namesake (no direct equivalent)
+- firewood (trovva)
+- captain (kapitan)
+- wife (kona)
+- throw (no direct equivalent)
+- water (vater)
+- skipper (no direct equivalent)
+- deck (dekk)
+- son (sønn)
+- become (bli)
+- strong (sterk)
+- morning (morgen)
+- cabin (kajyt)
+- money (penga)
+- how (kak)
+- live (levom)
+- what (no direct equivalent)
+- call/name (no direct equivalent)
+- Norwegian (norsk)
+
+2. For missing concepts, we'll adapt:
+- make fast = fast + make → fastom
+- nothing = njet + thing → njet
+- aboard = på + skip → på skip
+- let go = let → letom
+- salt meat = salt + meat → salt kjøt
+- why = for what → på kak
+- bring = give → dast
+- Christ = Kristus → Kristus
+- throw = kast → kastom
+- here = her → her
+- namesake = same name → samme navn
+- skipper = ship + man → skipman
+- morning time = morgen + time → morgentid
+- what = kak
+- call/name = name → namom
+
+</thinking>
+
+<final_answer>
+1. Fiskerman råbotom grot
+2. Fiskerman, fastom tros lita
+3. Da, grot sanfærdi, njet på eta
+4. Da, da! Moja kupom alt, værsego kom på skip
+5. Da, da! Værsego kom på skip, brat, drikkom tjaj
+6. Værsego dast moja lita tabaska
+7. Men letom. Du få hal bjella mokka på hal tjomaja mokka
+8. Letom! Stembit på paltus vågom kak treska, men på moja har lita bjella mokka
+9. Værsego drikkom tjaj på skip på moja
+10. Moja gamla goda kamerat Hilbert snakkom på moja, tvoja være rik grot
+11. Moja har grot piksa på treska, lita stembit på malenka paltus. Kaki pris betalom tvoja?
+12. På nogoli olen rejsa tvoja
+13. Tvoja fiska på moja båt!
+14. Kaki tovara vil tvoja kupom?
+15. Kupom saika, treska, piksa på paltus
+16. På kak njet dast tvoja mokka på moja?
+17. Kristus være vred grot på tvoja lugom
+18. Kaki tovara har tvoja sellom
+19. Manga årt moja njet smotrom tvoja
+20. Moja njet spisom salt kjøt på eta vekkel
+21. Moja være på eta årt perevoj på Norge
+22. Moja være på drogoj kantor, drikkom vina; så bli moja lita pjan
+23. Moja snakkom på tvoja: når tvoja drikkom vina, Kristus være vred grot
+24. Moja smotrom eta, pojka kralom tros
+25. Nogoli daga tvoja bruga på rejsa från Arkangelsk på her
+26. No samme navn, dast moja lita trovva
+27. On ska bli goda fiskerman?
+28. Kapitan være pjan grot på slå kona, på kanske kastom ona på vater
+29. Skipman kom snart på dekk
+30. Tvoja sønn bli grot pojka, sterk pojka
+31. Tvoja kupom fiska på morgentid?
+32. Værsego gå ned på kajyt!
+33. Her har tvoja penga på moja!
+34. Kak levom tvoja?
+35. Kak namom eta på norsk
+</final_answer>

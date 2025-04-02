@@ -1,0 +1,84 @@
+Let me help translate these Russenorsk sentences into Norwegian. I'll follow the instructions step by step.
+
+<thinking>
+First, let's analyze some key patterns in these sentences:
+
+Common words/concepts found in vocabulary:
+- burman (fisherman)
+- robotom (to work)
+- grot (very/big)
+- trosa (rope)
+- lita (little)
+- kopom (to buy)
+- skip (ship)
+- brat (brother)
+- malenka (small)
+- tabaska (tobacco)
+- presentom (to present)
+- muki/mokka (flour)
+- belaja/bjelaja (white)
+- tjornja (black - from Russian чёрный)
+- kjai/tjaj (tea)
+- gammel (old)
+- ven (friend)
+- sprek (speak)
+- tvoja (you/your)
+- rik (rich)
+- piksa (haddock)
+- treska (cod)
+- pris (price)
+- ålenej (reindeer)
+- fara (travel)
+- fiska (fish)
+- paluba (deck)
+- tovara (goods)
+- kristus (Christ)
+- vrei/vred (angry)
+- ljugom (to lie)
+- etc.
+
+Grammar patterns observed:
+- SVO word order
+- Use of "paa" as universal preposition
+- -om suffix for verbs
+- No complex tenses
+- Simple coordination with "saa"
+</thinking>
+
+<final_answer>
+1. Fiskermannen arbeider hardt
+2. Fiskermannen fester tauet litt forsiktig
+3. Ja, det er helt sant, takk det gjør ingenting
+4. Ja, ja - jeg kjøper alt, kom om bord
+5. Ja, ja! Kom om bord, bror, og drikk te
+6. Her er litt tobakk som gave
+7. Vær så god! Mel halvparten hvit, halvparten mørk
+8. Vær så god! Steinbit og kveite som torsk, men hos meg bare litt hvitmel
+9. Kom om bord og drikk te
+10. Gilbert, gamle gode venn, jeg hører du er blitt veldig rik
+11. Hos meg stor hyse og torsk, litt steinbit og kveite. Hva er prisen din?
+12. Hvor mange reinsdyr har du reist med?
+13. Er fisken din på dekket mitt!
+14. Hvilke varer kjøpte du?
+15. Kjøper du sei, torsk, hyse og kveite?
+16. Hvorfor legger du ikke melet mitt?
+17. Kristus er veldig sint, du lyver
+18. Hvilke varer selger du?
+19. Hvor mange år siden jeg så deg sist
+20. Jeg spiser ikke storfekjøtt denne uken
+21. Dette året er første gang jeg er i Norge
+22. Jeg var på et annet kontor, drakk litt vin, så ble jeg litt full
+23. Jeg skal si deg: når du drikker vin, blir Kristus veldig sint
+24. Jeg ser gutten stjeler tauet
+25. Hvor mange dager reiser du til Arkhangelsk herfra?
+26. Nå gir jeg kanskje ved som gave
+27. Han blir en god fisker?
+28. Kapteinen er full og slår kona, jeg kaster ham kanskje i vannet
+29. Kapteinen kommer straks på dekk
+30. Din sønn er en stor gutt, sterk gutt
+31. Kjøper du fisk i morgen?
+32. Marsjer til lugaren!
+33. Her har jeg penger!
+34. Hvordan lever du?
+35. Hvordan snakker du norsk?
+</final_answer>

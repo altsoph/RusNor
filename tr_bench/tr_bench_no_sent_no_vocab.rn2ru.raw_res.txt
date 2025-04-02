@@ -1,0 +1,58 @@
+I'll help translate these Russenorsk sentences into Russian. Let me analyze the text step by step.
+
+<thinking>
+Key concepts identified in the text:
+1. Basic verbs: grot (big/very), sprek (speak), drikkom (drink), smotrom (look), kastom (throw), kopom/kopite (buy)
+2. Maritime terms: skip/skib (ship), paluba (deck), rybak (fisherman)
+3. Trade items: ryba/fiska (fish), mokka (flour), treska (cod), piksa (fish type), vina (wine)
+4. Pronouns: moja (I/my), tvoja/tvåja (you/your), on (he)
+5. Common words: da (yes), njet (no), kak (how), nogoli (how many)
+6. Time/quantity: dag (day), manga (many)
+7. Locations: Norge (Norway), Archangel
+8. People: burman (merchant), principal (boss), junga (young sailor)
+
+Most of these words are clearly derived from Russian or Norwegian, following the pidgin's simplification rules.
+
+For translation to Russian, I'll:
+1. Maintain the basic meaning
+2. Use proper Russian grammar (unlike the pidgin's simplified forms)
+3. Convert pidgin constructions into natural Russian equivalents
+</thinking>
+
+<final_answer>
+1. Купец много работает
+2. Купец крепко привязал немного дров
+3. Да, очень правильно, так не скажешь
+4. Да, да — мы всё купим, давай на корабль идём
+5. Да, да! Давай на корабль идём, брат, чай пить
+6. Давай я подарю тебе немного табака
+7. Давай! Мука наполовину белая, наполовину чёрная
+8. Давай! Палтус и треска одинаковы, а у меня мало белой муки
+9. Давай на мой корабль чай пить
+10. Гилберт, старый добрый друг говорит, что у меня-тебя много денег
+11. У меня много пикши и трески, мало палтуса. Какая у тебя цена?
+12. Сколько оленей ты везёшь?
+13. Выгружай свою рыбу на мою палубу!
+14. Какой товар купили?
+15. Купишь сайду, треску, пикшу и палтуса?
+16. Почему не берёшь мою муку совсем?
+17. Христос сильно рассердится, ты врёшь
+18. Как вы это продали?
+19. Много лет я тебя не видел
+20. У меня нет говядины на этой неделе
+21. Я первый раз в Норвегии остановился
+22. Я в другом месте, немного вина выпил, так немного пьяный стал
+23. Я тебе скажу: как ты вино пьёшь, Христос сильно рассердится
+24. Я смотрю, юнга украл трос
+25. Сколько дней ты отсюда до Архангельска идёшь?
+26. Теперь, наверное, можно верить подарку
+27. Он будет хорошим рыбаком?
+28. Начальник сильно пьян и на жену кричит, я, наверное, в воду брошу
+29. Начальник сейчас на палубе
+30. У тебя сын большой юнга, крепкий юнга
+31. Ты купишь рыбу утром?
+32. Пожалуйста, иди в каюту!
+33. Вот мои деньги есть!
+34. Как поживаешь?
+35. Как говоришь по-норвежски?
+</final_answer>
